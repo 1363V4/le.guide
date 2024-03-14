@@ -21,7 +21,7 @@ les autres humours,
 le personnage, l'intellectuel, le méchant,
 je connais.
 
-bon, j'ai sorti un texte : [lille/inflation.](/autre/sketchs/sketch_1.md)
+bon, j'ai sorti un texte : [lille/inflation.](/autre/sketchs/sketch_1)
 
 je l'ai modifié jusqu'à la dernière minute.
 gros doutes.
