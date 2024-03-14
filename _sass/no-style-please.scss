@@ -2,8 +2,9 @@
     filter: invert(1);
     img {
       filter: invert(1);
-  
-      &.ioda { filter: invert(0); }
+    }
+    p.ioda {
+      filter: invert(0);
     }
   }
   
