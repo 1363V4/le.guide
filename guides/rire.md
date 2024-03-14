@@ -3,6 +3,8 @@ title: le guide du rire
 layout: post
 ---
 
+{% include toc.html html=content %}
+
 rire ou faire rire
 
 pour commencer je suis pas marrant

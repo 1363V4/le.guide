@@ -1,0 +1,11 @@
+{% assign headings = include.html | strip | split: '<h' -%}
+
+{%- for heading in headings -%}
+  {%- if forloop.first -%}{%- continue -%}{%- endif -%}
+  {% assign level = heading | slice: 0, 1 %}
+  {% assign text = heading | split: '>' | last | split: '</h' | first %}
+  
+  {%- comment -%}Generate markdown-style link with "#" for simplicity{%- endcomment -%}
+  {%- capture toc_line -%}{{- level | times: '--' -}} {{ text }}{%- endcapture -%}
+  {{ toc_line }}
+{%- endfor -%}
