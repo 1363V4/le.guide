@@ -4,6 +4,8 @@ layout: post
 toc: true
 ---
 
+i should get a toc
+
 # one
 
 ## two

@@ -4,12 +4,11 @@
   <body a="{{ site.theme_config.appearance }}">
     <main class="page-content" aria-label="Content">
       <div class="w">
-        {{ content }}
+        {{ content | toc }}
       </div>
     </main>
 
-    {%-if site.goat_counter-%}
-      {%-include goat_counter.html-%}
-    {%-endif-%}
-  </body>
+    {%-include goat_counter.html-%}
+
+    </body>
 </html>
