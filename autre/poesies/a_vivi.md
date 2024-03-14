@@ -53,5 +53,4 @@ j'aurai passé ma vie sur ses rives à danser
 
 ---
 
-![à vivi](/img/à_vivi.png)
-{:.ioda}
+![à vivi](/img/à_vivi.png){:.ioda}
