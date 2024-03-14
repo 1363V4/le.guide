@@ -2,9 +2,11 @@
 <html lang="{{ page.lang | default: "fr" }}">
   {%- include head.html -%}
   <body a="{{ site.theme_config.appearance }}">
+    <div id="toc">{% toc %}</div>
     <main class="page-content" aria-label="Content">
+      <div id="toc">{% toc %}</div>
       <div class="w">
-        {{ content | toc }}
+        {{ content }}
       </div>
     </main>
 
