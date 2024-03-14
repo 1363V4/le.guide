@@ -4,9 +4,9 @@ entries:
   - title: guides
     entries: 
       - title: le guide du manger
-        url: guides/manger.html
+        url: _guides/manger.html
       - title: le guide du rire
-        url: guides/rire.html
+        url: _guides/rire.html
   - title: blog
     post_list: true
 
