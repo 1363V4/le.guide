@@ -188,7 +188,7 @@ ces logiques bavent sur mes jeux que j'aime.
 sur le jeu avec un grand j.
 
 mon jeu de l'année, mon petit goty ?
-[uno magique](/autre/jeux/uno_magique.md).
+[uno magique](/autre/jeux/uno_magique).
 
 unplugged.
     

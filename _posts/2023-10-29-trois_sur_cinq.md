@@ -5,7 +5,7 @@ layout: post
 
 #### youpi
 
-[youpi youpi mon jeu est fini](/autre/jeux/siisters.md)
+[youpi youpi mon jeu est fini](/autre/jeux/siisters)
 
 vous pouvez aller y jouer
 
