@@ -42,7 +42,7 @@ départ canon en contre-sens. elo hell.
 
 mais j'aurais pu...
 
-ah oui ! j'avais dit que j'avais désinstallé. [mais si !](un_sur_cinq_trois.html)
+ah oui ! j'avais dit que j'avais désinstallé. [mais si !](/2023/06/18/un_sur_cinq_trois)
 
 bah mdr hein. bien mytho bien crack addict bien see u tomorrow.
 c'est pas sérieux de se fixer des challenges tah la volonté d'acier pour en arriver là.
@@ -188,7 +188,7 @@ ces logiques bavent sur mes jeux que j'aime.
 sur le jeu avec un grand j.
 
 mon jeu de l'année, mon petit goty ?
-[uno magique](../jeux/uno_magique.html).
+[uno magique](/autre/jeux/uno_magique.md).
 
 unplugged.
     

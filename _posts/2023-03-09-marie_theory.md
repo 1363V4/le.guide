@@ -204,7 +204,7 @@ comment écouter maintenant.
 si vous voulez continuer en python,
 il existe [des librairies](https://pypi.org/project/synthesizer/).
 
-vous pouvez aussi [coder votre propre synth](circle_of_filth.html) comme un pur malade.
+vous pouvez aussi [coder votre propre synth](2023/03/09/circle_of_filth) comme un pur malade.
 
 vous pouvez écrire du midi et l'envoyer vers un daw.
 

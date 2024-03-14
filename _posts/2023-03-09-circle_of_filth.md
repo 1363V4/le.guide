@@ -92,7 +92,7 @@ c'est pas si mal.
 
 #### pourquoi faire ?
 
-vous vous rappelez le [cercle des quintes](marie_theory.html) ?
+vous vous rappelez le [cercle des quintes](/2023/03/09/marie_theory) ?
 
 ce qu'il y a de bien avec les cercles, c'est qu'ils sont continus (pour la plupart).
 
