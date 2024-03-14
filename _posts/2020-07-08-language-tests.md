@@ -1,5 +1,5 @@
 ---
-title: "Language Tests"
+title: Language Tests
 layout: post
 toc: true
 ---
