@@ -52,8 +52,7 @@ et maintenant un peu de stat.
 comme on peut le voir, la plupart des villes sont des _dead ends_.
 elles ne sont connectées qu'à une ville :
 
-![jumelio1.png](/img/jumelio/jumelio1.png)
-{:.ioda}
+![jumelio1.png](/img/jumelio/jumelio1.png){:.ioda}
 
 (on voit pas bien mais y'a une ville avec 78 jumelages... devinez laquelle)
 
@@ -63,8 +62,7 @@ et si on les virait ?
 
 regardons aussi la longueur moyenne des chemins :
 
-![jumelio2.png](/img/jumelio/jumelio2.png)
-{:.ioda}
+![jumelio2.png](/img/jumelio/jumelio2.png){:.ioda}
 
 un max de chemins impossibles.
 
@@ -75,11 +73,9 @@ on respire déjà mieux.
 
 visualisons à nouveau :
 
-![jumelio3.png](/img/jumelio/jumelio3.png)
-{:.ioda}
+![jumelio3.png](/img/jumelio/jumelio3.png){:.ioda}
 
-![jumelio4.png](/img/jumelio/jumelio4.png)
-{:.ioda}
+![jumelio4.png](/img/jumelio/jumelio4.png){:.ioda}
 
 c'est déjà mieux.
 
