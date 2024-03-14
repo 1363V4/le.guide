@@ -1,4 +1,4 @@
-{% assign headings = include.html | strip | split: '<h' %}
+{% assign headings = include.content | strip | split: '<h' %}
 
 {%- for heading in headings -%}
   {%- if forloop.first -%}{%- continue -%}{%- endif -%}
