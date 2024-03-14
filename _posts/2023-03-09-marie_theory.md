@@ -3,8 +3,6 @@ title: marie theory
 layout: post
 ---
 
-{% include toc.html html=content %}
-
 #### introduction
 
 voici ce que les musiciens appellent le "cercle des quintes" :
