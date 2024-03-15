@@ -9,6 +9,15 @@ layout: post
 > cet espace d’insuffisance centrale de l'âme qu'il faut bien apprendre à côtoyer, 
 > à combattre et qui paradoxalement est peut-être notre moteur le plus sûr.
 
+si vous avez rencontré la situation :
+bien en société mais ensuite seul par fait ou besoin
+et d'un coup bordel et exothermie.
+vous êtes ptet bipo.
+
+bizarrement c'est les artistes les plus productifs :
+lister exemples.
+pk ? travail.
+
 mais bouger c'est facile un pied devant l'autre
 
 quand on bouge plus au fond de son lit
@@ -26,6 +35,7 @@ travail
 dull boy
 
 se remettre en selle
+
 
 # température
 

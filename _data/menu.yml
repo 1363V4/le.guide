@@ -3,10 +3,7 @@ entries:
     url: autre.html
   - title: guides
     entries: 
-      - title: le guide du manger
-        url: guides/manger.html
-      - title: le guide du rire
-        url: guides/rire.html
+      - title: coming soon
   - title: blog
     post_list: true
 
