@@ -3,7 +3,43 @@ title: paroles
 layout: post
 ---
 
-### double jeu
+**ce qu'il fallait faire**
+
+j'avais pas envie
+
+d'aller à la guerre
+
+oui pourquoi s'en faire
+
+pour ces mammifères
+
+c'est pas la lumière 
+
+qui manque sur cette terre
+
+je vois sur les pierres
+
+la limaille de fer
+
+j'ai pas très envie
+
+d'rev'nir en arrière
+
+mais il fallait faire
+
+ce qu'il fallait faire
+
+l'histoire de ma vie
+
+je joue et je perds
+
+mais il fallait faire
+
+ce qu'il fallait faire
+
+---
+
+**double jeu**
 
 *à la belin*
 

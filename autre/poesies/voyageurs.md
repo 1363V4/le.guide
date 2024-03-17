@@ -31,8 +31,10 @@ tourne sa tête à l'est
 
 du fardeau se déleste
 
-et pousse un long soupir
+et pousse un long soupir / naze
 
 ---
 
 ...
+
+est-ce qu'ils vont vraiment quelque part ?
