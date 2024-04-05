@@ -72,18 +72,18 @@ sur un truc ou plein ?
 
 quatre cadrans
 
-|         | un truc |   plein  |
-|:-------:|:-------:|:--------:|
-| heureux |  trésor | yes life |
-|  triste | névrose |  apathie |
+|             | **un truc** |     **plein**     |
+|:-----------:|:-----------:|:-----------------:|
+| **heureux** |    trésor   |      yes life     |
+|  **triste** |    névrose  |      apathie      |
 
 quatre processus d'un cadran à l'autre
 (sens horaire, moteur)
 
-|         | un truc |  plein  |
-|:-------:|:-------:|:-------:|
-| heureux | marteau |  décuve |
-|  triste |  satori | travail |
+|             | **un truc** |     **plein**     |
+|:-----------:|:-----------:|:-----------------:|
+| **heureux** |   marteau   |    décuve         |
+|  **triste** |   satori    |    travail        |
 
 (machine thermique, faut que ce monde bosse pour toi ?)
 (après tout le bipolaire c'est lui)
@@ -95,7 +95,7 @@ quatre processus d'un cadran à l'autre
 
 moteur
 
-|           | _un truc_ |   _plein_   |
-|:---------:|:---------:|:-----------:|
-| _heureux_ |  détente  | échappement |
-|  _triste_ | explosion | compression |
+|             | **un truc** |     **plein**     |
+|:-----------:|:-----------:|:-----------------:|
+| **heureux** |    détente  |     échappement   |
+|  **triste** |  explosion  |     compression   |
