@@ -72,7 +72,23 @@ sur un truc ou plein ?
 
 quatre cadrans
 
-| -------- | :Un truc: | :Plein: |
-| Heureux | :Trésor: | :Yes man: |
-| Depressed | :Névrose: | :Apathique: |
+|         | un truc |   plein  |
+|:-------:|:-------:|:--------:|
+| heureux |  trésor | yes life |
+|  triste | névrose |  apathie |
 
+quatre processus d'un cadran à l'autre
+(sens horaire, moteur)
+
+|         | un truc |  plein  |
+|:-------:|:-------:|:-------:|
+| heureux | marteau |  décuve |
+|  triste |  satori | travail |
+
+(machine thermique, faut que ce monde bosse pour toi ?)
+(après tout le bipolaire c'est lui)
+
+|             | **un truc** |     **plein**     |
+|:-----------:|:-----------:|:-----------------:|
+| **heureux** |  corruption |    focalisation   |
+|  **triste** |   scrupule  | interventionnisme |
