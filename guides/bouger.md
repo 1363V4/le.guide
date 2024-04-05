@@ -92,3 +92,10 @@ quatre processus d'un cadran à l'autre
 |:-----------:|:-----------:|:-----------------:|
 | **heureux** |  corruption |    focalisation   |
 |  **triste** |   scrupule  | interventionnisme |
+
+moteur
+
+|           | _un truc_ |   _plein_   |
+|:---------:|:---------:|:-----------:|
+| _heureux_ |  détente  | échappement |
+|  _triste_ | explosion | compression |
