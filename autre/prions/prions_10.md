@@ -15,7 +15,7 @@ prenons tom cruise. il a peut-être voulu être sociologue, mais il a été bern
 
 ---
 
-il faut dire que parfois, ils s'épousent entre eux, et ça fait des enfants de stars qui pourront à l'occasion, écrire un petit livre disant à quel point leur enfance était spéciale, comment ils ont failli mourir ou comment ils se sont cachés de la vérité du dehors. ce genre d'histoire est là depuis des millénaires. et pourtant, on dit souvent que ce sont des livres de gare. or, les gares ne sont pas millénaires, sinon, ça se saurait; et jeanne d'arc aurait mis un peu moins de temps à bouter les anglais hors de france. ou alors, elles le sont et ça a juste réduit un peu les mille ans nécessaires au boutage de gueule. je ne m'en souviens plus. mais si la guerre de cent ans en avait duré mille, les historiens seraient devenus fous de voir sa gueule partout."
+il faut dire que parfois, ils s'épousent entre eux, et ça fait des enfants de stars qui pourront à l'occasion, écrire un petit livre disant à quel point leur enfance était spéciale, comment ils ont failli mourir ou comment ils se sont cachés de la vérité du dehors. ce genre d'histoire est là depuis des millénaires. et pourtant, on dit souvent que ce sont des livres de gare. or, les gares ne sont pas millénaires, sinon, ça se saurait; et jeanne d'arc aurait mis un peu moins de temps à bouter les anglais hors de france. ou alors, elles le sont et ça a juste réduit un peu les mille ans nécessaires au boutage de gueule. je ne m'en souviens plus. mais si la guerre de cent ans en avait duré mille, les historiens seraient devenus fous de voir sa gueule partout.
 
 ---
 
