@@ -49,3 +49,30 @@ désordre
 
 attention -> du point de vue du système
 et de ses échanges avec l'extérieur
+
+# carnot
+
+s2->s1
+compression du mélange
+
+tf->tc
+allumage
+
+s1->s2
+détente
+
+tc->tf
+changement d'air
+
+# quatre cadrans
+
+deux questions 
+heureux ou pas ?
+sur un truc ou plein ?
+
+quatre cadrans
+
+| -------- | :Un truc: | :Plein: |
+| Heureux | :Trésor: | :Yes man: |
+| Depressed | :Névrose: | :Apathique: |
+
