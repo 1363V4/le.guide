@@ -17,7 +17,7 @@ des dessins tout petits pour ma conjugaison
 
 un gros tas de poussière en chaque saison
 
-qui tâche, remâche, bache et couvre la maison
+qui tache, remâche, bâche et couvre la maison
 
 infaillible et j'ai mis mon âme en fondation.
 
