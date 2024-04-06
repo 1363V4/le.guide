@@ -37,6 +37,6 @@ le ciel pleure et le sol boit
 
 trinquez vous mes frères
 
-refusez la guerre
+au refus des guerres
 
-du petit soldat
+de petit soldat
