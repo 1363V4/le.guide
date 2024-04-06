@@ -13,7 +13,7 @@ extrêmes de confiance et de peur.
 
 ---
 
-sauvage lumière, vitrail castral
+sauvage lumière, vitrail castral..
 
 c'est d'un féral un nicobar en boule !
 
