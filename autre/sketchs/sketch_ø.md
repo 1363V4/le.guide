@@ -3,6 +3,11 @@ title: sketch ø
 layout: post
 ---
 
+> de quoi veulent rire les gens
+
+les séminaires d'entreprise
+le shampoing 3 en 1
+
 > humor theory
 
 #### alphabet
