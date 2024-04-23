@@ -128,3 +128,4 @@ comme autrefois, mes parents prennent ma température.
 tmm.
 
 (bon, j'en fais quoi)
+je le donne à bouffer à chatgpt i guess.

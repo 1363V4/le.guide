@@ -17,7 +17,9 @@ et je devrais finir moteur, et putain j'ai jeté les drafts
 
 ---
 
-## abcdmdr
+principe zéro
+je le donne pas ici.
+qu'à mes futurs disciples.
 
 ---
 
@@ -34,3 +36,18 @@ soit ça marche pas et t'as ta réponse
 ### cdef
 
 commun décalé émotion fall
+
+## golri
+
+parler un certain slang.
+comme ça que parlaient les trépanés de mon époque.
+maintenant : foudroyé, broyé de rire, explosé.
+avant on disait "loufoque".
+je sais pas vous.
+
+mais faut statuer sur le niveau de langue.
+coluche, desproges, bedos, ck, stanhope, carlin, hicks...
+murphy surtout.
+
+au passage, ça veut dire que l'humour communautaire n'existe pas.
+un pays n'est qu'une langue après tout.
