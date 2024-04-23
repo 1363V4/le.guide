@@ -4,7 +4,7 @@ layout: post
 ---
 
 - [aromebase](#aromebase)
-- [sushis](#sushis)
+- [shuriken](#shuriken)
 
 ---
 
@@ -38,23 +38,15 @@ bienvenue.
 
 ---
 
-## harissa
-
-épice du phare.
+## suzanne
 
 ---
 
-## kebab
-
-gros mangeur de kebab.
-vrp pour grec-frite.com ou comment ça s'appelait
-
-on ne fait pas une bonne ville sans bons restaurants :
-l'important c'est les ingrédients.
+## kebab céline
 
 ---
 
-## sushis
+## shuriken
 
 tous les sushis se ressemblent.
 
