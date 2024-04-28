@@ -10,3 +10,6 @@ ne faire que du reggae.
 moi surmoi ça.
 le qui s'observe.
 débile > normie > smart > génie (vous êtes ici) > polymathe.
+
+triangle mimétique interne
+contrôler son ombre

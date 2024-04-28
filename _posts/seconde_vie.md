@@ -20,7 +20,7 @@ jeux c'est mort, lutris pue
 les jeux pue
 i don't play i play video games as a form of self torture
 (post HDP billy)
-![tweet.jpeg](/img/turten/tweet.jpeg)
+![tweet.jpeg](/img/tweet.jpeg)
 code non plus car pas portable
 musique non plus
 

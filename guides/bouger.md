@@ -9,6 +9,8 @@ layout: post
 > cet espace d’insuffisance centrale de l'âme qu'il faut bien apprendre à côtoyer, 
 > à combattre et qui paradoxalement est peut-être notre moteur le plus sûr.
 
+![cycle](/img/bouger/cycle.svg)
+
 si vous avez rencontré la situation :
 bien en société mais ensuite seul par fait ou besoin
 et d'un coup bordel et exothermie.

@@ -3,46 +3,7 @@ title: le guide du manger
 layout: post
 ---
 
-- [aromebase](#aromebase)
 - [shuriken](#shuriken)
-
----
-
-## aromebase
-
-le restaurant à l'état pur.
-
-des produits frais,
-travaillés avec respect, justesse et amour,
-et avec le goût seul comme horizon.
-aromebase, ce n'est pas simplement bon,
-c'est le bonheur de la simplicité.
-
-oubliez les restos dans le noir :
-la vraie expérience immersive,
-c'est d'entrer chez aromebase.
-on y est toujours impeccablement reçus,
-et le bonheur se poursuit jusqu'à l'addition.
-jamais on ne paye un euro de trop.
-le menu de midi est d'un rapport qualité / prix
-qui présente des risques de division par zéro.
-
-courrez-y. retournez-y en marchant.
-puis par hasard. puis par habitude.
-puis encore.
-emmenez-y du monde. montrez-leur.
-
-c'est ici.
-
-bienvenue.
-
----
-
-## suzanne
-
----
-
-## kebab céline
 
 ---
 
