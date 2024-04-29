@@ -3,8 +3,10 @@ entries:
     url: autre.html
   - title: guides
     entries: 
-      - title: le guide de manger
+      - title: le guide du manger
         url: guides/manger.html
+      - title: le guide du faire
+        url: guides/faire.html
   - title: blog
     post_list: true
 

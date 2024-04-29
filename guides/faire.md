@@ -155,7 +155,9 @@ ps : tourner dans l'autre sens, ça existe.
 on appelle ça une machine thermique.
 en gros c'est quand le monde bosse pour toi.
 
-après tout, le bipolaire c'est lui :
+après tout, le bipolaire c'est lui...
+
+voici un tableau pour tourner dans l'autre sens, si ça vous intéresse :
 
 |             | **un truc** |     **plein**     |
 |:-----------:|:-----------:|:-----------------:|
