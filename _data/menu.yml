@@ -5,8 +5,8 @@ entries:
     entries: 
       - title: le guide du manger
         url: guides/manger.html
-      - title: le guide du faire
-        url: guides/faire.html
+      - title: le guide du travail
+        url: guides/travail.html
   - title: blog
     post_list: true
 

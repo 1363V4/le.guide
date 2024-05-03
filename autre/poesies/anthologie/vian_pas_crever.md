@@ -1,5 +1,5 @@
 ---
-title: vian - je voulais pas crever
+title: vian - je voudrais pas crever
 layout: post
 ---
 

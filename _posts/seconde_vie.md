@@ -33,6 +33,7 @@ un régal
 et ça tourne pas mal !
 juste pas de vidéos sans bruit
 faudrait juste nettoyer le ventilo et ça roule
+"juste"
 
 vider deux clés
 une pour le boot zorin
