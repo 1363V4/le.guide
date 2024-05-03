@@ -3,7 +3,13 @@ title: seconde vie
 layout: post
 ---
 
-seconde vie fnac mon cul.
+seconde vie mon cul.
+
+je suis allé voir la fnac avec deux "vieux" ordis
+et ils m'ont proposé 0€.
+bon bah, on va voir ce qu'on peut en tirer...
+
+---
 
 le asus
 elementary grosse merde
@@ -24,6 +30,10 @@ i don't play i play video games as a form of self torture
 code non plus car pas portable
 musique non plus
 
+---
+
+vaio
+ecran tactile
 pop os
 (fn key fait chier)
 mais un régal
