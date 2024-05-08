@@ -3,7 +3,32 @@ title: sketch 0
 layout: post
 ---
 
-> les sketchs wip
+> funny ideas
+
+# commandes
+
+les séminaires d'entreprise
+le shampoing 3 en 1
+
+
+# random
+
+
+les filles, 3 produits pour les cheveux : shampoing, après, conditioner.
+lait corps, huile de douche, savon ph neutre.
+réponse mec : tout en un.
+corps quéquette cheveux.
+parfum.
+taches sur le miroir.
+vaisselle.
+lubrifiant.
+ça les filles savent pas.
+on applaudit les mecs. plus fort.
+si on transpire on mettra un peu de 3 en un sous les bras.
+un peu sur le ventre et voilà on est propre.
+ça les filles le savent.
+pas que les camions qu'ont des angles morts.
+
 
 je travaille sur des problématiques d'accessibilité 
 je parle à des gens et ils comprennent pas

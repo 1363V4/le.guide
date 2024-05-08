@@ -24,6 +24,8 @@ avant, une asiat soumise, suante et mystérieuse
 jenny bon je l'ai larguée
 et si je m'excuse je me remets pas avec pour autant
 trop folle
+m'enfin si tu peux pas baiser les folles t'as rien
+
 perrine
 je l'ai trompée avec noémie c'est pas pareil
 
@@ -47,3 +49,21 @@ un twitter val_valouu bien pipou
 
 pas de machine à remonter le temps 
 se faire des noeuds au cerveau pour rien
+faut aller de l'avant (et faire des étincelles ?)
+
+loi de johnstone :
+une relation maitre-esclave c'est quand les 2 parties
+prétendent que tout l'espace appartient au maitre
+-> utile, lieu du sexe, dom
+
+comment baiser quand on est seul le soir ?
+faire un space x érotique ?
+réécouter phone sex
+
+diversion de l'aggression :
+- juvénile
+- sexuelle
+- toilettage
+
+page web sauvegardée de 4chan
+

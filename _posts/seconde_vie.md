@@ -52,3 +52,15 @@ l'autre orbikey
 ça peut suffire pour bosser ?
 zorin est pas mal,
 faudrait un ordi leboncoin.
+
+j'ai téléchargé mint xfce
+mais je l'ai pas installé finalement
+
+j'ai fini par demander un autre ordi
+longue réflexion
+failli céder apple
+4chan a gagné : thinkpad
+mais un z
+
+et ma seconde vie à moi ?
+ça arrive
