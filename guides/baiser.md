@@ -67,3 +67,28 @@ diversion de l'aggression :
 
 page web sauvegardée de 4chan
 
+jenny est morte
+screenshot
+
+perrine restera dead
+tant que tu bois pas
+
+vaincre ses exs à la scott pilgrim ?
+iza suivante
+
+complexe d'électre ?
+- rejet pur et simple de la sexualité
+- rejet de la castration et donc de son destin de future femme
+- choix du père comme objet
+proportion à mon avis un tiers chaque
+lili c'est deux
+perrine trois
+isa trois
+jenny deux
+nono trois glou un
+
+maddona-whore ?
+bof pas vraiment
+
+singe nu lumineux
+
