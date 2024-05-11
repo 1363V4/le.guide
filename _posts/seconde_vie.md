@@ -64,3 +64,18 @@ mais un z
 
 et ma seconde vie à moi ?
 ça arrive
+
+---
+
+quel rapport à la techno ?
+je pensais m'en aller
+iphone du boulot, ordi du boulot
+j'étais descendu à juste un dumbphone
+j'ai pas plus appelé mes amis le pb était pas là
+
+je suis long sur l'ai
+iphone 14 pour generate everything
+thinkpad 16go
+ça va tout changer
+
+prochain post

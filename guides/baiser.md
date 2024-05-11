@@ -75,6 +75,8 @@ tant que tu bois pas
 
 vaincre ses exs à la scott pilgrim ?
 iza suivante
+aucun réseau...
+inopartner est mort, linkedin pas ajouré
 
 complexe d'électre ?
 - rejet pur et simple de la sexualité
@@ -92,3 +94,5 @@ bof pas vraiment
 
 singe nu lumineux
 
+- ok, prends le pénis
+- 

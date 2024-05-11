@@ -1,4 +1,3 @@
-
 # adhd
 pas de notion du temps -> mettre timers
 ce qui te fuck up c'est pas l'adhd c'est pas avoir eu de potes petit
@@ -9,6 +8,8 @@ adhd = myope du futur
 observer le pont aux jumelles (mckinsey)
 différent de aller marcher dessus voir si ça tient
 pb : participer au meeting ou essayer d'aller chercher la personne qui manque ?
+société commerciale innovation et recherche
+société de conception informatique et réseaux
 
 # code
 to the bugs (3 body problem)
@@ -30,5 +31,3 @@ et nous ne comprenons pas leurs impératifs de show
 # sketchs
 dsk on a jamais vu la bite pas comme grivaux
 nom d'artisan : complex electr'
-
-

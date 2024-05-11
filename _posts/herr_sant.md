@@ -1,3 +1,8 @@
+---
+title: dix de d'herr
+layout: post
+---
+
 dix commandements
 
 1. ne jamais donner une seconde chance aux traitres

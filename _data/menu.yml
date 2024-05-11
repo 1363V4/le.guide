@@ -7,6 +7,8 @@ entries:
         url: guides/manger.html
       - title: le guide du travail
         url: guides/travail.html
-  - title: blog
+  - title: journal
+    url: journal.html
+  - title: posts
     post_list: true
 

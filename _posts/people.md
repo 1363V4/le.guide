@@ -12,6 +12,9 @@ en vacances à rome : faut que j'y aille
 a trouvé une zoé
 tadao endo, archi de l'intérieur bourse du commerce
 
+# glou
+volley tous les lundis
+
 # parrain
 lire la diagonale des reines, bernard weber
 aller au restaurant de l'unesco le lovendal

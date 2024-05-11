@@ -14,3 +14,4 @@ si j'ajoute des trucs.
 - livres : le cycle de la culture (complet)
 - des cravates
 - un ordi
+- un repose-tête pour la plage
