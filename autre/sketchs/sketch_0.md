@@ -5,6 +5,11 @@ layout: post
 
 > les sketchs wip
 
+pour garder la peau ferme il faudrait continuer de grandir
+garder le truc tendue
+une meuf de 40 ans, pas une ride
+cul incroyable, 4 mètres au garrot
+
 je travaille sur des problématiques d'accessibilité 
 je parle à des gens et ils comprennent pas
 

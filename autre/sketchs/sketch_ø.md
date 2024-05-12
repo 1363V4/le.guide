@@ -42,6 +42,20 @@ pas que les camions qu'ont des angles morts.
 - m : ... so far "klm"
 - n : ?
 - o : ...
+p
+q
+r
+s
+t
+u
+v
+w
+xyz
+
+no : numéro : show
+pq : la bite
+rs : réseaux sociaux
+tu : temps universel
 
 #### autre
 
