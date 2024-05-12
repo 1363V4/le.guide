@@ -7,6 +7,24 @@ layout: post
 
 ---
 
+dimanche.
+arrivés, nous nous moquâmes
+sans méchanceté 
+des masses troublées.
+qu'ils méprissent la polysémie de "tôt".
+le soir,
+je retrouvai ma station,
+et la piste odorante de la vérité.
+s. argua que la méritocratie
+n'eut existé,
+fussent l'insuffisance de places.
+
+lourdeur des rituels.
+aveuglement,
+où les mains qui tremblent saisissent plus sûrement.
+
+---
+
 le lendemain,
 je pris quelques photos.
 nous déjeunâmes d'un poulet dominical
