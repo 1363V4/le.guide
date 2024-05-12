@@ -13,5 +13,4 @@ si j'ajoute des trucs.
 
 - livres : le cycle de la culture (complet)
 - des cravates
-- un ordi thinkpad z13
-- une licence fl studio
+- un ordi

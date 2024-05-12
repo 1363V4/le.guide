@@ -21,6 +21,11 @@ principe zéro
 je le donne pas ici.
 qu'à mes futurs disciples.
 
+le rire n'existe pas.
+il n'y a qu'un métier, faire rire. un job.
+
+les gens viennent voir the greatest show ever.
+
 ---
 
 ### le b.a.-ba
@@ -51,3 +56,19 @@ murphy surtout.
 
 au passage, ça veut dire que l'humour communautaire n'existe pas.
 un pays n'est qu'une langue après tout.
+
+
+---
+
+lire livres de self-help de jimmy carr
+checker carrot in a box
+et 8 out of 10 cats countdown
+
+j'ai fait un rêve
+je rentrais sur scène en costume de lion à 4 pattes
+le show était énergique
+j'avais des marques au sol
+je mettais de la puissance dans les mouvements et la delivery
+j'étais en top condition physique
+mes punchlines avaient des plosives
+et ça parlait de q !

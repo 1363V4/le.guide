@@ -1,11 +1,24 @@
 ---
-title: siisters
+title: siisters / jumelio
 layout: post
 ---
 
 #### siisters
 
-[jouez ici](https://leg.eu.pythonanywhere.com/five)
+~~[jouez ici](https://leg.eu.pythonanywhere.com/five)~~
+
+[jouez ici](https://dev.legires.fr/jumelio)
+
+initialement j'avais un globe interactif. sympa mais dur à prendre en main.
+
+j'ai tout refait sous un nouveau nom : jumelio.
+
+la mécanique de base est la même.
+j'ai fait des billets de dev dans mes posts si ça vous intéresse.
+
+bref.
+c'est pas assez sexy et impossible à monétiser.
+faut choisir ses batailles : ça dégage.
 
 #### but du jeu
 

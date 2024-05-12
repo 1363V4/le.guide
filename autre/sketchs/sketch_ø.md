@@ -3,28 +3,6 @@ title: sketch ø
 layout: post
 ---
 
-> de quoi veulent rire les gens
-
-les séminaires d'entreprise
-le shampoing 3 en 1
-
-les filles, 3 produits pour les cheveux : shampoing, après, conditioner.
-lait corps, huile de douche, savon ph neutre.
-réponse mec : tout en un.
-corps quéquette cheveux.
-parfum.
-taches sur le miroir.
-vaisselle.
-lubrifiant.
-ça les filles savent pas.
-on applaudit les mecs. plus fort.
-si on transpire on mettra un peu de 3 en un sous les bras.
-un peu sur le ventre et voilà on est propre.
-ça les filles le savent.
-pas que les camions qu'ont des angles morts.
-
-> humor theory
-
 #### alphabet
 
 - a : objet a lacan

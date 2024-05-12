@@ -3,7 +3,13 @@ title: seconde vie
 layout: post
 ---
 
-seconde vie fnac mon cul.
+seconde vie mon cul.
+
+je suis allé voir la fnac avec deux "vieux" ordis
+et ils m'ont proposé 0€.
+bon bah, on va voir ce qu'on peut en tirer...
+
+---
 
 le asus
 elementary grosse merde
@@ -24,6 +30,10 @@ i don't play i play video games as a form of self torture
 code non plus car pas portable
 musique non plus
 
+---
+
+vaio
+ecran tactile
 pop os
 (fn key fait chier)
 mais un régal
@@ -33,6 +43,7 @@ un régal
 et ça tourne pas mal !
 juste pas de vidéos sans bruit
 faudrait juste nettoyer le ventilo et ça roule
+"juste"
 
 vider deux clés
 une pour le boot zorin
@@ -41,3 +52,30 @@ l'autre orbikey
 ça peut suffire pour bosser ?
 zorin est pas mal,
 faudrait un ordi leboncoin.
+
+j'ai téléchargé mint xfce
+mais je l'ai pas installé finalement
+
+j'ai fini par demander un autre ordi
+longue réflexion
+failli céder apple
+4chan a gagné : thinkpad
+mais un z
+
+et ma seconde vie à moi ?
+ça arrive
+
+---
+
+quel rapport à la techno ?
+je pensais m'en aller
+iphone du boulot, ordi du boulot
+j'étais descendu à juste un dumbphone
+j'ai pas plus appelé mes amis le pb était pas là
+
+je suis long sur l'ai
+iphone 14 pour generate everything
+thinkpad 16go
+ça va tout changer
+
+prochain post
