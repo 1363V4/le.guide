@@ -13,6 +13,10 @@ le shampoing 3 en 1
 
 # random
 
+pour rester belle faudrait continuer de grandir
+la peau reste tendue imaginez
+40 ans pas une ride un cul de folie
+trois mètres cinquante au garot
 
 les filles, 3 produits pour les cheveux : shampoing, après, conditioner.
 lait corps, huile de douche, savon ph neutre.
