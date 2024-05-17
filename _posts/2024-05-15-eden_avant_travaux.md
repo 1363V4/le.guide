@@ -132,5 +132,6 @@ et joue les tombeurs la nuit.
 ---
 
 une bile noire me fait les tripes.
+heureusement, ça part à l'eau.
 
 le paradis refait à neuf.

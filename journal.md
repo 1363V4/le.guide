@@ -7,35 +7,6 @@ layout: post
 
 ---
 
-dimanche.
-arrivés, nous nous moquâmes
-sans méchanceté 
-des masses troublées.
-qu'ils méprissent la polysémie de "tôt".
-le soir,
-je retrouvai ma station,
-et la piste odorante de la vérité.
-s. argua que la méritocratie
-n'eut existé,
-fussent l'insuffisance de places.
-
-lourdeur des rituels.
-aveuglement,
-où les mains qui tremblent saisissent plus sûrement.
-
----
-
-le lendemain,
-je pris quelques photos.
-nous déjeunâmes d'un poulet dominical
-avant d'aller rejoindre l'océan.
-
-l'appel fut atroce, à son habitude.
-quelques coups de soleil
-me brûlèrent la nuit.
-
----
-
 samedi 11 mai.
 la nuit,
 après que j'eus rangé mes livres,
@@ -57,3 +28,54 @@ l'eau glacée, purifiante, heurta mes tympans.
 
 je remis mon projet au lendemain
 et commençai un journal.
+
+---
+
+le lendemain,
+dans une rue secrète aux pierres charmantes,
+je cherchais, comme un capitaine de navire,
+un havre, sans le trouver.
+je pris quelques photos.
+
+nous déjeunâmes d'un poulet dominical
+avant d'aller rejoindre l'océan.
+
+l'appel fut atroce, à son habitude.
+quelques coups de soleil
+me brûlèrent la nuit.
+
+---
+
+dimanche.
+arrivés, nous nous moquâmes
+sans méchanceté 
+des masses troublées.
+qu'ils méprissent la polysémie de "tôt".
+
+le soir,
+je retrouvai ma station,
+et la piste odorante de la vérité.
+s. argua que la méritocratie
+n'eut existé,
+fusse l'insuffisance de places.
+
+lourdeur des rituels.
+aveuglement,
+où les mains qui tremblent saisissent plus sûrement.
+
+---
+
+mardi 14 mai.
+du piano des gares de nord et d'europe sortit l'âme de leurs villes respectives.
+amoureux à paris, vaporeux à lille.
+comme une complainte, un autre air d'a.
+
+le deuxième acte fut grandiose.
+
+---
+
+vendredi 17.
+semaine de travail intense.
+plusieurs jours à plusieurs heures de concentration intense
+me donnèrent suffisamment d'avance.
+je fis donc un brin de ménage.

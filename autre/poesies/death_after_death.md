@@ -27,7 +27,7 @@ all pity the carrion bird
 
 who flew above the wasted word!
 
-the husked band follows the strum
+the foolish band follows the strum
 
 crumb after crumb
 

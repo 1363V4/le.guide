@@ -13,3 +13,5 @@ débile > normie > smart > génie (vous êtes ici) > polymathe.
 
 triangle mimétique interne
 contrôler son ombre
+
+quand je récite death after death, je vois le
