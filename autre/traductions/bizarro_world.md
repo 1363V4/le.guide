@@ -1,6 +1,177 @@
 ---
-title: bizarro world
+title: le royaume de l'étrange
 layout: post
+---
+
+> article paru en 2007 sur le site boston.com
+
+andrew gardikis est un gamin de 17 ans originaire de quincy, dans le massachusetts.
+il a une tignasse de cheveux blonds hirsutes et un long corps trapu qui est encore en train de pousser. 
+dans le monde des jeux vidéo, gardikis est célèbre pour être l'une des trois seules personnes à avoir atteint ce que l'on appelle le « saint graal » des records en jeu : 
+une vitesse parfaite sur le premier super mario bros, ce qui signifie qu'il a terminé le jeu et sauvé la princesse en 5 minutes et 8 secondes. 
+comme tout bon adolescent, il l'explique par un haussement d'épaules : 
+"j'imagine que j'ai une bonne coordination entre l'oeil et la main", répond-il quand je lui demande comment il a maîtrisé le jeu vidéo le plus vendu de tout les temps.
+c'est peut-être aussi pour ça qu'il a appris tout seul à jongler avec sept balles et que, d'une certaine façon, ma femme et moi nous sommes retrouvés ce printemps dans une salle d'arcade de weirs beach, dans le new hampshire, pour qu'elle essaye de battre un record du monde dans un autre de ces jeux vidéo mythiques : tetris.
+
+depuis deux ans, je travaille sur un livre consacré aux jongleurs et à un mouvement controversé visant à transformer un art de la performance vieux de 4 000 ans en un sport de compétition. 
+une partie de mon travail consiste à lire des forums de jonglage sur internet, où la question de l'art par rapport au sport fait l'objet de débats sans fin. 
+un jour, j'ai remarqué un message sans rapport, intitulé « super mario bros 1 ».
+l'auteur du message, « andrewg », alias gardikis, a écrit : « mon record de 5 minutes et 9 secondes a été battu :( pff, je finirai bien par le rattraper". 
+le message comprenait un lien vers un article sur twingalaxies.com - le « leaderboard électronique officiel » - détaillant comment un homme de caroline du nord nommé scott kessler avait fait un temps de 5:08, battant l'ancien record de gardikis d'une seconde avec ce qu'on pensait alors être un record sans aucune erreur, inaméliorable (gardikis réalisera lui-même un 5:08 peu de temps après).
+
+je ne suis pas un fan des jeux vidéo, mais comme la plupart des gens de ma génération, j'étais accro à mario. 
+il était difficile de ne pas l'être - ce petit plombier de brooklyn était une icône des années 80, au même titre qu'e.t. et le rubik's cube. 
+il avait son propre dessin animé, sa propre lunchbox, ses propres céréales pour le petit-déjeuner. 
+des orchestres symphoniques jouaient son thème musical. 
+j'avais besoin de voir comment un adolescent cherchait la perfection dans un jeu qui avait connu son heure de gloire et s'était vendu à 40 millions d'exemplaires avant même qu'il ne soit né. 
+il était incroyable.
+
+---
+
+j'ai donc contacté mr. kelly r. flewin - il signe toujours ses e-mails de cette manière -, pompiste de 29 ans à winnipeg (manitoba) et arbitre principal de twingalaxies.com, pour savoir à quel point ce record était important. 
+au téléphone, tard dans la nuit, après que les affaires se soient calmées à la station, il m'a dit que tout record dans l'un des jeux les plus populaires - comme super mario bros., donkey kong ou tetris - mettrait toujours le monde du jeu vidéo en ébullition.
+
+« c'est drôle », ai-je dit à flewin. 
+« on a une vieille nintendo game boy qui traîne à la maison, et tetris est le seul jeu qu'on a. ma femme le sort parfois pour y jouer dans les avions et les longs trajets en voiture. 
+elle est étrangement douée. elle peut faire 500 ou 600 lignes sans problème. »
+
+je n'oublierai jamais ce que flewin a dit ensuite.
+
+« oh, mon dieu ! »
+
+---
+
+après avoir raccroché le téléphone, je suis allé dans la chambre et j'ai réveillé ma femme, lori.
+
+« chérie », lui ai-je dit. « tu ne vas pas le croire, mais je viens d'avoir au téléphone un type qui s'occupe des records du monde des jeux vidéo, et il m'a dit que le record du monde de tetris sur game boy est de 327 lignes, et il veut que nous allions dans le new hampshire au printemps pour que tu puisses essayer de battre le record du monde en direct, devant les juges, lors du plus grand tournoi de jeux vidéo classiques du monde. »
+c'est l'un de ces immenses « centres de loisirs familiaux » avec un bowling, un parcours de golf miniature et un tas de jeux de skee-ball, ceux où l'on peut dépenser 100 dollars pour gagner des tickets pour un slinky à 5 dollars. 
+ce que peu de gens savent, c'est que le troisième étage du funspot abrite l'american classic arcade museum, la plus grande collection au monde de jeux des années 70 et 80, ceux qui ont lancé la révolution des jeux vidéo. 
+il y a 180 jeux prêts à l'emploi sur le sol à tout moment et 100 autres dans un entrepôt à l'arrière, ce qui en fait, dans le monde « 8-bit », l'équivalent du louvre.
+
+---
+
+depuis 1998, le musée accueille le tournoi international de jeux vidéo classiques et de flippers, un week-end pour les meilleurs joueurs de jeux vidéo classiques du monde entier, les hommes - et parfois les femmes - qui détiennent des records du monde sur les icônes telles que pac-man, donkey kong, centipede et frogger. 
+tout à l'intérieur date d'avant 1987, y compris le décor et la musique qui passe dans le sound system. 
+« je veux que ce soit une expérience immersive », me dit gary vincent, conservateur du musée. 
+« pendant quelques heures, on est transporté à l'époque de nos 16 ans, où l'on jouait à la salle d'arcade du coin et où l'on sortait avec sa petite amie.
+
+funspot est légendaire pour être l'endroit où les records tombent. 
+alors qu'une salle d'arcade ordinaire peut avoir un ou deux détenteurs de records à son actif, funspot a un mur entier sur lequel sont affichées les photos des meilleurs joueurs. 
+lors du tournoi de cette année, j'ai rencontré un joueur nommé brian kuh qui a pris sa retraite à l'âge de 30 ans - il était contrôleur bancaire à new york - afin de pouvoir s'installer à weirs beach et se rendre à funspot tous les jours pour chercher à battre des records du monde de jeux vidéo à plein temps. 
+c'était il y a un peu plus de deux ans. 
+l'année dernière, il a battu 16 records du monde différents le premier jour du tournoi. 
+le premier jour de cette compétition, à midi, il avait déjà battu 10 records du monde ; à 15 heures, il en avait battu 17, dépassant ainsi son propre record du plus grand nombre de records du monde de jeux vidéo faits en une seule journée. 
+il fête l'événement en jouant à d'autres jeux vidéo.
+
+---
+
+lori et moi nous rendons à weirs beach en pleine heure de pointe. 
+c'est ok. nous n'avons pas eu beaucoup de temps pour parler de l'événement, et elle veut savoir à quoi s'attendre. 
+elle est stressée. je ne peux pas lui en vouloir. 
+après quelques mois passés à rire de l'idée qu'elle pourrait être la détentrice du record du monde de tetris, il est temps pour elle de se produire. en direct. devant certains des meilleurs joueurs de jeux vidéo du monde.
+
+depuis cette nuit où je l'avais réveillée, l'idée nous avait paru confortablement surréaliste. 
+nous avions raconté l'histoire à nos amis et nous avions bien ri. je veux dire, c'est tetris. tout le monde connaît tetris, et presque tout le monde a joué à tetris. 
+c'est le jeu vidéo que les gens qui détestent les jeux vidéo aiment malgré tout, probablement parce qu'il est si simple. 
+vous prenez une forme qui tombe du haut de l'écran - il y a sept formes possibles, chacune composée de quatre blocs - et vous utilisez la manette pour les faire pivoter et les mettre en place en dessous, dans le but de combiner les formes en lignes horizontales de blocs sans espace. 
+lorsque vous y parvenez, vous gagnez une « ligne », qui disparaît ensuite. plus vous jouez longtemps, plus les formes tombent rapidement. 
+vous continuez à essayer de créer des lignes jusqu'à ce que vous vous trompiez suffisamment de fois et que les blocs commencent à s'empiler jusqu'au plafond. 
+lorsque vous atteignez le sommet et qu'il n'y a plus de place où les formes peuvent tomber, c'est game over.
+
+---
+
+il y a beaucoup de choses qui m'ont attiré chez ma femme, mais je ne peux pas dire que la coordination main-œil soit l'une d'entre elles. 
+elle a 31 ans, elle travaille comme nutritionniste à l'université du massachusetts et elle est plutôt sportive. 
+elle peut frapper une balle et attraper un ballon, mais il n'y a rien en elle qui suggère qu'elle a une capacité innée pour la prise de décision en une fraction de seconde, capacité nécessaire pour réussir à tetris quand les pièces arrivent vraiment vite. 
+l'idée qu'elle pourrait être la meilleure personne à avoir jamais joué à la version game boy de tetris semblait plus que folle. 
+tetris a été le « killer game » qui a lancé la nintendo game boy et le mouvement des consoles portables, de la même manière que super mario bros. a lancé la nes. 
+un killer game est un jeu dont la valeur est telle qu'il justifie le coût de la console dont vous avez besoin pour y jouer. 
+en 1989, nintendo a fourni tetris avec la game boy - tout comme il l'avait fait avec mario pour la nes en 1985 - parce que les gens étaient prêts à débourser 89,95 dollars juste pour pouvoir jouer à cet addictif jeu de puzzle. 
+la game boy s'est vendue à environ 70 millions d'unités ; son successeur, la game boy color (la version que possède ma femme), s'est vendue à près de 50 millions d'unités.
+
+alors que nous descendons la route 3 à weirs beach, nous apercevons le panneau annonçant le tournoi. « les meilleurs du monde s'affrontent », est-il écrit. « je viens d'avoir une vague de stress », me dit lori. 
+dans la cabane que nous avons louée, elle se détend avec notre chien et joue encore quelques parties.
+
+---
+
+« tetris est l'incarnation de la pensée globale », me dit walter day, alors que lori passe la ligne 200 lors de sa tentative de record. 
+elle s'était réveillée tôt ce matin-là, avait joué une bonne partie de tetris, avait emmené notre chien faire une longue promenade et était allée acheter un t-shirt pour son grand moment (elle a choisi un joli petit t-shirt vert avec des hiboux colorés). 
+pour sa tentative de record, une télévision a été installée au milieu de la salle d'arcade, reliée à une console super nintendo du début des années 90 avec un adaptateur permettant de lire les cartouches game boy. comme l'écran de la game boy ne fait que 5 cm de côté, c'est la première fois que je peux vraiment la regarder jouer à tetris. et pour faire les commentaires, nulle autre que day.
+
+day a quitté sa ville natale de lynn en 1979 pour s'installer à fairfield, dans l'iowa, afin d'étudier la méditation transcendantale à la maharishi school of management. 
+deux ans plus tard, il ouvre une salle d'arcade dans la ville voisine d'ottumwa et l'appelle twin galaxies. 
+un jour, quelqu'un a obtenu un score très élevé au jeu defender, qui consiste à faire voler un vaisseau spatial au-dessus d'une chaîne de montagnes et à abattre des extraterrestres. 
+le score était tellement supérieur à tous les autres scores obtenus sur defender dans la salle d'arcade de day qu'il a cherché à savoir s'il s'agissait du score le plus élevé jamais atteint sur defender. 
+après avoir appelé le fabricant du jeu en vain, day a décidé de créer sa propre société d'archivage de records du monde. 
+le 9 février 1982, le twin galaxies national scoreboard fut lancé et fut rapidement reconnu par les fabricants et les journalistes - et même par le guinness book des records - comme l'autorité en matière de records sur jeux vidéo et flipper.
+
+---
+
+ce matin, lorsqu'il arrive à la salle d'arcade, il est facile à repérer, car il est le seul à porter un maillot d'arbitre. 
+« voilà la situation », me dit day, qui a 58 ans et une barbe poivre et sel, tandis que j'observe et analyse le jeu de lori,
+« tetris est l'exemple même de ces jeux qui nécessitent une coordination des yeux, des mains et une compréhension rapide. 
+quand mickey mantle entendait le craquement de sa batte, il faisait un pas de plus. c'est ce que fait votre femme. elle doit se connecter immédiatement aux données qu'elle voit. être fort à tetris repose exclusivement sur la capacité à reconnaître les informations que vous recevez plus rapidement que la moyenne des gens. »
+
+je suis stupéfaite que lori soit capable de garder la tête froide et de se concentrer. 
+une douzaine de joueurs sont rassemblés autour d'elle pour la regarder jouer. 
+une photographe enceinte est allongée sur le sol sous la table, photographiant lori pendant qu'elle joue. le flash est en plein sur son visage. la sono diffuse « take my breath away » de la bande originale de top gun. 
+et pourtant elle continue de jouer.
+elle a un visage de gameuse ; je ne savais même pas qu'elle avait un visage de gameuse. 
+lorsqu'elle atteint 300 lignes et le niveau 30, le niveau le plus élevé du jeu, les pièces déboulent en trombe sur l'écran. 
+j'entends un gars à côté de moi dire : « pendant que je pense, “mets-le là”, elle l'a déjà mis là ». pour la première fois, je me permets de croire qu'elle est vraiment si douée qu'on le dit.
+
+à 16h46, elle dépasse sa 328e ligne avec ses blocs encore empilés tout en bas. je me penche vers gardikis, l'adolescent de super mario qui est venu à funspot pour la journée, et lui chuchote qu'elle vient de dépasser le record. je suis gonflé à bloc. ma femme est détentrice du record du monde de tetris. j'ai envie de distribuer des cigares.
+
+---
+
+c'est alors que mr. kelly r. flewin arrive, tenant un ordinateur portable connecté à la base de données des records de twin galaxies. il me dit qu'il y a un problème.
+
+le king de kong, un documentaire qui sort à boston vendredi, traite d'un problème lié à un record du monde de twin galaxies, le prestigieux record de points sur donkey kong. le film est centré sur billy mitchell, originaire de holyoke et légende du jeu vidéo, qui détient le record de donkey kong depuis 1982, et steve wiebe, un professeur de mathématiques de l'état de washington, dont les tentatives de battre mitchell sont remises en question car les cassettes vidéo de ses records sont contestées.
+
+ce différend est une énorme controverse dans le monde des jeux vidéo. robert mruczek, originaire de brooklyn, avec des lunettes en forme de bouteille de coca et des cheveux bouclés et clairsemés, a été arbitre de twin galaxies pendant 5 ans et demi. il estime avoir passé 8 000 heures - de minuit à 4 heures du matin presque tous les jours - à vérifier des records. après le scandale sur donkey kong, il a démissionné. 
+« j'avais l'impression d'avoir fait deux services au vietnam et je ne voulais pas m'engager pour un troisième », me dit-il. 
+mruczek est triste lorsqu'il raconte la saga wiebe, comme si quelque chose d'important lui avait été retiré. 
+« avec les titres de champion, dit-il, si vous faites une erreur sur quelque chose d'important pour la communauté, cela peut avoir des répercussions à long terme. vous ne voulez pas le laisser passer s'il est entaché et ne vous convient pas ». 
+mruczek dit qu'il craint que le traitement du record de wiebe ait créé un dangereux précédent qui pourrait ramener la communauté aux années 80, lorsque les gens revendiquaient des records impossibles à atteindre. 
+twin galaxies a depuis longtemps abandonné son processus de vérification initial, qui nécessitait une photo de l'écran affichant le meilleur score et une déclaration sous serment signée par le joueur. 
+désormais, un joueur doit filmer sa partie selon des directives strictes ou la jouer en direct devant un juge de twin galaxies.
+
+mais revenons à lori. je ne vois pas où pourrait être le problème. lori a commencé sa tentative de record devant flewin, un arbitre confirmé, et day, le directeur général. elle n'utilise pas de codes de triche ou de techniques interdites parce que, franchement, elle n'en connaît pas.
+
+il s'avère que sa version de game boy tetris est tetris dx, le même que le jeu original mais en couleur, et c'est une catégorie à part, selon les règles de twin galaxies, avec un record bien plus élevé. je regarde l'ordinateur de flewin et je vois le nom de harry j. hong, ainsi que son record : 545 lignes.
+
+---
+
+lori peut faire 545 lignes. je le sais. je sais aussi que c'est beaucoup plus difficile que les 327 lignes dont flewin m'avait parlé au départ (le record de la version originale en noir et blanc de tetris pour game boy). 
+elle est déjà à 40 minutes de sa tentative, et je suis certain que day et flewin ne vont pas rester assis à regarder une autre tentative si elle échoue. 
+malgré mes efforts, lori entend un peu ce qui se passe et me crie dessus - comme les femmes crient sur leurs maris quand ils sont louches - pour que je lui explique ce qui se passe. 
+je lui donne les détails, mais elle me dira plus tard que tout ce qu'elle a entendu, c'est « 500 quelque chose ».
+
+à 17h01 sur l'horloge du funspot, elle complète sa 545e ligne et laisse harry j. hong dans la poussière. à 600 lignes, avec ses blocs toujours en bas, elle me jette un coup d'œil rapide.
+
+« billy, j'ai forcément le record, non ? »
+
+« oh que oui », réponds-je. « là, c'est juste pour te la péter ».
+
+---
+
+la foule se prend au jeu. à deux reprises, elle fait des erreurs et les pièces s'empilent en haut de l'écran, mais elle arrive à s'en sortir. 
+après une heure de jeu, lori commet l'erreur de trop et sa partie s'arrête. 
+elle a détruit le record - son score final est de 841 lignes. nous réaliserons plus tard qu'il s'agissait de sa deuxième meilleure partie de tous les temps.
+
+day s'approche pour lui serrer la main. lori rit lorsque day déclare qu'elle est « la plus grande joueuse de tetris au monde », puis se tourne vers moi pour ajouter « et je dois dire qu'elle est aussi la plus jolie ».
+
+« ce fut l'un des moments les plus bizarres de ma vie », dit-elle. « les flashs se déclenchaient et walter parlait. on se serait cru au royaume de l'étrange. »
+
+qu'est-ce que cela signifie d'être le meilleur au monde dans un domaine ? c'est ce qui me vient à l'esprit alors que nous traînons au lit le dimanche matin. 
+nous avons tous les deux du mal à comprendre ce que la maîtrise par lori d'un jeu que day appelle « l'incarnation de la pensée globale » signifie dans nos vies.
+
+alors que je prépare la voiture, je me rends compte que lori a acheté des choses pour le voyage et que les ranger dans notre jeep cherokee devient compliqué. « à partir de maintenant », dis-je à la nouvelle maître de faire rentrer des formes dans des petits espaces, « c'est toi qui range le coffre ».
+
+---
+
+---
+
 ---
 
 andrew gardikis is a 17-year-old kid from quincy with a shaggy mop of dirty blond hair and a long, lanky frame that he's still growing into. in the video game world, gardikis is famous for being one of only three people to achieve the so-called "holy grail" of gaming records: a perfect speed run on the original nintendo super mario bros., which means that he finished the game and saved the princess in 5 minutes and 8 seconds. like a good teenager, he relies on the shrugged-shoulder explanation for many things. "i guess i have pretty good hand-eye coordination," he says when i ask him how he mastered the best-selling video game of all time. it also may be how he taught himself to juggle seven balls, and how, in a roundabout way, my wife and i this spring found ourselves in a weirs beach, new hampshire, arcade so that she could attempt to break a world record in another of those classic video games, tetris.

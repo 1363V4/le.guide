@@ -31,6 +31,7 @@ et nous ne comprenons pas leurs impératifs de show
 # sketchs
 dsk on a jamais vu la bite pas comme grivaux
 nom d'artisan : complex electr'
+l'autre jour à une soirée
 
 # darmakar
 ces quatre nobles vérités sont souvent comparées au processus des soins dispensés de la part d'un médecin (sanskrit: भिषग्वर bhiṣagvara ou भैषज्यगुरु bhaiṣajya-guru) : la personne consciente, éveillée (बुद्ध buddha) a pour tâche de guérir les personnes souffrantes de leurs maux. il constate les symptômes, fait un diagnostic de la maladie, trouve la méthode de la guérison et prescrit un remède.

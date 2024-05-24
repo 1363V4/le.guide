@@ -62,9 +62,6 @@ failli céder apple
 4chan a gagné : thinkpad
 mais un z
 
-et ma seconde vie à moi ?
-ça arrive
-
 ---
 
 quel rapport à la techno ?
@@ -78,4 +75,18 @@ iphone 14 pour generate everything
 thinkpad 16go
 ça va tout changer
 
-prochain post
+je l'équipe comment ?
+dual boot ?
+windows boulot et fl
+debian / ubuntu pour le kiff
+tableur : on se lance dans pyspread ?
+treesheets toujours avec le rêve de le réécrire
+suite google ou pas ? m.legires ou nouveau ? gsuite ?
+et d'ailleurs quel client mail ?
+et quel navigateur ? est-ce que edge si bien ?
+je fais que farmer des tokens...
+vault ? le truc défaut de linux ?
+cursor toujours ?
+
+et ma seconde vie à moi ?
+ça arrive

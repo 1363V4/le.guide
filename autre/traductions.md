@@ -9,3 +9,4 @@ layout: post
 - [charme chtonien](traductions/charme_chtonien.md)
 - [conflit constant](traductions/conflit_constant.md)
 - [high](traductions/high.md)
+- [lili](traductions/lili.md)
