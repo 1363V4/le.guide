@@ -7,6 +7,13 @@ il sait pour l'hymen de lili (elle se rappelle pas lui avoir dit)
 pièce à voir : il y a pas de ajar
 vélo : jungle bike
 
+# bastien
+from saigon to danang
+a pris le train méga long
+passion crossfit, s'est mis au surf
+troisième tourista déjà
+how to pick a carrer that actually fits you
+
 # geiger
 en vacances à rome : faut que j'y aille
 a trouvé une zoé
