@@ -38,7 +38,7 @@ pour les jeux c'est mort,
 je suis pas foutu de faire tourner lutris.
 et de toute façon j'aime que jouer à cdda.
 
-![tweet.jpeg](/img/tweet.jpeg)
+![tweet.jpg](/img/tweet.jpg)
 
 dans l'ensemble, aucune utilité.
 
@@ -157,4 +157,4 @@ et que j'ai besoin de jarvis
 et ma seconde vie à moi ?
 parce que bon c'est bientôt.
 
-[merde...](/autre/poesies/anthologie/vian_pas_crever.md)
+[merde...](/autre/poesies/anthologie/vian_pas_crever.html)
