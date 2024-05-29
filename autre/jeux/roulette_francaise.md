@@ -23,7 +23,7 @@ on prend un revolver, six balles au hasard dans le bac, on tourne et on tire.
 
 voici la chance que vous avez de prendre une pastille dans le carafon en fonction du nombre de balles dans le bac :
 
-![rf.png](/img/jeux/rf.png)
+![rf.png](/img/jeux/rf.png){:.ioda}
 
 pour n = 1000, une chance sur 1000, 10 000, 10 000...
 
