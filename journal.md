@@ -79,3 +79,11 @@ semaine de travail intense.
 plusieurs jours à plusieurs heures de concentration intense
 me donnèrent suffisamment d'avance.
 je fis donc un brin de ménage.
+
+---
+
+mercredi 29 mai.
+"combien de jours ont encore passé silencieusement ; nous sommes le 28 mai.",
+écrivit kafka, en un [jour inspirant](https://theamericanreader.com/28-august-1904-franz-kafka-to-max-brod/).
+les aubes sont belles, et bien navrantes.
+ 

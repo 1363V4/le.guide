@@ -14,3 +14,10 @@ bien fort
 
 je devrais prendre que des rabbits
 car j'ai eu blitzcrank lapin
+
+c'est bon quand c'est sec
+
+les vatos locos sont trop gros
+
+souvent j'ai pas le "hit"
+j'en prends trop ?

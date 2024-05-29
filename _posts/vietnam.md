@@ -13,4 +13,4 @@ bah je suis allé au vietnam
 photos
 
 une autre civilisation
-une certaine horloge cassée a raison une fois un jour
+une certaine horloge cassée a raison une fois un jour (atomique)
