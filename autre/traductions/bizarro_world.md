@@ -5,13 +5,19 @@ layout: post
 
 > article paru en 2007 sur le site boston.com
 
-andrew gardikis est un gamin de 17 ans originaire de quincy, dans le massachusetts.
-il a une tignasse de cheveux blonds hirsutes et un long corps trapu qui est encore en train de pousser. 
-dans le monde des jeux vidéo, gardikis est célèbre pour être l'une des trois seules personnes à avoir atteint ce que l'on appelle le « saint graal » des records en jeu : 
-une vitesse parfaite sur le premier super mario bros, ce qui signifie qu'il a terminé le jeu et sauvé la princesse en 5 minutes et 8 secondes. 
+andrew gardikis est un gamin de 17 ans 
+originaire de quincy, dans le massachusetts.
+il a une tignasse de cheveux blonds hirsutes et 
+un long corps trapu qui est encore en train de pousser. 
+dans le monde des jeux vidéo, gardikis est célèbre 
+pour être l'une des trois seules personnes à avoir atteint 
+ce que l'on appelle le « saint graal » des records : 
+une vitesse parfaite sur le premier super mario bros, 
+ce qui signifie qu'il a terminé le jeu et sauvé la princesse en 5 minutes et 8 secondes. 
 comme tout bon adolescent, il l'explique par un haussement d'épaules : 
 "j'imagine que j'ai une bonne coordination entre l'oeil et la main", répond-il quand je lui demande comment il a maîtrisé le jeu vidéo le plus vendu de tout les temps.
-c'est peut-être aussi pour ça qu'il a appris tout seul à jongler avec sept balles et que, d'une certaine façon, ma femme et moi nous sommes retrouvés ce printemps dans une salle d'arcade de weirs beach, dans le new hampshire, pour qu'elle essaye de battre un record du monde dans un autre de ces jeux vidéo mythiques : tetris.
+c'est peut-être aussi pour ça qu'il a appris tout seul à jongler avec sept balles et que, 
+d'une certaine façon, ma femme et moi nous sommes retrouvés ce printemps dans une salle d'arcade de weirs beach, dans le new hampshire, pour qu'elle essaye de battre un record du monde dans un autre de ces jeux vidéo mythiques : tetris.
 
 depuis deux ans, je travaille sur un livre consacré aux jongleurs et à un mouvement controversé visant à transformer un art de la performance vieux de 4 000 ans en un sport de compétition. 
 une partie de mon travail consiste à lire des forums de jonglage sur internet, où la question de l'art par rapport au sport fait l'objet de débats sans fin. 
@@ -43,14 +49,18 @@ je n'oublierai jamais ce que flewin a dit ensuite.
 
 après avoir raccroché le téléphone, je suis allé dans la chambre et j'ai réveillé ma femme, lori.
 
-« chérie », lui ai-je dit. « tu ne vas pas le croire, mais je viens d'avoir au téléphone un type qui s'occupe des records du monde des jeux vidéo, et il m'a dit que le record du monde de tetris sur game boy est de 327 lignes, et il veut que nous allions dans le new hampshire au printemps pour que tu puisses essayer de battre le record du monde en direct, devant les juges, lors du plus grand tournoi de jeux vidéo classiques du monde. »
-c'est l'un de ces immenses « centres de loisirs familiaux » avec un bowling, un parcours de golf miniature et un tas de jeux de skee-ball, ceux où l'on peut dépenser 100 dollars pour gagner des tickets pour un slinky à 5 dollars. 
-ce que peu de gens savent, c'est que le troisième étage du funspot abrite l'american classic arcade museum, la plus grande collection au monde de jeux des années 70 et 80, ceux qui ont lancé la révolution des jeux vidéo. 
+« chérie », lui ai-je dit. « tu ne vas pas le croire, mais je viens d'avoir au téléphone un type qui s'occupe des records du monde des jeux vidéo, 
+et il m'a dit que le record du monde de tetris sur game boy est de 327 lignes, et il veut que nous allions dans le new hampshire au printemps pour que tu puisses essayer de battre le record du monde en direct, devant les juges, lors du plus grand tournoi de jeux vidéo classiques du monde. »
+c'est l'un de ces immenses « centres de loisirs familiaux » avec un bowling, un parcours de golf miniature et un tas de jeux de skee-ball,
+ceux où l'on peut dépenser 100 dollars pour gagner des tickets pour un slinky à 5 dollars. 
+ce que peu de gens savent, c'est que le troisième étage du funspot abrite l'american classic arcade museum, la plus grande collection au monde de jeux des années 70 et 80, 
+ceux qui ont lancé la révolution des jeux vidéo. 
 il y a 180 jeux prêts à l'emploi sur le sol à tout moment et 100 autres dans un entrepôt à l'arrière, ce qui en fait, dans le monde « 8-bit », l'équivalent du louvre.
 
 ---
 
-depuis 1998, le musée accueille le tournoi international de jeux vidéo classiques et de flippers, un week-end pour les meilleurs joueurs de jeux vidéo classiques du monde entier, les hommes - et parfois les femmes - qui détiennent des records du monde sur les icônes telles que pac-man, donkey kong, centipede et frogger. 
+depuis 1998, le musée accueille le tournoi international de jeux vidéo classiques et de flipper, 
+un week-end pour les meilleurs joueurs de jeux vidéo classiques du monde entier, les hommes - et parfois les femmes - qui détiennent des records du monde sur les icônes telles que pac-man, donkey kong, centipede et frogger. 
 tout à l'intérieur date d'avant 1987, y compris le décor et la musique qui passe dans le sound system. 
 « je veux que ce soit une expérience immersive », me dit gary vincent, conservateur du musée. 
 « pendant quelques heures, on est transporté à l'époque de nos 16 ans, où l'on jouait à la salle d'arcade du coin et où l'on sortait avec sa petite amie.
@@ -68,10 +78,11 @@ il fête l'événement en jouant à d'autres jeux vidéo.
 lori et moi nous rendons à weirs beach en pleine heure de pointe. 
 c'est ok. nous n'avons pas eu beaucoup de temps pour parler de l'événement, et elle veut savoir à quoi s'attendre. 
 elle est stressée. je ne peux pas lui en vouloir. 
-après quelques mois passés à rire de l'idée qu'elle pourrait être la détentrice du record du monde de tetris, il est temps pour elle de se produire. en direct. devant certains des meilleurs joueurs de jeux vidéo du monde.
+après quelques mois passés à rire de l'idée qu'elle pourrait être la détentrice du record du monde de tetris, 
+il est temps pour elle de se produire. en direct. devant certains des meilleurs joueurs de jeux vidéo du monde.
 
 depuis cette nuit où je l'avais réveillée, l'idée nous avait paru confortablement surréaliste. 
-nous avions raconté l'histoire à nos amis et nous avions bien ri. je veux dire, c'est tetris. tout le monde connaît tetris, et presque tout le monde a joué à tetris. 
+nous avions raconté l'histoire à nos amis et nous avions bien ri. je veux dire, c'est tetris. tout le monde connaît tetris, et presque tout le monde a joué à tetris.
 c'est le jeu vidéo que les gens qui détestent les jeux vidéo aiment malgré tout, probablement parce qu'il est si simple. 
 vous prenez une forme qui tombe du haut de l'écran - il y a sept formes possibles, chacune composée de quatre blocs - et vous utilisez la manette pour les faire pivoter et les mettre en place en dessous, dans le but de combiner les formes en lignes horizontales de blocs sans espace. 
 lorsque vous y parvenez, vous gagnez une « ligne », qui disparaît ensuite. plus vous jouez longtemps, plus les formes tombent rapidement. 
@@ -81,12 +92,12 @@ lorsque vous atteignez le sommet et qu'il n'y a plus de place où les formes peu
 ---
 
 il y a beaucoup de choses qui m'ont attiré chez ma femme, mais je ne peux pas dire que la coordination main-œil soit l'une d'entre elles. 
-elle a 31 ans, elle travaille comme nutritionniste à l'université du massachusetts et elle est plutôt sportive. 
+elle a 31 ans, elle travaille comme nutritionniste à l'université du massachusetts et elle est plutôt sportive.
 elle peut frapper une balle et attraper un ballon, mais il n'y a rien en elle qui suggère qu'elle a une capacité innée pour la prise de décision en une fraction de seconde, capacité nécessaire pour réussir à tetris quand les pièces arrivent vraiment vite. 
 l'idée qu'elle pourrait être la meilleure personne à avoir jamais joué à la version game boy de tetris semblait plus que folle. 
 tetris a été le « killer game » qui a lancé la nintendo game boy et le mouvement des consoles portables, de la même manière que super mario bros. a lancé la nes. 
 un killer game est un jeu dont la valeur est telle qu'il justifie le coût de la console dont vous avez besoin pour y jouer. 
-en 1989, nintendo a fourni tetris avec la game boy - tout comme il l'avait fait avec mario pour la nes en 1985 - parce que les gens étaient prêts à débourser 89,95 dollars juste pour pouvoir jouer à cet addictif jeu de puzzle. 
+en 1989, nintendo a fourni tetris avec la game boy - tout comme il l'avait fait avec mario pour la nes en 1985 - parce que les gens étaient prêts à débourser 89,95 dollars juste pour pouvoir jouer à ce jeu de puzzle addictif. 
 la game boy s'est vendue à environ 70 millions d'unités ; son successeur, la game boy color (la version que possède ma femme), s'est vendue à près de 50 millions d'unités.
 
 alors que nous descendons la route 3 à weirs beach, nous apercevons le panneau annonçant le tournoi. « les meilleurs du monde s'affrontent », est-il écrit. « je viens d'avoir une vague de stress », me dit lori. 
@@ -95,7 +106,7 @@ dans la cabane que nous avons louée, elle se détend avec notre chien et joue e
 ---
 
 « tetris est l'incarnation de la pensée globale », me dit walter day, alors que lori passe la ligne 200 lors de sa tentative de record. 
-elle s'était réveillée tôt ce matin-là, avait joué une bonne partie de tetris, avait emmené notre chien faire une longue promenade et était allée acheter un t-shirt pour son grand moment (elle a choisi un joli petit t-shirt vert avec des hiboux colorés). 
+elle s'était réveillée tôt ce matin-là, avait joué une bonne partie de tetris, avait emmené notre chien faire une longue promenade et était allée acheter un t-shirt pour son grand moment (elle a choisi un joli petit t-shirt vert avec des hiboux colorés).
 pour sa tentative de record, une télévision a été installée au milieu de la salle d'arcade, reliée à une console super nintendo du début des années 90 avec un adaptateur permettant de lire les cartouches game boy. comme l'écran de la game boy ne fait que 5 cm de côté, c'est la première fois que je peux vraiment la regarder jouer à tetris. et pour faire les commentaires, nulle autre que day.
 
 day a quitté sa ville natale de lynn en 1979 pour s'installer à fairfield, dans l'iowa, afin d'étudier la méditation transcendantale à la maharishi school of management. 
