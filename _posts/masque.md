@@ -14,3 +14,5 @@ exemple ?
 
 pedro la c est-il un masque ?
 costume ? business mais sans cravate
+
+on peut créer l'outil pour l'usage

@@ -9,16 +9,20 @@ j'ai fait un nombre ridicules de sites en chemin,
 pour à chaque fois apprendre à maîtriser une nouvelle tech :
 
 - 1363v4
-    - j'ai appris venv
+    - apprendre venv
+    - apprendre flask
 - n0sq
-    - apprendre render, pico css, flask
+    - apprendre render
+    - apprendre le css
     - apprendre jinja2
+    - apprendre tailwind
 - revanche
     - apprendre le routage dns et le dynamic dns
-    - apprendre tls
+    - apprendre le tls
     - apprendre les sous-domaines
+    - apprendre les serveurs web
 - legires
-    - apprendre htmx, css transitions
+    - apprendre htmx
     - apprendre htmlgenerator
     - apprendre pythonanywhere
     - apprendre git
@@ -38,7 +42,7 @@ pas génant en l'état car petit.
 j'ai appris que les divs clickables,
 c'était un peu le cul aussi.
 trop dur de chopper la value.
-on est tellement mieux avec un <button>.
+on est tellement mieux avec un *button*.
 
 j'ai appris à faire du oob-swap.
 je n'ai lu [cet article](https://htmx.org/examples/update-other-content/)
@@ -64,11 +68,12 @@ mais j'ai quand même mis des garde-fous :
 
 ça reste facile à hacker.
 on peut facilement me faire exploser la db.
-ou exploser la facture exa.
+ou la facture exa.
 
 sans compter les erreurs de logique dans mon code.
 typiquement, je regardais si la requête était en db,
-mais seulement après l'avoir executée quand même. débile.
+mais seulement après l'avoir executée quand même. 
+débile.
 
 pas de vulns xss a priori mais j'en mettrais pas ma main à couper.
 
@@ -78,13 +83,35 @@ devant elle...
 
 ---
 
+j'ai appris peewee.
+
+c'est compliqué les subtilités des db.
+je suis allé au plus simple,
+j'espère que ça va tenir.
+
+j'ai appris que render utilisait
+des fichiers éphémères.
+qu'on pouvait utiliser une db postgre
+(bien sûr, après avoir setup sqlite),
+mais qu'elle expirait en 30 jours.
+
+et après 30 jours on fait quoi ?
+
+> j'y penserai demain
+
+m'en suis sorti mais bon.
+sacré paquet de noeuds.
+un vrai sujet à considérer.
+
+---
+
 j'ai pas appris le threading.
 je sais bien que la limitation de flask,
 c'est qu'il gère pas l'async.
 me sens pas encore prêt.
 ça viendra.
 
-j'ai installé des extensions finalement utiles.
+j'ai installé des extensions finalement utiles pour cursor.
 rainbow tabs, sqlite viewer.
 
 j'ai ramble sur x.
@@ -106,4 +133,4 @@ avance.
 
 rêve, crois, mais fait. 
 
-avance.
+[avance](https://www.youtube.com/watch?v=khPC2iOsgJI).

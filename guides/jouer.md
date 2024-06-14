@@ -19,6 +19,7 @@ orange plus clair plus sombre ?
 
 shrimple as that
 
+from le singe nu
 
 1. tu exploreras l'inconnu jusqu'à ce qu'il soit devenu familier
 2. tu imposeras au familier une répétition rythmique

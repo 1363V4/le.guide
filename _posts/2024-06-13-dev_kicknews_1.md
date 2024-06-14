@@ -67,7 +67,7 @@ l'avantage c'est que je me retrouve avec la structure de fichiers suivante :
     - "business logic", calculs, insertions db etc
 
 l'avantage donc,
-c'est ue je peux commencer un projet avec les 4 fichiers .py,
+c'est que je peux commencer un projet avec les 4 fichiers .py,
 et ensuite "ranger" sur le tableau blanc
 les choses dont je vais avoir besoin.
 

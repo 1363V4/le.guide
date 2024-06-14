@@ -13,7 +13,8 @@ interne ou pas ?
 
 communication
 produit
-maruqe
+marque
 entreprise (performance)
 institutionnelle (personnalité)
 
+exercice à faire pour mclein

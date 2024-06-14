@@ -11,9 +11,6 @@ pb : participer au meeting ou essayer d'aller chercher la personne qui manque ?
 société commerciale innovation et recherche
 société de conception informatique et réseaux
 
-# code
-to the bugs (3 body problem)
-
 # dac
 génie marketing : 
 transforme ton papier chiant (argent) en papier rigolo
