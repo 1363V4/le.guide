@@ -87,3 +87,7 @@ mercredi 29 mai.
 écrivit kafka, en un [jour inspirant](https://theamericanreader.com/28-august-1904-franz-kafka-to-max-brod/).
 les aubes sont belles, et bien navrantes.
  
+---
+
+19 juin.
+il plut. sur les feuilles continuant leur vol, l'encre sécha.

@@ -33,4 +33,6 @@ permettant d'épicer les temps morts du jeu d'origine.
 
 la probabilité qu'un mot sorte appartenant à l'une des deux équipes est d'une sur trois.
 
+je vous code un petit site web quand j'ai le temps.
+
 lotoké !

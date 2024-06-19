@@ -106,3 +106,29 @@ j'ai perdu aux dés
 un double jeu
 
 pipé
+
+---
+
+c'est juste que toi et moi
+
+si on sort ce soir
+
+on risque de jouer avec les doigts
+
+on risque de s'coucher tard
+
+et moi ton beau minois
+
+j'veux pas l'voir plus tard
+
+pleurer de rage au désespoir
+
+avec le bébé moche
+
+---
+
+**wip***
+
+il y a une première fois à tout
+
+aux fins
