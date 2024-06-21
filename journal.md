@@ -91,3 +91,11 @@ les aubes sont belles, et bien navrantes.
 
 19 juin.
 il plut. sur les feuilles continuant leur vol, l'encre sécha.
+
+---
+
+20 juin.
+je pris des spaghettis bolognaises et un fromage blanc au miel.
+dans un verre, le miel en dessous, on crut que j'eus pris une bière.
+
+nous blaguâmes de futures explosions.

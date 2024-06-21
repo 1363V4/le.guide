@@ -15,3 +15,11 @@ le cycle c'est vraiment la baise, le drive la libido
 instead skinnyfat crack addict virtual coin big cheveux blancs rhumatismes
 
 bah hmm
+
+lance unomagique. tombe direct sur le musclé.
+muscle ! muscle !
+ça te rendra horny.
+fuck ! fuck !
+tu voudras te muscler.
+
+&716KALA&grand

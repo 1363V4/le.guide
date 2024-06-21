@@ -72,3 +72,11 @@ je mettais de la puissance dans les mouvements et la delivery
 j'étais en top condition physique
 mes punchlines avaient des plosives
 et ça parlait de q !
+
+---
+
+half of a good joke ?
+
+l: lire ?
+bien sûr tous les humoristes n'étaient pas de grands lecteurs mais
+il y a plus d'humour dormant dans les livres que dans tous les dvd

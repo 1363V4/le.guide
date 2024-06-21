@@ -1,3 +1,8 @@
+---
+title: marie theory 3
+layout: post
+---
+
 tester i-vi et iv-i
 dans plusieurs modes
 
@@ -108,3 +113,16 @@ de la 7ème de malher
 beh mon cochon
 tout ça pour toujours rien comprendre
 on va faire du i-vi et du iv-i jusqu'à 
+
+https://www.youtube.com/watch?v=YEHWaGuurUk
+real
+
+le gars qui jouait à tft dans le métro en hyper roll
+il avait une sortie bt titan deux riven deux en storyweaver
+il a préféré attendre, perdre, slam trois (3) guinsoo
+et cliquer prisma ticket pour trouver xayah,
+autant dire qu'il a pas fait long feu.
+
+c'est ça que je veux
+britten here i come
+https://www.evs-musikstiftung.ch/en

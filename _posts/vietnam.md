@@ -14,3 +14,7 @@ photos
 
 une autre civilisation
 une certaine horloge cassée a raison une fois un jour (atomique)
+
+ptet jpeux grouper avec l'analyse du site horrible d'erwan
+
+https://www.hellovirtuoso.com/
