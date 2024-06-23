@@ -14,8 +14,11 @@ j'aime pas tailwind.
 j'ai essayé.
 bloat.
 
-j'aimais pico mais ils ont compliqué.
-horrible v2, horrible màj des docs.
+complétement skibidi gyatless,
+comme disent les jeunes.
+
+j'aimais pico css mais ils ont compliqué.
+horrible v2, horrible màj des docs, du build, de tout.
 
 je passai sur 
 [simple css.](https://simplecss.org/)
@@ -61,36 +64,33 @@ ils proposent d'utiliser phi, lol.
 bah mon neveu,
 tu vas voir si je vais pas le faire.
 
-bon le blog du gars est sympa
-le blog de l'autre est pas ouf
+---
 
-bon.
-en gros ouais
-y'a 
+le blog 
+[d'un des gars](https://heydonworks.com/) 
+est sympa.
+c'est probablement lui le pentagraffeur fou.
 
-et c'est tout
-juste à faire les trucs bien ensuite
+le blog de l'autre est pas ouf.
+
+maintenant qu'on a dit ça :
+plus qu'à écrire gold.css, en reprenant simplecss et virant le deg.
+
+et enfin tu n'écriras plus que du python et du css :
+js et html no more - bliss.
+
+je devrais peut-être essayer un tout petit peu d'alpine :
+ça m'a pas l'air giga mieux que jquery mais si ça fit avec htmx bon...
 
 ---
 
-maintenant que t'as dit ça écris ton css vieux
-
-tu fais gold.css, en reprenant simplecss et virant le deg
-
-et enfin tu n'écriras plus que du python et du css
-
-js et html no more - bliss
-
-je devrais quand même essayer un tout petit peu d'alpine
-
-c'est pas giga mieux que jquery mais si ça fit avec htmx bon
-
-il faut encore avancer jusqu'à xlsior
-
-faire le site d'échecs pour maîtriser la gestion user
-
-puis xlsior
-
+il faut encore avancer jusqu'à xlsior,
+faire le site d'échecs pour maîtriser la gestion user,
 avant de plonger dans treepy,
+où on va faire beaucoup de gui et peut-être perdre un peu en webdev.
 
-où on va faire beaucoup de gui et peut-être perdre un peu en webdev
+et ensuite ?
+
+y'a un gap dans le x.
+
+alors allons.

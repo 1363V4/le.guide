@@ -30,3 +30,30 @@ le choix du critère effet machin tout ça
 le plus grand
 
 les chaussettes les plus claires
+
+
+mais comment éviter l'effet goodman ou chépaquoi
+
+parce que bon si une boite utilise ça
+
+prends deux types au hasard et refile le dossier au moins chargé
+
+les gars vont optimiser pour être chargés bref
+
+effet cobra tout ça
+
+la réponse est simple
+
+saler le critère
+
+on prend deux mecs au pif ET deux critères au pif
+
+faut donc un truc qui mesure la mesure
+
+l'intuition faut de mieux
+
+et un paquet de mesures
+
+ça ça va dépendre du use case que je vais bien pouvoir trouver
+
+pour faire rentrer la réalité dans ma théorie.
