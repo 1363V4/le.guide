@@ -1,12 +1,12 @@
 ---
-title: dev kicknews - 3
+title: dev - kicknews 3
 layout: post
 ---
 
 bon, j'aime pas js,
-ça devrait être clair à ce stade.
 
-reste la question du css.
+ça devrait être clair à ce stade,
+mais reste la question du css.
 
 ---
 
@@ -17,7 +17,9 @@ bloat.
 complétement skibidi gyatless,
 comme disent les jeunes.
 
-j'aimais pico css mais ils ont compliqué.
+j'aimais 
+[pico css](https://picocss.com/) 
+mais ils ont compliqué.
 horrible v2, horrible màj des docs, du build, de tout.
 
 je passai sur 
@@ -36,8 +38,8 @@ alors j'ai lu
 euh, y'a des graffitis sataniques dans le code source mais passons.
 
 take away 1 : rem pour block,
-em pour inline (et surtout pour les icônes !),
-jamais px.
+ça bon, mais
+em pour inline, et surtout pour les icônes.
 
 j'aime beaucoup vh et vw,
 mais c'est pas très responsive.
@@ -74,7 +76,7 @@ c'est probablement lui le pentagraffeur fou.
 le blog de l'autre est pas ouf.
 
 maintenant qu'on a dit ça :
-plus qu'à écrire gold.css, en reprenant simplecss et virant le deg.
+plus qu'à écrire gold.css, en reprenant simplecss et virant le dég.
 
 et enfin tu n'écriras plus que du python et du css :
 js et html no more - bliss.
