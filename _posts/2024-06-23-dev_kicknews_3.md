@@ -3,7 +3,7 @@ title: dev - kicknews 3
 layout: post
 ---
 
-bon, j'aime pas js,
+bon, j'aime pas js.
 
 ça devrait être clair à ce stade,
 mais reste la question du css.
