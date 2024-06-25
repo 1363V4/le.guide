@@ -1,6 +1,7 @@
 title: suivez le guide
 author: le guide
 favicon: "favicon.png"
+url: blog.legires.fr
 goat_counter: "leguide"
 theme_config:
   appearance: "auto"
