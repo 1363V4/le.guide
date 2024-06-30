@@ -24,6 +24,22 @@ qu'à mes futurs disciples.
 le rire n'existe pas.
 il n'y a qu'un métier, faire rire. un job.
 
+> illumination : les blagues sont un prétexte
+
+principe 1 : la surprise, ab
+
+principe 2 : l'histoire, cdef
+
+hij c'est principe 1 aussi, 1+, va plus loin, klm principe 2+
+(ou l'inverse ? en miroir jusqu'au n ?)
+
+principe 0 : bergsonienne ? mécanique, dans l'humain et dans la langue
+principe 1 : humour "bug", rationalisation, apprivoiser la surprise, hij le parleur a l'information (ouais c'est en miroir)
+principe 2 : théorie freudienne, relâchement, tension et aggressivité
+
+vendre une masterclass : on fait l'aller, on va se produire sur scène
+puis retour, jusqu'au spectacle
+
 les gens viennent voir the greatest show ever.
 
 ---

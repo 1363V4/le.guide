@@ -1,3 +1,7 @@
+# real temp
+hais le ?
+un paralysé au fond de moi
+
 # adhd
 pas de notion du temps -> mettre timers
 ce qui te fuck up c'est pas l'adhd c'est pas avoir eu de potes petit
