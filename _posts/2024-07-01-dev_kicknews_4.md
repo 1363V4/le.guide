@@ -72,18 +72,18 @@ voici un tip :
 utiliser 
 [bliss.js](https://blissfuljs.com/).
 
-(ps: bon faites attention, il y a eu une 
+(ps : bon faites attention, il y a eu une 
 [supply chain attack](https://news.ycombinator.com/item?id=40791829)
 sur polyfill.
-donc rappel : importez de manière responsable svp)
+donc rappel : importez de manière responsable svp).
 
 ça reprend la syntaxe de jquery,
-sans les requêtes ajax dont vous aurez pas besoin
+sans les requêtes ajax dont vous n'aurez pas besoin
 de toute façon puisque htmx.
 
 ça fournit quelques fonctions utiles
 (pas besoin d'underscore.js a priori),
-et surtout c'est suffisament limité pour que
+et surtout, c'est suffisamment limité pour que
 vous n'utilisiez js que pour le cas suivant :
 *je trouve un élément et je lui attache une fonction basique.*
 c'est tout. 
@@ -101,7 +101,7 @@ le code en exemple a deux erreurs.
 voyons la première.
 
 je me définis comme un feignant névrosé :
-je refuse pas l'effort par principe,
+je ne refuse pas l'effort par principe,
 mais parce qu'il risque de me tuer.
 
 > staive... et donc ?
@@ -122,14 +122,14 @@ et encore par petites touches.
 sur mon code, il crée une variable :
 méfiez-vous, c'est bien un red flag.
 eh oui.
-la loi est dure mais c'est la loi.
+la loi est dure, mais c'est la loi.
 
 qu'aurait-il fallu faire ?
 tout simplement : 
 - précompute la liste des refs
 (si elles sont apparues dans le dom, c'est qu'htmx les a vu),
 - mettre ça dans un div hidden au bon format, 
-- puis aller le chercher par id avec js pour copier dans le presse papier.
+- puis aller le chercher par id avec js pour copier dans le presse-papier.
 
 on s'épargnait le `var ts` qui donne envie de se pendre,
 et le join affreux.
@@ -204,7 +204,9 @@ c'est comment ça change la réflexion.
 est-ce que par exemple en utilisant 
 [hx-trigger](https://htmx.org/attributes/hx-trigger/)
 sur intersect et des gros blocs plein de transitions,
-on peut pas avoir un joli truc à scroll down qui bouge et tout ?
+on peut pas avoir un 
+[joli truc à scroll down](https://neal.fun/universe-forecast/) 
+qui bouge et tout ?
 sûrement mais faut preload à mort, comme on a dit.
 
 et faut du café.
