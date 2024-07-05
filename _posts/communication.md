@@ -18,3 +18,8 @@ entreprise (performance)
 institutionnelle (personnalité)
 
 exercice à faire pour mclein
+
+|              | **interne** | **externe** |
+|:------------:|:-----------:|:-----------:|
+|  **produit** |     cpi     |     cpe     |
+| **activité** |     cai     |     cae     |

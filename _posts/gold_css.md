@@ -1,3 +1,14 @@
+---
+title: dev - gold.css
+layout: post
+---
+
+```css
+p {
+    n
+}
+```
+
 
 css reset de :
 https://www.joshwcomeau.com/css/custom-css-reset/

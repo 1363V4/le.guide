@@ -10,6 +10,7 @@ layout: post
 - [l'arbre](poesies/arbre.md)
 - [beau val](poesies/beau_val.md)
 - [bock](poesies/bock.md)
+- [une bohême](poesies/boheme.md)
 - [la bosse](poesies/bosse.md)
 - [chaîne de vie](poesies/chaine.md)
 - [les chaussures](poesies/chaussures.md)
