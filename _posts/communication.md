@@ -65,3 +65,24 @@ blog a smart bear
 
 chatbot whatsapp
 password impossible ?
+
+
+tu peux pas claquer 1000 balles par mois en serveur
+10k en bdd
+et charge 600 même les premiers
+ou 30k l'an les autres
+gâteau moins cher que la farine
+-> message pas clair
+pareil, tu tapes dans les com en plus de la licence
+pour pas énorme, 10% ca
+-> vont pas aimer
+pareil, comment tu convertis un contrat "service" en contrat crm ? et pk ?
+
+le jump des salaires avant la profitabilité
+-> ton interne va pas aimer
+peuvent pas acheter de data ?
+
+équipe très tech
+-> pb de com externe
+vs êtes qui ? c'est si dur ?
+le métier des vc est pas tech lui

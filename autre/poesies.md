@@ -20,6 +20,7 @@ layout: post
 - [ensemble](poesies/ensemble.md)
 - [les fourmis](poesies/les_fourmis.md)
 - [jadi](poesies/jadi.md)
+- [le jardin](poesies/jardin.md)
 - [le moineau](poesies/moineau.md)
 - [moteur promis](poesies/moteur_promis.md)
 - [nura danse](poesies/nura_danse.md)
