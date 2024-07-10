@@ -33,7 +33,7 @@ on obtient ces mesures :
 voici comment on a commencé 
 à les implémenter :
 
-{% highlight css %}
+```css
 /* modular spaces */
 
 :root {
@@ -46,7 +46,7 @@ voici comment on a commencé
 	--xl: calc(var(--m) * pow(var(--phi), 2));
 	--xxl: calc(var(--m) * pow(var(--phi), 3));
 }
-{% endhighlight %}
+```
 
 la syntaxe est inspirée du *atomic css*,
 avec des noms de variables parlants.
