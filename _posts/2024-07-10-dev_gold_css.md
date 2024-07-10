@@ -30,6 +30,8 @@ on obtient ces mesures :
 
 ![phi.png](/img/dev/phi.png){:.ioda}
 
+---
+
 voici comment on a commencé 
 à les implémenter :
 
@@ -50,6 +52,8 @@ voici comment on a commencé
 
 la syntaxe est inspirée du *atomic css*,
 avec des noms de variables parlants.
+
+---
 
 on peut ensuite facilement écrire des *helper classes*
 façon tailwinds, du genre :
@@ -193,6 +197,8 @@ une couleur complémentaire forte
 (pour les trucs comme button-primary),
 un noir et un blanc.
 
+---
+
 revenons à nos moutons :
 
 
@@ -262,6 +268,10 @@ créer une classe spécifique.
 m'enfin c'est virtuel,
 vous allez pas vous cogner la tête dessus.
 
+---
+
+continuons :
+
 ```css
 /* simple.css ideas */
 
@@ -316,6 +326,8 @@ pre {
 bon ça c'est la base,
 certaines choses devraient être par défaut,
 la table par exemple, mais bref.
+
+---
 
 j'en profite enfin pour faire un détour
 parmi les *utility classes* de every-layout :
@@ -431,7 +443,7 @@ c'est responsive même sur tamagotchi.
 > vous vous en doutez,
 > 123 et 199 sont des bons choix.
 > mais pourquoi ?
-> j
+>
 > tout simplement parce qu'ils appartiennent
 > à la [suite de fibonnaci](https://fr.wikipedia.org/wiki/Suite_de_Fibonacci)
 > `0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, 233, 377, 610, 987, 1597`,
