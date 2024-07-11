@@ -17,7 +17,25 @@ orange plus clair plus sombre ?
 
 # 152 et 251
 
-shrimple as that
+shrimple as that (what?)
+bref approche par la gauche,
+251 comme V de V
+
+# mouvements
+
+switch key 
+-> mélodique / harmonique mineur
+-> pas interdit depuis majeur
+
+diagonale (triton jump)
+attention à trouver les bonnes inversions
+(planquer la fonda du triton)
+
+
+
+
+
+---
 
 from le singe nu
 

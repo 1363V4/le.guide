@@ -57,3 +57,8 @@ et un paquet de mesures
 ça ça va dépendre du use case que je vais bien pouvoir trouver
 
 pour faire rentrer la réalité dans ma théorie.
+
+typiquement une assemblée constituante dont on parle en ce moment
+mr viktorovitch
+on tire au sort et le critère c'est s'ils acceptent
+(un an de formation)
