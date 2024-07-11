@@ -169,7 +169,7 @@ html {
 }
 
 body {
-  color: var(--gold_0);
+  color: var(--gold-0);
   background-color: var(--light);
 }
 ```
@@ -184,9 +184,9 @@ on les setup au début :
 :root {  
   --light: #E8EDDF;
   --dark: #333533;
-  --gold_0: #C1A24E;
-  --gold_1: #8D7840;
-  --gold_2: #7a6220;
+  --gold-0: #C1A24E;
+  --gold-1: #8D7840;
+  --gold-2: #7A6220;
   --blue: #010C1E;
 }
 ```
@@ -207,7 +207,7 @@ revenons à nos moutons :
 
 a,
 a:visited {
-  color: var(--gold_1);
+  color: var(--gold-1);
 }
 
 a:hover {
@@ -218,8 +218,8 @@ button,
 .button,
 a.button,
 input {
-  border: 1px solid var(--gold_0);
-  background-color: var(--gold_0);
+  border: 1px solid var(--gold-0);
+  background-color: var(--gold-0);
   color: var(--dark);
 }
 
@@ -229,9 +229,9 @@ input[type="submit"]:enabled:hover,
 input[type="reset"]:enabled:hover,
 input[type="button"]:enabled:hover,
 label[type="button"]:hover {
-  color: var(--gold_0);
-  background-color: var(--gold_1);
-  border-color: var(--gold_1);
+  color: var(--gold-0);
+  background-color: var(--gold-1);
+  border-color: var(--gold-1);
   cursor: pointer;
 }
 
@@ -242,7 +242,7 @@ input:enabled:focus-visible:where(
   [type="reset"],
   [type="button"]
   ) {
-    outline: 1px solid var(--gold_1);
+    outline: 1px solid var(--gold-1);
     outline-offset: 1px;
 }
 
@@ -254,7 +254,7 @@ button[disabled] {
   cursor: not-allowed;
   background-color: var(--blue);
   border-color: var(--blue);
-  color: var(--gold_2);
+  color: var(--gold-2);
 }
 ```
 
@@ -287,24 +287,24 @@ table {
 
 td,
 th {
-  border: 1px solid var(--gold_0);
+  border: 1px solid var(--gold-0);
   text-align: start;
   padding: var(--m);
 }
 
 th {
-  background-color: var(--gold_2);
+  background-color: var(--gold-2);
   font-weight: bold;
 }
 
 tr:nth-child(even) {
-  background-color: var(--gold_1);
+  background-color: var(--gold-1);
 }
 
 hr {
   border: none;
   height: 1px;
-  background: var(--gold_2);
+  background: var(--gold-2);
 }
 
 blockquote {
@@ -406,11 +406,11 @@ bien sûr on peut continuer d'utiliser des flexboxes.
   flex-wrap: wrap;
 }
 
-.gold_0 {
+.gold-0 {
   flex: 1 1 144px;
 }
 
-.gold_1 {
+.gold-1 {
   flex: 1.618 1.618 233px;
 }
 ```
