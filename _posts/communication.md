@@ -62,6 +62,10 @@ tu es dans le marché du pitch entrepreneur fin d'année.
 
 
 blog a smart bear
+il met des dessins d'humour partout
+et il en tire le sens qu'il veut hehe
+principe 0
+
 
 chatbot whatsapp
 password impossible ?

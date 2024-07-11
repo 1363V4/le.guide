@@ -425,12 +425,7 @@ on s'assure ainsi que les deux éléments restent
 dans les bonnes proportions...
 pour peu qu'il y en ait pas un qui soit trop gros.
 
-et c'est là le problème :
-on avait souvent un gros truc dans une des boîtes
-qui foutait tout en l'air.
-le wrapping n'arrangeait rien.
-
-le pire, c'est écrire ce `199px`
+le pire, c'est écrire ce `144px`
 magique alors que dans mes rêves,
 c'est responsive même sur tamagotchi.
 
@@ -461,32 +456,38 @@ c'est responsive même sur tamagotchi.
 > de même une tablette à 987px (377+610)
 > ou un desktop (breakpoint-l) à 1597px (610+987).
 
-une dernière astuce,
-qui marche un peu mieux :
+on avait parfois un problème :
+on avait souvent un gros truc dans une des boîtes
+qui foutait tout en l'air.
+le wrapping n'arrangeait rien.
 
 ```css
 .gold-0 {
   flex: 1 auto;
-  min-width: fit-content;
+  min-width: 0;
+  min-height: 0;
+  overflow: hidden;
 }
 
 .gold-1 {
   flex: var(--phi) auto;
-  min-width: fit-content;
+  min-width: 0;
+  min-height: 0;
+  overflow: hidden;
 }
 ```
 
-c'est une vidéo youtube explicative qui m'a suggéré ça...
-le gars lui-même avait pas l'air de comprendre pourquoi ça marche.
-
-mais grosso modo,
+on a été obligé d'utiliser
+[overflow: hidden](https://stackoverflow.com/questions/36247140/why-dont-flex-items-shrink-past-content-size)
+mais ça amène d'autres problèmes...
 utiliser flex pour avoir un ratio précis n'est pas
 forcément une bonne idée.
 
 (est-ce qu'on a fait tout ça pour rien ?
 peut-être. à voir si on a envie de coller ces classes
 sur quoi que ce soit.
-une sidebar peut-être ?)
+[une sidebar](https://every-layout.dev/layouts/sidebar/)
+peut-être ?)
 
 pouvons-nous faire mieux ?
 
@@ -521,7 +522,8 @@ on remarquera ici le joli usage de l'unité fr,
 pour *fraction*,
 qui semblait destiné à cet usage.
 
-en vrai,
+on a toujours le problème des gros trucs qui débordent,
+(car `1fr = minmax(auto, 1fr)`),
 on se chauffe un peu à lire la doc de grid
 et on obtient ça :
 
@@ -555,9 +557,6 @@ avec `grid-template-rows`
 > pour les use case explicites.
 
 ça demande encore du testing,
-avec les gaps notamment,
-et parfois minmax peut causer des soucis
-(d'ailleurs `1fr = minmax(auto, 1fr)`),
 mais bon,
 ça fait le café pour l'instant.
 
@@ -571,6 +570,7 @@ vous pouvez aller voir
 [tout ça](https://gold-css.onrender.com)
 en action dès maintenant.
 
+en bonus,
 quelques autres trucs 
 où j'ai une opinion :
 

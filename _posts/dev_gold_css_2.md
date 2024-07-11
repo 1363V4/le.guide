@@ -65,18 +65,48 @@ autre truc où il s'est pris les pieds
 la grille en 3 pour centrer mais le header qui en prend trois
 avec un min(90%, 45rem) bah... dégueu sur extra wide
 nan... et avec minmax on s'en sortait ? ouais viteuf mais ouais
+> puis tout le reste du layout cookbook
+
+puis lire ça
+https://css-tricks.com/
+ici la preuve que grid peut faire des bails
+https://css-tricks.com/dry-switching-with-css-variables-the-difference-of-one-declaration/
+j'aime bien l'idée de conditionner une variable à un media query
+puis de s'en servir
+https://css-tricks.com/css-container-queries/
+ça c'est bien
+https://css-tricks.com/grainy-gradients/
+ça c'est stylé
+
+
+https://wiki.csswg.org/ideas/mistakes
+plein d'erreurs dans css
+https://css-tricks.com/css-remedy/
+en fait le css reset c'est un vrai bail
+https://css-tricks.com/css-cascade-layers/
+putain faut que je layer mes trucs
+@layer reset, type, theme, components, utilities;
+@layer reset, default, theme, components, utilities, debug;
+oui c cool
+ne jamais utiliser !important
+
+netlify, vercel ou render?
+faut ship fast
 
 ---
 
 le site crash fort
-surout penser file structure
+surtout penser file structure
 
 un reset en root css
 https://github.com/CodeStitchOfficial/Intermediate-Website-Kit-LESS/tree/main/src/assets/css
+exemple : https://codestitch-intermediate.netlify.app/
 j'aurais séparé avec un main ou un utils
 de la redite ?
 pas giga clean mais bon
 le taff est là
+https://codestitch.app/app
+ça c'est giga clean
 
 les deux js dont t'as besoin
 dark mode et navbar
