@@ -4,6 +4,10 @@ layout: post
 ---
 
 
+grid-auto-flow: row;
+
+ou pas ?
+
 ---
 
 bon tout le monde a plein d'avis sur le css
@@ -80,6 +84,53 @@ https://github.com/CodeStitchOfficial/Intermediate-Website-Kit-LESS/tree/main/sr
 (mention spéciale accessibility)
 
 
+page counter in css
+https://herman.bearblog.dev/how-bear-does-analytics-with-css/
+
+hehe ça c'est grave marrant
+https://herman.bearblog.dev/the-frustration-loop/
+
+sympa la journée
+https://herman.bearblog.dev/quitting-social-media/
+
+sympa ça aussi
+https://sive.rs/
+une /now page, une /ai page
+
+chatbot sécu
+https://botsy.org/
+meta facture, environ 5 centimes le sms
+
+ai help
+https://developer.mozilla.org/en-US/plus/ai-help
+5 questions par jour de gpt3 bah mercé
+
+
 > The specification recommends not animating from and to auto.
 un peu chiant en vrai mais azy
 on va juste animer du changement de couleur, du gradient on a dit
+
+carte
+> d3.js ?
+> api google, on capitalise sur jumelio
+
+echecs poissons
+> aller
+
+gold.css
+> aller
+
+vc
+> foncer
+> faire semblant d'être gros
+> se faire manger
+
+legires.fr
+> façon neal.fun
+> avec gold, chess, map
+
+
+
+mdrr ng openai
+https://www.newgrounds.com/bbs/topic/1417630
+

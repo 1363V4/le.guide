@@ -529,7 +529,6 @@ et on obtient ça :
 .grid-01 {
   display: grid;
   grid-template-columns: minmax(144px, 1fr) minmax(233px, var(--phi)fr);
-  grid-auto-rows: auto;
 }
 ```
 
@@ -539,9 +538,28 @@ faut juste écrire les deux autres en vertical
 avec `grid-template-rows`
 (laissé en exercice au lecteur).
 
+> ### implicite vs explicite
+>
+> on aurait aussi pu écrire
+> `grid-auto-columns: 1fr var(--phi)fr`
+> pour avoir une grille 'implicite',
+> c'est-à-dire qui wrap si son contenu est trop gros.
+>
+> en principe, en css,
+> 'implicit is better than explicit',
+> à l'inverse de python.
+>
+> mais je me suis tellement cassé le crâne
+> avec le wrapping des flexbox
+> que je veux garder grid
+> pour les use case explicites.
+
 ça demande encore du testing,
 avec les gaps notamment,
-et parfois minmax peut causer des soucis.
+et parfois minmax peut causer des soucis
+(d'ailleurs `1fr = minmax(auto, 1fr)`),
+mais bon,
+ça fait le café pour l'instant.
 
 ---
 
