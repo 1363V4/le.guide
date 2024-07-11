@@ -40,13 +40,13 @@ voici comment on a commencé
 
 :root {
   --phi: calc((1 + sqrt(5)) / 2);
-	--m: 1rem; /* basis */
-	--xxs: calc(var(--m) * pow(var(--phi), -3));
-	--xs: calc(var(--m) * pow(var(--phi), -2));
-	--s: calc(var(--m) * pow(var(--phi), -1));
-	--l: calc(var(--m) * pow(var(--phi), 1));
-	--xl: calc(var(--m) * pow(var(--phi), 2));
-	--xxl: calc(var(--m) * pow(var(--phi), 3));
+  --m: 1rem; /* basis */
+  --xxs: calc(var(--m) * pow(var(--phi), -3));
+  --xs: calc(var(--m) * pow(var(--phi), -2));
+  --s: calc(var(--m) * pow(var(--phi), -1));
+  --l: calc(var(--m) * pow(var(--phi), 1));
+  --xl: calc(var(--m) * pow(var(--phi), 2));
+  --xxl: calc(var(--m) * pow(var(--phi), 3));
 }
 ```
 
@@ -135,7 +135,7 @@ img, picture, video, canvas, svg {
 }
 
 input, button, textarea, select {
-	font: inherit;
+  font: inherit;
 }
 
 p, h1, h2, h3, h4, h5, h6 {
@@ -165,12 +165,12 @@ donc pensez à écrire les choses le plus simplement possible,
 
 html {
   font-family: var(--sans-font);
-	scroll-behavior: smooth;
+  scroll-behavior: smooth;
 }
 
 body {
   color: var(--gold_0);
-	background-color: var(--light);
+  background-color: var(--light);
 }
 ```
 
@@ -181,13 +181,13 @@ on les setup au début :
 ```css
 /* colors */
 
-:root {	
-	--light: #E8EDDF;
-	--dark: #333533;
-	--gold_0: #C1A24E;
-	--gold_1: #8D7840;
-	--gold_2: #7a6220;
-	--blue: #010C1E;
+:root {  
+  --light: #E8EDDF;
+  --dark: #333533;
+  --gold_0: #C1A24E;
+  --gold_1: #8D7840;
+  --gold_2: #7a6220;
+  --blue: #010C1E;
 }
 ```
 
@@ -207,20 +207,20 @@ revenons à nos moutons :
 
 a,
 a:visited {
-	color: var(--gold_1);
+  color: var(--gold_1);
 }
 
 a:hover {
-	text-decoration: none;
+  text-decoration: none;
 }
 
 button,
 .button,
 a.button,
 input {
-	border: 1px solid var(--gold_0);
-	background-color: var(--gold_0);
-	color: var(--dark);
+  border: 1px solid var(--gold_0);
+  background-color: var(--gold_0);
+  color: var(--dark);
 }
 
 button:enabled:hover,
@@ -251,10 +251,10 @@ input:disabled,
 textarea:disabled,
 select:disabled,
 button[disabled] {
-	cursor: not-allowed;
-	background-color: var(--blue);
-	border-color: var(--blue);
-	color: var(--gold_2);
+  cursor: not-allowed;
+  background-color: var(--blue);
+  border-color: var(--blue);
+  color: var(--gold_2);
 }
 ```
 
@@ -276,50 +276,50 @@ continuons :
 /* simple.css ideas */
 
 abbr[title] {
-	cursor: help;
-	text-decoration-line: underline;
-	text-decoration-style: dotted;
+  cursor: help;
+  text-decoration-line: underline;
+  text-decoration-style: dotted;
 }
 
 table {
-	border-collapse: collapse;
+  border-collapse: collapse;
 }
 
 td,
 th {
-	border: 1px solid var(--gold_0);
-	text-align: start;
-	padding: var(--m);
+  border: 1px solid var(--gold_0);
+  text-align: start;
+  padding: var(--m);
 }
 
 th {
-	background-color: var(--gold_2);
-	font-weight: bold;
+  background-color: var(--gold_2);
+  font-weight: bold;
 }
 
 tr:nth-child(even) {
-	background-color: var(--gold_1);
+  background-color: var(--gold_1);
 }
 
 hr {
-	border: none;
-	height: 1px;
-	background: var(--gold_2);
+  border: none;
+  height: 1px;
+  background: var(--gold_2);
 }
 
 blockquote {
-	padding-inline: var(--m);
-	border-inline-start: var(--l) solid var(--m);
-	font-style: italic;
+  padding-inline: var(--m);
+  border-inline-start: var(--l) solid var(--m);
+  font-style: italic;
 }
 
 code {
-	font-family: var(--mono-font);
-	color: var(--dark);
+  font-family: var(--mono-font);
+  color: var(--dark);
 }
 
 pre {
-	white-space: pre-line;
+  white-space: pre-line;
 }
 ```
 
@@ -337,8 +337,8 @@ parmi les *utility classes* de every-layout :
 
 .stack {
   display: flex;
-	flex-direction: column;
-	justify-content: flex-start;
+  flex-direction: column;
+  justify-content: flex-start;
 }
 
 .stack-large > * + * {
@@ -372,13 +372,13 @@ un truc très simple, c'est déjà ça :
 
 ```css
 .gold-center {
-	display: flex;
-	flex-direction: column;
-	align-items: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
 .gold-center > * {
-	width: 61.8%;
+  width: 61.8%;
 }
 ```
 
@@ -400,18 +400,18 @@ bien sûr on peut continuer d'utiliser des flexboxes.
 /* golden boxes */
 
 .chain {
-	display: flex;
-	flex-direction: row;
-	align-items: center;
-	flex-wrap: wrap;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  flex-wrap: wrap;
 }
 
 .gold_0 {
-	flex: 1 1 144px;
+  flex: 1 1 144px;
 }
 
 .gold_1 {
-	flex: 1.618 1.618 233px;
+  flex: 1.618 1.618 233px;
 }
 ```
 
@@ -577,8 +577,8 @@ où j'ai une opinion :
 ```css
 article {
   border: 1px solid var(--dark);
-	border-radius: var(--m);
-	overflow: hidden;
+  border-radius: var(--m);
+  overflow: hidden;
 }
 ```
 
