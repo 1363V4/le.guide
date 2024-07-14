@@ -509,12 +509,12 @@ alors j'ai essayé de faire la même boîte au format grid.
 
 .grid-01 {
   display: grid;
-  grid-template-columns: 1fr var(--phi)fr;
+  grid-template-columns: 1fr 1.618fr;
 }
 
 .grid-01 {
   display: grid;
-  grid-template-columns: var(--phi)fr 1fr;
+  grid-template-columns: 1.618fr 1fr;
 }
 ```
 
@@ -530,7 +530,7 @@ et on obtient ça :
 ```css
 .grid-01 {
   display: grid;
-  grid-template-columns: minmax(144px, 1fr) minmax(233px, var(--phi)fr);
+  grid-template-columns: minmax(144px, 1fr) minmax(233px, 1.618fr);
 }
 ```
 
@@ -543,7 +543,7 @@ avec `grid-template-rows`
 > ### implicite vs explicite
 >
 > on aurait aussi pu écrire
-> `grid-auto-columns: 1fr var(--phi)fr`
+> `grid-auto-columns: 1fr 1.618fr`
 > pour avoir une grille 'implicite',
 > c'est-à-dire qui wrap si son contenu est trop gros.
 >
