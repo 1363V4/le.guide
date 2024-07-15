@@ -3,11 +3,9 @@ title: dev - gold.css 2
 layout: post
 ---
 
-plan d'attaque
+bon. 
 
-container mobile
-
-bon, on a fait quelques modifs, et appris des trucs.
+on a fait quelques modifs, et appris des trucs.
 
 ## gold.css v2
 
@@ -48,7 +46,7 @@ ensuite on a mis du nesting,
 
 pratique pour les gaps flexbox,
 faire des trucs genre `primary`
-à la daisy ui :
+à la tailwind / daisy ui :
 
 ```css
 .button {
