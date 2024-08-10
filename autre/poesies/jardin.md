@@ -19,7 +19,7 @@ enlierrant le pied d'un homme en pierre.
 
 le soldat ne voulait qu'une chose :
 
-la mort, sa mort, la ruine incendiaire.
+la mort, la mort, la ruine incendiaire.
 
 ---
 
