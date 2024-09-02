@@ -18,9 +18,9 @@ there is.
 i learned a few things along the way,
 and thought i might share them with you.
 
-there's stuff for exa too.
+there's **stuff for exa too**.
 
-oh, btw, welcome to my blog.
+*oh, btw, welcome to my blog.*
 
 ---
 
