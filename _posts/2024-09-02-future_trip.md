@@ -68,7 +68,7 @@ for example saves you from checking every single flight company.
 > on one or two metrics: price / duration.
 >
 > unfortunately, this means
-> they are vulnerable to the
+> they are vulnerable to
 > [goodhart's law](https://en.wikipedia.org/wiki/Goodhart%27s_law)
 > and companies develop shadow pricing.
 >
@@ -87,7 +87,7 @@ is that these searches were
 >across all search platforms...
 >somewhere in these fifty open tabs.
 
-thus the need for a more *holistic* search engine.
+thus the need for a *more holistic* search engine.
 
 arc browser has an
 [interesting take](https://x.com/joshm/status/1801279825522352407)
@@ -224,7 +224,7 @@ pic unrelated.
 
 #### you need miscellaneous data
 
-blogs are low-trust content but have hidden gems,
+blogs are low-trust content but might have hidden gems,
 like a cool speakeasy cocktail bar.
 
 trip-advisor is a data dumpster,
@@ -239,13 +239,13 @@ but they contain the most relevant info:
 menu, price, opening hours.
 
 perplexity can fetch from all these data sources at once,
-and adds some nice ux/ui on top:
+and adds some nice ux/ui on top.
 here is their map feature,
-showcasing hidden gems around you.
+showcasing hidden gems around you:
 
 ![perp](/img/exa/perp.png)
 
-in all this, exa needs to be at least on par.
+in all this, exa needs to be **at least on par**.
 
 ---
 
@@ -259,9 +259,12 @@ here, there is one thing that is very important to understand.
 
 traveling is core to the human experience.
 
-it is 10% global gdp,
-you get to compare languages, behaviours, economics,
-see nice stuff,
+it is 10% global gdp.
+
+you get to compare languages, behaviours, economics.
+
+see nice stuff.
+
 enjoy life.
 
 and **how else would you suffer through this shit.**
@@ -300,9 +303,7 @@ for not executing these 10+ actions in less than a minute.
 this is closely related to
 ["using the system in anger"](https://x.com/sorreg_namtyv/status/1828419985393475977)
 from curtis yarvin.
-
-there are many details which are easy to brush off from your office chair.
-
+there are many details which are easy to brush off from your office chair,
 but when traveling,
 any friction can become paramount.
 
@@ -310,6 +311,7 @@ this is why you **need to get the app**.
 
 forget paying anything using google translate on a site, won't work.
 most websites don't work anyway.
+some are scams.
 apps are just easier and more secure.
 
 this is also why
@@ -339,14 +341,14 @@ progress went so quick in this field that they're all outdated.
 - **the state of vr art is ok:**
 again, some gimmicky videos in museums,
 but the bottleneck isn't the tech,
-just the craft (3d modeling as in video games).
+just the craft (3d modeling, as in video games).
 - there's **already a million** "ai trip planners" websites out there.
 i'll probably never use them over a general purpose but more powerful model.
 a classic conondrum for ai "wrappers".
 
 my girl and i are young, broke and curious:
 we walked 15km a day during 3 weeks.
-we spent 3.1k/person for 21 days.
+we spent 3.1k per person.
 we had a terrific time.
 
 most other tourists didn't do that.
