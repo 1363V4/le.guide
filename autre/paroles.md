@@ -127,8 +127,23 @@ avec le bébé moche
 
 ---
 
-**wip***
+**wip**
 
 il y a une première fois à tout
 
 aux fins
+
+---
+
+**wip**
+
+elle a l’allure des filles de l’est
+elle a comme un blond aérien
+qui prend les cœurs et puis les jettent
+comme un rien
+en mille neuf cent quatre vingt sept
+on la trouvait sur les chemins
+allant de vienne à bucarest
+ou plus loin 
+qui se rappellera son nom ? (X2)
+peut-être ceux qu’elle a quittés (X2)
