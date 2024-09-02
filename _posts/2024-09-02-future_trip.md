@@ -367,4 +367,4 @@ there's cool stuff along this road.
 
 ![nice](/img/exa/nice.jpeg)
 
-see ya.
+[see ya](https://www.youtube.com/watch?v=MsALhjPVkuY).
