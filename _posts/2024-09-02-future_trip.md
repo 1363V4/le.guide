@@ -1,5 +1,5 @@
 ---
-title: chat gptrip
+title: future trip
 layout: post
 ---
 
@@ -54,7 +54,7 @@ we rode the tiger.
 
 and in an afternoon, we came up with this:
 
-![exa](/img/exa/travel.png)
+![travel](/img/exa/travel.png)
 
 3 weeks, 4 countries, 5 cities.
 
@@ -204,7 +204,7 @@ no hallucinations allowed -> "perplexity, do the heavy lifting".
 #### you don't speak the language
 
 english content is more globalized,
-more targeted at tourists.
+more targeted at tourists,
 and more likely to be paid for (partnerships, undercover ads).
 
 i don't speak hungarian,
@@ -219,6 +219,8 @@ they chew right through it and output perfect english.
 ![babel](/img/exa/babel.jpeg)
 
 *the great tower of babel, pieter brueghel, 1563*
+
+pic unrelated.
 
 #### you need miscellaneous data
 
@@ -357,9 +359,12 @@ we still have a long way to go.
 fortunately,
 there's cool stuff along this road.
 
-![perp](/img/exa/buda.jpeg)
-![perp](/img/exa/vienna.jpeg)
-![perp](/img/exa/sziget.jpeg)
-![perp](/img/exa/nice.jpeg)
+![buda](/img/exa/buda.jpeg)
+
+![vienna](/img/exa/vienna.jpeg)
+
+![sziget](/img/exa/sziget.jpeg)
+
+![nice](/img/exa/nice.jpeg)
 
 see ya.
