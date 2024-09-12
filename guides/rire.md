@@ -19,6 +19,7 @@ et je devrais finir moteur, et putain j'ai jeté les drafts
 
 principe zéro
 je le donne pas ici.
+(bah si du coup... m'enfin)
 qu'à mes futurs disciples.
 
 le rire n'existe pas.
@@ -34,6 +35,7 @@ hij c'est principe 1 aussi, 1+, va plus loin, klm principe 2+
 (ou l'inverse ? en miroir jusqu'au n ?)
 
 principe 0 : bergsonienne ? mécanique, dans l'humain et dans la langue
+on devrait essayer de faire rire les animaux
 principe 1 : humour "bug", rationalisation, apprivoiser la surprise, hij le parleur a l'information (ouais c'est en miroir)
 principe 2 : théorie freudienne, relâchement, tension et aggressivité
 
@@ -43,6 +45,8 @@ puis retour, jusqu'au spectacle
 les gens viennent voir the greatest show ever.
 
 ---
+
+révolution copernicienne
 
 ### le b.a.-ba
 

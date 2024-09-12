@@ -123,6 +123,8 @@ il a préféré attendre, perdre, slam trois (3) guinsoo
 et cliquer prisma ticket pour trouver xayah,
 autant dire qu'il a pas fait long feu.
 
+(j'écris ça, la théorie musicale c'est pas plus con)
+
 c'est ça que je veux
 britten here i come
 https://www.evs-musikstiftung.ch/en

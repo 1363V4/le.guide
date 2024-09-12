@@ -27,3 +27,8 @@ j'en ai vachement besoin le matin
 le deuxième de l'aprem peut me mettre mal de bide
 
 le hemp me met mal ??
+
+m'empêche de sourire
+et de la merde globalement
+mais le matin cette foutue sensation
+pris à la gorge et comme un rappel du combat

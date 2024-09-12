@@ -3,6 +3,17 @@ title: poésies
 layout: post
 ---
 
+> je l'ai composée moi-même, dit joe,
+> et d'un seul jet, comme qui dirait forger un fer à cheval d'un seul coup de marteau.
+> je n'ai jamais été aussi surpris de ma vie ;
+> je ne pouvais en croire mes propres yeux ;
+> à te dire vrai, je ne pouvais croire que c'était mon ouvrage.
+> comme je te le disais, mon petit pip,
+> j'avais eu l'intention de faire graver cela sur sa tombe ;
+> mais la poésie ne se donne pas :
+> qu'on la grave en creux ou en relief, en ronde ou en gothique,
+> ça coûte de l'argent, et je n'en fis rien.
+
 - [anthologie](poesies/anthologie.md)
 - ——————————
 - [à vivi](poesies/a_vivi.md)

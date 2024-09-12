@@ -44,3 +44,9 @@ tu le structures en thèse antithèse synthèse
 tu rédiges et puis tu fusionnes et remets les coupes à l'envie
 
 pas sorcier
+
+---
+
+jubilation névrotique
+éclater un moustique
+flaubert qui aligne ce bon con de charles

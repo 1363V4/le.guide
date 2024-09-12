@@ -19,3 +19,14 @@ tout ça sans compter mon manque de maturité à donner du temps aux gens au lie
 côté cœur ça vous regarde pas. 
 côté religion ça va, catho confirme. 
 la santé est bonne malgré ce truc au dos et la clope. donc pas trop bonne en vrai.
+
+ingénieur
+dirigeant de mclein
+président du gdcd
+(groupe de défense du cure-dents)
+membre fondateur de rics
+prix nobel d'humour
+lauréat du von ernst
+psychologue autodiag
+
+vincero.
