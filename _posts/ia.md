@@ -7,10 +7,15 @@ faut ship fast
 sympa la journée
 https://herman.bearblog.dev/quitting-social-media/
 
-
 sympa ça aussi
 https://sive.rs/
 une /now page, une /ai page
+
+now > journal
+écrire au passé simple
+tout assumer...
+
+https://gomakethings.com/poisoning-the-ai-well/
 
 chatbot sécu
 https://botsy.org/

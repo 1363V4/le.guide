@@ -7,7 +7,7 @@ je m'ennuyais en cours de bio.
 
 je prenais des notes en rêvassant (prions 0).
 j'essayais de les arranger en accents vialattesques.
-quand la foudre vient frapper cette soupe primordiale.
+quand la foudre vint frapper cette soupe primordiale.
 
 notre bonne professeure nous parla des prions.
 
@@ -18,8 +18,8 @@ ces protéines mal repliées foutent les autres en bordel.
 sans transmission.
 
 je voulus tenter l'expérience.
-je commencait par un peu d'ingénierie moléculaire.
-puis je rentrai en contact avec le journal de l'école (prions 5-8).
+je commençai par un peu d'ingénierie moléculaire.
+puis j'entrai en contact avec le journal de l'école (prions 5-8).
 ils acceptèrent de publier.
 
 l'expérience fut un succès.
