@@ -7,8 +7,6 @@ layout: post
 - [deuxième acte (le)](films/deuxième_acte.md)
 - ————————————————————
 - parasite, a
-- indochine, a
-- a.k., s
 - maxxxine, c+
 - emilia perez, b
 - city of darkness, s

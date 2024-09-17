@@ -263,3 +263,9 @@ on le fait vraiment.
 ne jamais oublier : `the medium is the message`.
 
 et c'est déjà pas mal.
+
+---[^5]
+
+[^5]: oui, j'ai mis des p'tites footnotes,
+    sinon je m'en sortais pas ici.
+    
