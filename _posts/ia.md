@@ -58,3 +58,7 @@ legires.fr
 mdrr ng openai
 https://www.newgrounds.com/bbs/topic/1417630
 
+
+j'ai lu ça
+https://qchu.substack.com/p/core-dump
+hmmm. le petit tpot.
