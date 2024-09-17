@@ -21,6 +21,8 @@ l'arrière-plan pérpétuel
 moi voudrait lire des trucs
 mais n'en parlons pas
 
+ou alors faire de l'humour trop drole
+
 jsais j'te bassine
 
 moi non plus veut pas être comme mon père

@@ -57,6 +57,24 @@ et une media-query du css qui
 (qui passe en `display:none`)
 l'un ou l'autre.[^1]
 
+```css
+#phone {
+    display: none;
+}
+#desktop {
+    display: block;
+}
+
+@media (max-width: 610px) {
+    #phone {
+      display: block;
+    }
+    #desktop {
+      display: none;
+    }
+}
+```
+
 [^1]: je l'avais initialement fait avec du javascript, 
     mais c'était complétement con.
 
@@ -219,6 +237,8 @@ et pour cause :
 
 non mais
 [regardez ça](https://leanrada.com/notes/pure-css-spa-router/).
+no js !
+
 c'est là que j'ai réalisé qu'avant html > css > js,
 il y a 
 [url.](https://leanrada.com/notes/compressing-websites-into-urls/)
