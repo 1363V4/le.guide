@@ -3,7 +3,15 @@ title: le guide du manger
 layout: post
 ---
 
+- [aromebase](#aromebase)
 - [shuriken](#shuriken)
+- [suzanne](#suzanne)
+
+---
+
+## aromebase
+
+*aromebase, 8 rue des fossés, 59800 lille*
 
 ---
 
@@ -259,3 +267,33 @@ je mangeais avec bonheur.
 tous les sushis se ressemblent...
 
 mais pas ceux-là.
+
+*shuriken, 129 rue solférino, 59000 lille*
+
+---
+
+## suzanne
+
+lucas tricot est un génie de la cuisine.
+
+il est regrettable qu'il soit né dans la mauvaise ville.
+la cuisine est un milieu particulièrement vulnérable à l'alcool.
+et le génie un destin particulièrement vulnérable au tragique.
+
+mais enfin, c'est ainsi.
+s'il en vient, qu'il y meure, c'est son droit.
+et, après tout, l'alcool est peut-être l'essence du génie.
+n'en faisons pas un plat.
+
+car lui en fait.
+
+des plats merveilleux.
+une brioche au poulet.p
+un mille-feuille de navet.
+ce qui lui passe par la tête,
+après deux à trois ans dans les mains.
+
+lucas tricot officie au suzanne,
+qu'on reconnaît facilement à ce qu'il est le meilleur restaurant de la ville.
+
+*restaurant suzanne, 4 place philippe lebon, 59000 lille*

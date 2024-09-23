@@ -99,3 +99,11 @@ je pris des spaghettis bolognaises et un fromage blanc au miel.
 dans un verre, le miel en dessous, on crut que j'eus pris une bière.
 
 nous blaguâmes de futures explosions.
+
+---
+
+23 septembre.
+j'aurais eu l'idée de faire un journal au passé simple.
+elle aurait eu chaque jour plus d'attrait,
+par là d'obsession ?
+où est-elle, puisqu'elle n'est dans ces pages ?
