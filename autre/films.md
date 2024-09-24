@@ -7,6 +7,7 @@ layout: post
 - [deuxième acte (le)](films/deuxième_acte.md)
 - ————————————————————
 - parasite, a
-- maxxxine, c+
-- emilia perez, b
+- maxxxine, b
+- emilia perez, b+
 - city of darkness, s
+- the social network, s

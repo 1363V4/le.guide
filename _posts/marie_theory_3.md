@@ -115,7 +115,7 @@ tout ça pour toujours rien comprendre
 on va faire du i-vi et du iv-i jusqu'à 
 
 https://www.youtube.com/watch?v=YEHWaGuurUk
-real
+real from evans
 
 le gars qui jouait à tft dans le métro en hyper roll
 il avait une sortie bt titan deux riven deux en storyweaver
@@ -128,3 +128,22 @@ autant dire qu'il a pas fait long feu.
 c'est ça que je veux
 britten here i come
 https://www.evs-musikstiftung.ch/en
+ernst von siemens
+
+---
+
+practice
+12 notes, 12 mois
+7 modes, 7 jours
+
+lundi janvier -> fa lydien
+dimanche décembre -> la dièse locrien
+
+trouver le bon mode qui va avec l'accord
+ex: le i-vi-iv-i
+je m'en sortais pas, je voulais le cycler à cause de ce i-i sans mouvement
+mais si on fait en lydien?
+euh bof. euh je veux dire... mineur ?
+
+pis y'a l'emmerde qu'on met jamais de iii
+alors que c'est le plus beau

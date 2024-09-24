@@ -121,7 +121,7 @@ bm - a - g -
 ```
 
 c'est bieng.
-voilà [ce que ça peut donner](/wav/mt2.wav).
+voilà [ce que ça peut donner](/wav/mt/mt2.wav).
 
 ---
 

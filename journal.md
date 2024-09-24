@@ -107,3 +107,15 @@ j'aurais eu l'idée de faire un journal au passé simple.
 elle aurait eu chaque jour plus d'attrait,
 par là d'obsession ?
 où est-elle, puisqu'elle n'est dans ces pages ?
+
+---
+
+lendemain. "- dirais-tu que tu as de bonnes capacités de négociation ?
+je n'ai pas été augmenté, je peux pas te répondre oui".
+
+ce fut drôle.
+j'estimai rapidement qu'un quotient intellectuel négatif
+devait correspondre à l'absence d'instinct de préservation.
+
+j'aurais apparus petit, sombre et en miroir, certes,
+si je n'avais regardé ailleurs.

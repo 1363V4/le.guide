@@ -11,6 +11,8 @@ layout: post
 
 ## aromebase
 
+la maison.
+
 *aromebase, 8 rue des fossés, 59800 lille*
 
 ---
@@ -288,9 +290,9 @@ n'en faisons pas un plat.
 car lui en fait.
 
 des plats merveilleux.
-une brioche au poulet.p
+une brioche au poulet.
 un mille-feuille de navet.
-ce qui lui passe par la tête,
+bref, ce qui lui passe par la tête,
 après deux à trois ans dans les mains.
 
 lucas tricot officie au suzanne,
