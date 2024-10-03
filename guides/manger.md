@@ -296,6 +296,8 @@ bref, ce qui lui passe par la tête,
 après deux à trois ans dans les mains.
 
 lucas tricot officie au suzanne,
-qu'on reconnaît facilement à ce qu'il est le meilleur restaurant de la ville.
+qu'on reconnaît facilement à ce qu'il est le meilleur restaurant de la ville...
+
+du moins les bons jours.
 
 *restaurant suzanne, 4 place philippe lebon, 59000 lille*

@@ -24,7 +24,7 @@ facile quoi.
 
 j'ai fait le premier point.
 un chessboard avec que des div c'est possible.
-[et je le prouve.](https://www.dev.legires.fr/echecs)
+[et je le prouve.](dev.legires.fr)
 
 ---
 

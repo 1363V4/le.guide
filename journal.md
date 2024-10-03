@@ -111,11 +111,41 @@ où est-elle, puisqu'elle n'est dans ces pages ?
 ---
 
 lendemain. "- dirais-tu que tu as de bonnes capacités de négociation ?
-je n'ai pas été augmenté, je peux pas te répondre oui".
+je n'ai pas été augmenté depuis 3 ans, je peux pas te répondre oui".
 
-ce fut drôle.
-j'estimai rapidement qu'un quotient intellectuel négatif
-devait correspondre à l'absence d'instinct de préservation.
+ce fut amusant de le renvoyer si fort. il en crampa, me sembla-t-il.
+j'estimai rapidement qu'à l'absence d'instinct de préservation
+devait correspondre un quotient intellectuel négatif.
 
 j'aurais apparus petit, sombre et en miroir, certes,
 si je n'avais regardé ailleurs.
+
+---
+
+26 septembre.
+bifrons vint me révéler la raison de cet équilibre instable :
+un décalage horaire de moins neuf heures avec san francisco,
+plus neuf heures avec la calédonie,
+que je me tinsse dans un temps qui n'existait pas.
+
+je ne me souvins plus si mon col était français ou italien.
+
+---
+
+27 septembre.
+le train eut du retard au début et à l'arrivée,
+pour des raisons différentes.
+lors d'un jeu télévisé, un candidat donna la bonne réponse
+par erreur, et gagna la question suivante par instinct.
+
+j'appris que mamie était à l'hôpital.
+
+
+jvais t'trouver mais d'abord j'vais dégazer rouge de rire
+une famille où on rit
+le pire mariage
+claudio
+bougie amour brule dans le salon
+pizza mutti
+
+

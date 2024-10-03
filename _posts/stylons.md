@@ -50,3 +50,39 @@ pas sorcier
 jubilation névrotique
 éclater un moustique
 flaubert qui aligne ce bon con de charles
+
+> jusqu'au soir on mangea.
+> quand on était trop fatigués d'être assis,
+> on allait se promener dans les cours
+> ou jouer une partie de bouchon dans la grange ; puis on revenait à table.
+> quelques-uns, vers la fin, s'y endormirent et ronflèrent.
+> mais, au café, tout se ranima ;
+> alors on entama des chansons, 
+> on fit des tours de force, on portait des poids,
+> on passait sous son pouce,
+> on essayait à porter les charettes sur ses épaules,
+> on disait des gaudrioles, on embrassait les dames.
+
+> et emma cherchait à savoir ce que l'on entendait au juste dans la vie
+> par les mots de *félicité*, de *passion* et *d'ivresse*,
+> qui lui avaient parus si beaux dans les livres.
+
+> au sortir de la messe, on le voyait sur sa porte
+> avec de belles pantoufles en tapisserie.
+
+> il rentrait tard, à dix heures, minuit quelquefois.
+> alors il demandait à manger, et, comme la bonne était couchée,
+> c'était emma qui le servait.
+> il retirait sa redingote pour dîner plus à son aise.
+> il disait les uns après les autres tous les gens qu'il avait rencontrés,
+> les villages où il avait été, les ordonnances qu'il avait écrites,
+> et satisfait de lui-même, il mangeait le reste du miroton,
+> épluchait son fromage, croquait une pomme, vidait sa carafe,
+> puis s'allait mettre au lit, se couchait sur le dos et ronflait.
+
+on s'estompe au fil du roman,
+monsieur machin et monsieur truc prennent la parole,
+les caractères sont bien tracés, c'est le nous et le ils.
+autrement dit, c'est trop tard.
+quand on leur voit le blanc de l'oeil,
+c'est qu'on est à portée de baïonette.

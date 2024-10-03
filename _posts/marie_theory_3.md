@@ -139,6 +139,10 @@ practice
 lundi janvier -> fa lydien
 dimanche décembre -> la dièse locrien
 
+tu vas me dire pas que ça à foutre
+en vrai tu prends ta lyre
+tu l'accordes le matin et hop jusqu'au sunset
+
 trouver le bon mode qui va avec l'accord
 ex: le i-vi-iv-i
 je m'en sortais pas, je voulais le cycler à cause de ce i-i sans mouvement
@@ -147,3 +151,134 @@ euh bof. euh je veux dire... mineur ?
 
 pis y'a l'emmerde qu'on met jamais de iii
 alors que c'est le plus beau
+
+audio
+ça ressemble à usure par moments
+
+---
+
+tout ce que je sais c'est que
+12 est hautement divisible
+
+quand je monte de 2 en 2,
+j'ai une gamme avec que des accords augmentés
+
+de 3 en 3, l'accord dim7
+
+barry avait peut-être un truc
+rien n'est moins sûr
+
+---
+
+on a pas le iii ?
+mais si !
+
+quand on fait i-vi i-vi
+(on a bien le côté bipolaire)
+puis iv-i iv-i
+ce i là c'est le iii du début !
+
+faut juste trouver des transis à rajouter
+mais la base c'est ça
+
+et pour revenir au i du début
+un petit 5 c'est légal et c'est bien
+
+y'a le i-vii-v qu'est joli en mineur
+quand tu majorise le v
+on le savait déjà
+
+faut juste foutre de l'ordre dans tout ça
+
+je fais en majeur do
+sol-mi-sol-do-sol-la
+et c'est joli
+
+---
+
+neptune holst
+
+de trois en trois que des dim
+
+de quatre en quatre que des aug
+
+en combinant les deux c'est bizarre
+do - mib - mi - fa# - sol# - la - do
+
+---
+
+me casse le crane a comprendre leur foutue sixte augmentée
+il me dit que le meilleur exemple c'est hit the road jack
+putain.
+
+https://www.youtube.com/@philippegouttenoire6555/videos
+gouttenoire c'est bien
+
+---
+
+okok bon
+tu peux mettre v ou vii d'un truc avant le truc
+i-vi si t'es en majeur
+le vi est mineur
+tu vas prendre son v majeur pour y aller
+et amener une note cool
+le i-vi mineur
+tu vas prendre le v normal pour descendre
+
+une fois plus c'est pour mettre de la tension
+à voir si on veut déjà
+
+et i-v-i c'est très bien
+le premier i prend deux temps
+
+et le ii dans tout ça
+
+cadence plagale iv-i
+et cadence moi i-vi
+
+fauré a bien fait ses cadences
+on a le droit de se servir detrucs
+mais pas mozart, et quelle misère
+
+---
+
+i-vi
+si t'es en mineur
+sixte augmentée et hop ton napolitain
+pour le prochain i-vi qui part du majeur
+si t'es majeur
+i-vi le vi est mineur
+et sixte augmentée tu reviens en mineur (??)
+(même t'as du suspense si tu majorises le vi
+ça peut être v simple ou harmonique
+et tu peux aller vers mineur ou majeur)
+
+vi mineur peut devenir
+bémol vi (majeur donc)
+
+en fait ça casse les couilles
+6 4 rien à voir avec vi iv c'est un renversement
+sixte augmentée rien à voir avec vi c'est un intervalle
+faut que je fasse mon propre charabia les autres c'est trop confus
+
+---
+
+i-v et ii-v-i
+
+est-ce que tu le fais une fois normal
+puis une fois avec le ii-v-i pour changer de tonalité
+mais t'as habitué l'oreille à la logique et au rythme
+
+en vrai
+dodécaphonisme, bruitisme
+faut vivre avec son temps
+je veux juste des suites d'accords
+et pouvoir créer des moments différents dans mes morceaux
+le cercle des quintes suffit
+
+les aug et les dim c'est bon j'ai assez pété mon crane fuck it
+v de v et c'est mar
+
+giant steps c'est un enchainement de ii-v-i
+je peux faire un enchainement de i-v-ii-v-i ?
+

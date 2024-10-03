@@ -32,3 +32,7 @@ m'empêche de sourire
 et de la merde globalement
 mais le matin cette foutue sensation
 pris à la gorge et comme un rappel du combat
+
+me rend de plus en plus souvent malade
+surtout le deuxième de l'aprem
+je l'enlève je bois un coup d'eau et ça passe

@@ -7,32 +7,47 @@ bon
 
 # fcgdaeb
 
+fc grosse dick arrive en boîte 
+
+# places
+
 1526374
+ou 4152637
+(catin ceinte de citrons secs)
+
+puis le rôle dans la famille
 
 # lmmdmpl
 
+la mamie de ma parle letton
+lydien majeur myxolidien dorien mineur phrygien locrien
+lis, mamie endormie, phryloc
+lima mixe dormi phryloc
+bref...
 plus clair au plus sombre
-
-orange plus clair plus sombre ?
 
 # 152 et 251
 
-shrimple as that (what?)
-bref approche par la gauche,
+(152 ?)
+approche par la gauche,
 251 comme V de V
+('tention, v toujours majeur, même si t'vas en mineur)
+
+changer de ton ou changer de mode (les deux ensemble ? hmm surement berk)
 
 # mouvements
 
 switch key 
 -> mélodique / harmonique mineur
 -> pas interdit depuis majeur
+(rien compris)
 
 diagonale (triton jump)
 attention à trouver les bonnes inversions
 (planquer la fonda du triton)
 
-
-
+euh
+non bah marie theory
 
 
 ---
@@ -45,3 +60,42 @@ from le singe nu
 4. tu choisiras les plus satisfaisantes de ces variations et tu les développeras aux dépens des autres
 5. tu combineras et tu recombineras ces variations entre elles
 6. tu feras cela pour le plaisir, comme une fin en soi
+
+important ça
+faut pas oublier que les gens savent chanter
+parce qu'ils connaissent et aiment des chansons
+
+sont pas familiers de messian, ni même de mozart
+qui parle et à qui on parle
+un type qui explore à ceux qui restent derrière
+mais j'y connais rien
+
+le v de v c'est vraiment
+cet outil qui sonne creux et faux sous la lime
+
+même en mineur ça marche
+dom-d#-g#-g
+
+traité malheureux d'harmonie
+
+prélude 
+les mémos
+premier mouvement
+i-v-i
+(trick v maj)
+i-vi
+iv-i
+deuxième mouvement
+le reste
+i-vii-v
+majeur le 7
+i-v-ii-v-i
+le 2-5-1
+troisième mouvement
+ptet les plus complexes
+conclusion
+
+---
+
+à garder:
+
