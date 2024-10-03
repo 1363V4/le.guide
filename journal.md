@@ -140,12 +140,7 @@ par erreur, et gagna la question suivante par instinct.
 
 j'appris que mamie était à l'hôpital.
 
+---
 
-jvais t'trouver mais d'abord j'vais dégazer rouge de rire
-une famille où on rit
-le pire mariage
-claudio
-bougie amour brule dans le salon
-pizza mutti
-
-
+3 octobre.
+quelle semaine.

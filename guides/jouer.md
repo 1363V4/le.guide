@@ -99,3 +99,113 @@ conclusion
 
 à garder:
 
+giant steps c'est un enchainement de ii-v-i
+je peux faire un enchainement de i-v-ii-v-i ?
+
+
+i-v et ii-v-i
+
+est-ce que tu le fais une fois normal
+puis une fois avec le ii-v-i pour changer de tonalité
+mais t'as habitué l'oreille à la logique et au rythme
+
+
+i-vi
+si t'es en mineur
+sixte augmentée et hop ton napolitain
+pour le prochain i-vi qui part du majeur
+si t'es majeur
+i-vi le vi est mineur
+et sixte augmentée tu reviens en mineur (??)
+(même t'as du suspense si tu majorises le vi
+ça peut être v simple ou harmonique
+et tu peux aller vers mineur ou majeur)
+
+vi mineur peut devenir
+bémol vi (majeur donc)
+
+
+okok bon
+tu peux mettre v ou vii d'un truc avant le truc
+i-vi si t'es en majeur
+le vi est mineur
+tu vas prendre son v majeur pour y aller
+et amener une note cool
+le i-vi mineur
+tu vas prendre le v normal pour descendre
+
+une fois plus c'est pour mettre de la tension
+à voir si on veut déjà
+
+et i-v-i c'est très bien
+le premier i prend deux temps
+
+et le ii dans tout ça
+
+cadence plagale iv-i
+et cadence moi i-vi
+
+on a pas le iii ?
+mais si !
+
+quand on fait i-vi i-vi
+(on a bien le côté bipolaire)
+puis iv-i iv-i
+ce i là c'est le iii du début !
+
+faut juste trouver des transis à rajouter
+mais la base c'est ça
+
+et pour revenir au i du début
+un petit 5 c'est légal et c'est bien
+
+y'a le i-vii-v qu'est joli en mineur
+quand tu majorise le v
+on le savait déjà
+
+faut juste foutre de l'ordre dans tout ça
+
+je fais en majeur do
+sol-mi-sol-do-sol-la
+et c'est joli
+
+trouver le bon mode qui va avec l'accord
+ex: le i-vi-iv-i
+je m'en sortais pas, je voulais le cycler à cause de ce i-i sans mouvement
+mais si on fait en lydien?
+euh bof. euh je veux dire... mineur ?
+
+audio
+ça ressemble à usure par moments
+
+(j'écris ça, la théorie musicale c'est pas plus con)
+
+c'est ça que je veux
+britten here i come
+https://www.evs-musikstiftung.ch/en
+ernst von siemens
+
+thunderball
+i-vi majeur au début (do)
+iv-i mineur au milieu (do mineur)
+
+en gros en iv-i quand tu fais ce move précis en mineur
+tu peux majeur le i
+pratique ! comme ça les i-i tu fais i maj - i min
+j'ai enregistré deux bangers : les couleurs du soir (iv-i-i-vi en lam) et un anthem (dom)
+
+quand tu fais i-vi tu peux aller chercher au lieu du vi
+le vi6 du vi (lol)
+ça fait une sorte de ii7
+
+y'a l'heure du loup qui est une sorte de i-vi-iv-i
+
+tester i-vi et iv-i
+dans plusieurs modes
+
+on va commencer simple hein
+back to basics comme dirait l'autre pianiste
+
+prendre notes ici
+
+
