@@ -91,11 +91,11 @@ pas foooooorcément un souci,
 si on fait les choses bien.
 
 ```css
-#desktop #menu {
+#desktop .menu {
     padding: 10%;
 }
 
-#phone #menu {
+#phone .menu {
     padding: 20%;
 }
 ```
@@ -108,7 +108,7 @@ sur mobile et desktop, faut le payer.
 en js, c'est plus chiant :
 
 ```js
-const phoneMenu = ("#phone" || document).querySelector("#menu")
+const phoneMenu = document.querySelector("#phone").querySelector(".menu")
 ```
 
 ou utiliser
