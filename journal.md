@@ -144,3 +144,13 @@ j'appris que mamie était à l'hôpital.
 
 3 octobre.
 quelle semaine.
+
+---
+
+14 octobre.
+nous pleurâmes la mort de deux nouvelles tortues.
+
+---
+
+16 octobre.
+le beaulieu rouvrit.
