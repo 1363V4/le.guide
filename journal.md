@@ -154,3 +154,13 @@ nous pleurâmes la mort de deux nouvelles tortues.
 
 16 octobre.
 le beaulieu rouvrit.
+
+---
+
+24 octobre.
+on voulut qu'un beau matin, j'eus oublié les trois premières années de ma vie.
+quelle idiotie.
+mais la notion de mémoire m'échappa.
+
+l'omnibus s'arrêta à mon lit et
+je découvris : "la vie est se battre *ou* faire l'amour".
