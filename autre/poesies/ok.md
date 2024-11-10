@@ -25,7 +25,7 @@ et mes larmes et mes larmes tritubes.
 
 en bateau à moteur sous le pont,
 
-j'ai fait le tour, et j'ai vu le fond
+faisant le tour, j'ai, voyant le fond
 
 refléter d'alma la lueur tragique,
 
