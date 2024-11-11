@@ -19,7 +19,7 @@ un gros tas de poussière en chaque saison
 
 qui tache, remâche, bâche et couvre la maison
 
-infaillible et j'ai mis mon âme en fondation.
+infaillible, et j'ai mis mon âme en fondation.
 
 ---
 
