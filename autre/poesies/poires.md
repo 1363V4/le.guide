@@ -5,9 +5,9 @@ layout: post
 
 la mort en jambe j'irai
 
-par la porte entrabaillée
-
 au lit des nécessités
+
+par la porte entrebâillée
 
 à sa douce aura porté
 
