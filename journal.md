@@ -144,3 +144,9 @@ j'appris que mamie était à l'hôpital.
 
 3 octobre.
 quelle semaine.
+
+---
+
+8 octobre.
+je me levai avec un air en tête : "ô ma fille, ne m'en veux pas".
+je fouillai les rêves, puis les poubelles.
