@@ -175,6 +175,3 @@ je découvris : "la vie est se battre *ou* faire l'amour".
 
 27 octobre.
 une nouvelle fois, je me retins de faire ce qu'il eût fallu que je fasse.
-
-6466
-2785
