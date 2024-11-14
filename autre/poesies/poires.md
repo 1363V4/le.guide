@@ -5,11 +5,11 @@ layout: post
 
 la mort en jambe j'irai
 
-à sa douce aura porté
-
-par la porte entrebaillée
-
 au lit des nécessités
+
+à sa douce aura portée
+
+par la porte entrebâillée
 
 ---
 
