@@ -40,6 +40,7 @@ layout: post
 - [pause vape](poesies/pause_vape.md)
 - [petite musique](poesies/petite_musique.md)
 - [le piano](poesies/piano.md)
+- [les poires](poesies/poires.md)
 - [prise au sol](poesies/prise_au_sol.md)
 - [quatre vérités](poesies/quatre_verites.md)
 - [référence](poesies/reference.md)

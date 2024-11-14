@@ -150,3 +150,31 @@ quelle semaine.
 8 octobre.
 je me levai avec un air en tête : "ô ma fille, ne m'en veux pas".
 je fouillai les rêves, puis les poubelles.
+
+---
+
+14 octobre.
+nous pleurâmes la mort de deux nouvelles tortues.
+
+---
+
+16 octobre.
+le beaulieu rouvrit.
+
+---
+
+24 octobre.
+on voulut qu'un beau matin, j'eus oublié les trois premières années de ma vie.
+quelle idiotie.
+mais la notion de mémoire m'échappa.
+
+l'omnibus s'arrêta à mon lit et
+je découvris : "la vie est se battre *ou* faire l'amour".
+
+---
+
+27 octobre.
+une nouvelle fois, je me retins de faire ce qu'il eût fallu que je fasse.
+
+6466
+2785
