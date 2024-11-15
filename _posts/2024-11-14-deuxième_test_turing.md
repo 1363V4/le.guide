@@ -10,20 +10,29 @@ en gros c'est ça :
 
 ![turing1](/img/turing/turing1.png){:.ioda}
 
-moins connu, mais il y a un jeu marrant :
+on parle à **?**
+et on doit deviner si c'est un robot ou pas.
+
+moins connu, il y a un jeu marrant :
 [human or not](https://www.humanornot.ai/).
 c'est une sorte de mise en pratique.
-ça devient de plus en plus dur au fur et à mesure des avancées de l'ia.
+
+test qui devient de plus en plus dur au fur et à mesure des avancées de l'ia.
 
 ---
 
 alors on dit souvent, oui mais c'est que du texte.
+y'a pas tout le reste des qualia : voix, expressions, le physique quoi.
+
 moi ton robot je le crame di-rect,
 on est pas dans ex machina,
 tout ça tout ça...
 
-mais je me suis dit :
+mais je réponds :
 dans le futur, on sera interfacé.
+
+on aura un assistant virtuel
+qui pré-digérera le monde pour nous
 on sera pas plus en direct,
 plus "en prise", mais moins !
 
