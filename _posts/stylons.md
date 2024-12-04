@@ -86,3 +86,19 @@ les caractères sont bien tracés, c'est le nous et le ils.
 autrement dit, c'est trop tard.
 quand on leur voit le blanc de l'oeil,
 c'est qu'on est à portée de baïonette.
+
+---
+
+vialatte le gentil humain
+
+"histoire des femmes"
+
+le sac à main
+
+> il contient de tout, plus un bas de rechange,
+> des ballerines pour conduire, un parapluie tom pouce,
+> le noir, le rouge, le vert et la poudre compacte,
+> une petite lampe pour fouiller dans le sac,
+> des choses qui brillent parce qu'elles sont dorées,
+> un capuchon en plastique transparent,
+> et la lettre qu'on cherchait partout depuis trois semaines.

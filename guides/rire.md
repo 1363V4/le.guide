@@ -15,6 +15,13 @@ la bande du lycée
 ensuite il a fallu trouver si j'étais marrant
 et je devrais finir moteur, et putain j'ai jeté les drafts
 
+bizarrement lui qui me revient que je pense b-a
+ak j'ai rien contre
+https://www.youtube.com/watch?v=Sh37jjodXVU
+
+
+
+
 ---
 
 principe zéro
@@ -28,6 +35,9 @@ il n'y a qu'un métier, faire rire. un job.
 > illumination : les blagues sont un prétexte
 
 principe 1 : la surprise, ab
+
+la série funny on purpose l'a trouvé aussi
+https://www.youtube.com/watch?v=e4igO97KKcs
 
 principe 2 : l'histoire, cdef
 
