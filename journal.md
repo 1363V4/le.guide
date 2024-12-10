@@ -181,3 +181,9 @@ une nouvelle fois, je me retins de faire ce qu'il eût fallu que je fasse.
 18 novembre.
 après une semaine passé à goûter les fruits de la tranquilité,
 le regret m'assaillit lorsque j'eus méprisé mes propres découvertes.
+
+---
+
+10 décembre.
+manipulé la veille, félicité le lendemain, je payai plus que nécessaire.
+je ralentis mes efforts.

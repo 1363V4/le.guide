@@ -11,7 +11,9 @@ layout: post
 
 ## aromebase
 
-la maison.
+le meilleur restaurant de lille.
+
+ou comme j'aime l'appeler, "la maison".
 
 *aromebase, 8 rue des fossés, 59800 lille*
 
