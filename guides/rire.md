@@ -110,3 +110,8 @@ half of a good joke ?
 l: lire ?
 bien sûr tous les humoristes n'étaient pas de grands lecteurs mais
 il y a plus d'humour dormant dans les livres que dans tous les dvd
+
+---
+
+quand on rit de a|b on est méchant avec qui ?
+a ? b ? les deux ?
