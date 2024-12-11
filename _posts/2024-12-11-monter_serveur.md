@@ -8,17 +8,22 @@ en ce moment je fais des sites.
 comment ? je vais chez monsieur ovh,
 j'achète un vps (un serveur avec une adresse ip),
 un nom de domaine
-(je rajoute un **a record** vers le vps et j'enlève les autres)
+(je rajoute deux **a records**, www et apex, vers le vps, puis j'enlève les autres)
 et puis je configure le serveur.
 
 je fais ça comme ça :
 
 ## premiers pas
 
-on se log et on fait un compte :
+on se log :
 
 ```bash
 ssh debian@your_server_ip
+```
+
+et on fait un compte :
+
+```bash
 sudo apt update && sudo apt upgrade -y
 sudo adduser yourusername
 sudo usermod -aG sudo yourusername
@@ -72,7 +77,7 @@ Host nomdusite
   HostName IP
   User yourusername
   Port XXX
-  IdentityFile C:\Users\louis\.ssh\id_ed25519
+  IdentityFile C:\Users\username\.ssh\id_ed25519
 ```
 
 ensuite tu pourras "ssh nomdusite" tranquillement.
