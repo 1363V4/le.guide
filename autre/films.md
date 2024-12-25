@@ -7,7 +7,7 @@ layout: post
 - [deuxième acte (le)](films/deuxième_acte.md)
 - ————————————————————
 - perfect days, s+
-- parasite, a
+- parasite, a+
 - maxxxine, b
 - emilia perez, b+
 - city of darkness, s
