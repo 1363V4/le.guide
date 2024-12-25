@@ -24,30 +24,34 @@ ou comme j'aime l'appeler, "la maison".
 tous les sushis se ressemblent.
 
 c'est bizarre, non ?
-de recommander un sushi.
+de vous recommander un sushi.
+
 une nourriture de gratte-ciel,
-quand une assemblée hétéroclite vote,
+qu'une assemblée hétéroclite choisit,
 mollement,
-de reprendre des forces pour boucler un dossier,
-par une nourriture convenue,
+pour reprendre des forces avant de boucler un dossier,
+une nourriture convenue,
 au goût sans surprise.
 
 une nourriture "paix des ménages",
 pour manger devant la télé.
 moins puant que la pizza,
-moins gras que le hamburger,
-la plus mondialisée de toutes.
+moins gras que le burger,
+la plus ok à manger froid,
+la plus mondialisée des bouffes.
 
 tous les sushis se ressemblent.
 
-tous les restaurants à sushi... aussi.
+tous les restaurants à sushi... 
+se ressemblent aussi.
 
-tous les "japonais"... comme on dit.
+tous les "japonais", comme on dit...
 dont on dit d'ailleurs qu'ils sont tenus par des chinois.
 "non mais lui c'est un japonais mais qui est tenu
 par un *vrai* japonais",
+oui oui c'est ça,
 comme pour justifier que découper un poisson devant toi
-le rendait meilleur.
+le rendrait meilleur.
 
 de toute façon, chinois, japonais...
 tous les asiatiques se ressemblent.
@@ -94,16 +98,16 @@ elle s'efforce de maintenir un sourire.
 
 je sais bien.
 je ne donne pas pour autant.
-
 ma conscience est à moitié tranquille :
 elle a une bonne rue, béthune.
+ça ira.
 
 chacun d'eux a sa rue, qu'il arpente,
 parfois jusqu'au plus noir de la nuit,
 jusqu'à ce que n'interviennent
 les authentiques égorgeurs.
 
-la sienne est très centrale, passante,
+béthune est très centrale, passante,
 les promeneurs nocturnes sont fréquents :
 c'est la rue des cinémas.
 
@@ -114,10 +118,10 @@ les gens se battaient à l'entrée
 pour un film de 1927.
 ils avaient bien raison.
 
-ce chef-d'oeuvre du cinéma,
-mélange de science-fiction et de récit biblique,
-illumine avec force et démesure
-des vérités éternelles.
+chef-d'oeuvre du cinéma,
+mélange de science-fiction, de récit biblique,
+de force et de démesure,
+de vérités éternelles.
 un message infini et emprisonnée. 11811.
 
 je souffre quelque peu du syndrome de stendhal :
@@ -136,9 +140,9 @@ avait fait l'épreuve des saisons,
 comme métropolis l'épreuve du temps.
 
 je traverse gambetta.
-quelques égorgeurs sont sortis plus tôt,
+quelques égorgeurs, sortis plus tôt,
 crachent par terre,
-en repérage des tueries nocturnes.
+repèrent des tueries.
 
 les filles s'abritent sous les porches
 ou se déplacent en groupe.
@@ -184,8 +188,9 @@ un autre mendiant patrouille.
 
 il me regarde dans les yeux.
 lui aussi essaye de marchander.
-j'ai pas d'argent. mais si je vous donne de la monnaie.
-j'ai pas d'argent. et si vous alliez au distributeur.
+j'ai pas d'argent. 
+j'ai pas d'argent.
+j'ai pas d'argent. et si vous alliez au distributeur ?
 désolé, bonne soirée.
 
 il s'en va.
@@ -199,7 +204,7 @@ en me reconnaissant,
 il m'insulte et continue sa route.
 
 à dix mètres de là, l'équipe de maison ramen fume,
-et regarde d'un oeil amusé.
+et me regarde d'un oeil amusé.
 ces choses-là sont-elles étranges pour les asiatiques ?
 on les voit rarement faire la manche.
 
@@ -219,8 +224,8 @@ des petits morceaux d'avocats,
 du riz, de la sauce soja.
 
 la délivrance est proche.
-j'accélère...
-mais soudain j'entends :
+j'accélère.
+soudain j'entends :
 
 "monsieur ! monsieur !"
 
@@ -231,8 +236,6 @@ mais soudain j'entends :
 putain.
 je m'enfonce dans ma capuche.
 encore un.
-un dernier.
-
 je me retourne :
 
 c'était le patron.
@@ -272,6 +275,8 @@ tous les sushis se ressemblent...
 
 mais pas ceux-là.
 
+pas ceux-là.
+
 *shuriken, 129 rue solférino, 59000 lille*
 
 ---
@@ -279,21 +284,23 @@ mais pas ceux-là.
 ## suzanne
 
 lucas tricot est un génie de la cuisine.
-
 il est regrettable qu'il soit né dans la mauvaise ville.
-la cuisine est un milieu particulièrement vulnérable à l'alcool.
+
+car la cuisine est un milieu particulièrement vulnérable à l'alcool.
 et le génie un destin particulièrement vulnérable au tragique.
 
 mais enfin, c'est ainsi.
 s'il en vient, qu'il y meure, c'est son droit.
 et, après tout, l'alcool est peut-être l'essence du génie.
-n'en faisons pas un plat.
 
-car lui en fait.
+n'en faisons pas un plat.
+laissons-les lui.
 
 des plats merveilleux.
 une brioche au poulet.
 un mille-feuille de navet.
+un million de fantaisies.
+
 bref, ce qui lui passe par la tête,
 après deux à trois ans dans les mains.
 
