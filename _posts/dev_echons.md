@@ -26,3 +26,5 @@ ici regex fen validator
 https://github.com/thomasahle/sunfish/blob/master/sunfish.py
 
 en vrai il check pas les moves ce bouf ?
+
+cancer: peut retirer une de ses pièces ?

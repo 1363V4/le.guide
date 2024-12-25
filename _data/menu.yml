@@ -1,14 +1,6 @@
 entries:
   - title: autre
     url: autre.html
-  - title: guides
-    entries: 
-      - title: le guide du manger
-        url: guides/manger.html
-      - title: le guide du travail
-        url: guides/travail.html
-  - title: journal
-    url: journal.html
   - title: posts
     post_list: true
 

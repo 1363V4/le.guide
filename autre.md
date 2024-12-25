@@ -3,7 +3,9 @@ title: autre
 layout: post
 ---
 
+- [guides](autre/guides.md)
 - [jeux](autre/jeux.md)
+- [journal](autre/journal.md)
 - [films](autre/films.md)
 - [musique](autre/musique.md)
 - textes
