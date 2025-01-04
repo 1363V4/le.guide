@@ -12,4 +12,3 @@ bien sûr c'est pas du proust
 18-25 toi 4chan moi
 
 j'ai pas le lien
-

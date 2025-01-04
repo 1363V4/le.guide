@@ -187,3 +187,8 @@ le regret m'assaillit lorsque j'eus méprisé mes propres découvertes.
 10 décembre.
 manipulé la veille, félicité le lendemain, je payai plus que nécessaire.
 je ralentis mes efforts.
+
+---
+
+25 décembre.
+j'imaginai tout le monde tout nu.
