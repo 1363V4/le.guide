@@ -30,3 +30,5 @@ lauréat du von ernst
 psychologue autodiag
 
 vincero.
+
+https://steve-yegge.blogspot.com/2007/09/ten-tips-for-slightly-less-awful-resume.html
