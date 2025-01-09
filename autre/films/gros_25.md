@@ -1,0 +1,50 @@
+---
+title: le gros 25
+layout: post
+---
+
+- 7 samouraïs (les) - 
+- 400 coups (les) - 
+- ailes du désir (les) - 
+- affaire de famille (une) - 
+- affranchis (les) - 
+- american beauty - l
+- american psycho - d
+- apocalypse now - 
+- armée des ombres (l') - 
+- arme fatale (l') - 
+- barry lyndon - 
+- belle et la bête (la) - 
+- boogie nights - 
+- breakfast club (the) - 
+- cercle des poètes disparus (le) - d
+- cercle rouge (le) - l
+- chantons sous la pluie - l 
+- cinema paradiso - 
+- citizen kane - 
+- cité de dieu (la) - 
+- deer hunter (the) - 
+- delicatessen - 
+- do the right thing - 
+- eraserhead - 
+- évadés (les) - l
+- eyes wide shut - d
+- goonies (les) - a
+- loup de wall street (le) - l
+- metropolis - l
+- mirror - 
+- parapluies de cherbourg (les) - 
+- planète fantastique (la) - 
+- ponyo - 
+- princess bride - 
+- requiem pour un massacre - 
+- red shoes (the) - 
+- rosemary's baby - 
+- samouraï (le) - 
+- scarface - l
+- septième sceau (le) - 
+- seul au monde - 
+- thelma et louise - d
+- there will be blood - 
+- tombeau des lucioles (le) - 
+- vie est belle (la) - l
