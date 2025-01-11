@@ -36,3 +36,6 @@ l'autre jour à une soirée
 
 # darmakar
 ces quatre nobles vérités sont souvent comparées au processus des soins dispensés de la part d'un médecin (sanskrit: भिषग्वर bhiṣagvara ou भैषज्यगुरु bhaiṣajya-guru) : la personne consciente, éveillée (बुद्ध buddha) a pour tâche de guérir les personnes souffrantes de leurs maux. il constate les symptômes, fait un diagnostic de la maladie, trouve la méthode de la guérison et prescrit un remède.
+
+# microchimérisme
+les jumeaux vivent plus longtemps que les non-jumeaux indépendamment du sexe. les femmes plus lgtps que les hommes. des cellules proches de nous qui nous réparent. pourront se fabriquer. 2050, fin de la mort ? pas avec moi. le nul il part (nullipare lol).
