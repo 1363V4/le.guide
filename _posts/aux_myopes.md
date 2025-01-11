@@ -32,5 +32,3 @@ calendrier / todo.
 couper les conversations.
 
 sinon, c'est signer un document sans le lire.
-
-
