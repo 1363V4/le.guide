@@ -5,7 +5,9 @@ layout: post
 
 c'est l'histoire d'un mec.
 
-il est myope. mais il met jamais ses lunettes. par coquetterie.
+il est myope. mais il met jamais ses lunettes. 
+
+par coquetterie.
 
 l'ennui, c'est qu'il est pilote de course.
 
@@ -25,10 +27,10 @@ et vous aussi, vous êtes cons. et pire,
 
 ## vous savez, moi, sans mes lunettes...
 
-si vous êtes comme moi, vous êtes *adhd* comme on dit.
+si vous êtes comme moi, vous êtes *adhd* (comme on dit).
 
-plus ou moins fort,
-mais quand même un peu,
+*adhd* plus ou moins fort,
+mais *adhd* un peu quand même,
 vu que votre smartphone y travaille de toutes ses forces.
 
 en gros c'est quoi ?
@@ -44,9 +46,9 @@ le futur est un truc flou.
 
 chaque fois que vous dites :
 
-- je le ferai
-- on s'appelle
-- ça arrive
+- "je le ferai"
+- "on s'appelle"
+- "ça arrive"
 
 ...vous vous engagez sur un futur que vous voyez mal.
 
@@ -59,6 +61,8 @@ heureusement, **il existe des lunettes**.
 ---
 
 ## deux verres pas plus
+
+c'est des lunettes avec deux verres.
 
 le premier verre, c'est la **todo**.
 
@@ -87,15 +91,17 @@ vous péter vos lunettes
 
 ## bilan de vision
 
-j'ai récupéré l'idée du futur flou
+l'idée du futur flou vient
 d'une très bonne
 [conférence du dr barkley](https://www.youtube.com/watch?v=YSfCdBBqNXY).[^1]
+
 [^1]: oui, c'est une conférence sur l'adhd qui dure 3 heures.
 
 j'ai ajouté l'idée des lunettes 
 pour deux raisons.
 
 d'abord parce qu'il en va de votre santé.
+
 pas voir l'avenir,
 ça vous fait stresser,
 ça gâche votre potentiel,
@@ -117,17 +123,21 @@ interrompez les conversations :
 - "il faudrait aller chercher du lait, et après tu pourras..."
 - "attends. je sors ma todo et je note."
 
+ou encore :
+
 - "le 15, on a l'anniv de machin on pourrait lui offrir..."
 - "attends. je sors mon calendrier et je note."
 
 si ce n'est pas dans votre todo,
 si ce n'est pas dans votre calendrier,
+c'est jeté dans le vide au hasard et
 ça n'existe pas.
 
 une envie ? une corvée ? un mail à envoyer ?
 c'est dans la todo.
 
 un billet de train ? dans le calendrier.
+
 un verre entre potes ? dans le calendrier.
 
 une date potentielle pour les vacances ?
