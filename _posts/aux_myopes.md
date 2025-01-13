@@ -15,7 +15,7 @@ j'ai une histoire pour vous.
 > et le gars répond :
 > "oh, vous savez, moi, sans mes lunettes..."
 
-oui, c'est con. 
+oui, c'est con.
 
 et vous, vous êtes cons. et pire,
 
@@ -33,4 +33,6 @@ couper les conversations.
 
 sinon, c'est signer un document sans le lire.
 
+comment matérialiser ? "imprimer" ?
 
+https://www.alibaba.com/product-detail/Android-Ios-Termal-Printer-Printing-Machine_1601276725770.html?spm=a2700.galleryofferlist.p_offer.d_title.78db13a0GnOiUK&s=p
