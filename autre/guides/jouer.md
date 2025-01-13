@@ -121,6 +121,16 @@ une fois plus c'est pour mettre de la tension
 et i-v-i c'est très bien
 le premier i prend deux temps
 
+et puis lien avec le cercle de l'histoire : connu / inconnu / connu
+(btw toute cette histoire de tension/détente......................)
+(est-ce que c'est pas juste du sport ? cette histoire d'énergie fixe)
+(à évacuer par le stress ou un sport de cerveau (plus gros dissipateur on rappelle))
+(..........faut juste le prendre sportivement... faut y aller quoi.....)
+(faut que ça soit 1 à la limite du dur à suivre 2 rapide)
+(et ça : tout le temps. rick and morty c'est ça.)
+(obarré : la ligne passe, trace : complexe et rapide - avec un enjeu)
+(passe à nouveau, trace la détente : réévaluation des enjeux, réévaluation de la situation)
+
 #### i-vi
 d'un mood à l'autre
 
@@ -153,6 +163,7 @@ par exemple le zaza est en iv-i
 on le sait pas au début mais quand y'a pi-pi-lou-li-lou-pi
 c'est bien un do dièse et pas un do, car on est en gamme de si mineur
 même si on commence sur un mi m
+ma malheur note
 
 #### ensemble
 
