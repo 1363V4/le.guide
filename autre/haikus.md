@@ -93,3 +93,11 @@ layout: post
 `le jour largue ses amarres`
 
 `eau chaude agitée`
+
+---
+
+`dans la main du froid`
+
+`de la pluie, du soleil, du vent`
+
+`en ais-je trop mis ?`
