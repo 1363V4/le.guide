@@ -17,31 +17,28 @@ ses ingénieurs le supplient de mettre ses lunettes, mais non.
 
 "les lunettes, ça sert à rien", qu'il dit.
 
-oui, il est con. 
+oui, c'est absurde. 
 
-et vous aussi, vous êtes cons. et pire,
+et vous aussi, vous êtes absurdes.
 
-**vous. êtes. myopes.**
+**car. vous. êtes. myopes.**
 
 ---
 
 ## vous savez, moi, sans mes lunettes...
 
-si vous êtes comme moi, vous êtes *adhd* (comme on dit).
+comme moi, vous êtes *adhd* (comme on dit).
 
 *adhd* plus ou moins fort,
-mais *adhd* un peu quand même,
-vu que votre smartphone y travaille de toutes ses forces.
+mais *adhd* un peu quand même.
 
-en gros c'est quoi ?
-
-du mal à se concentrer ?
+en gros c'est quoi ? du mal à se concentrer ?
 
 non.
 
 être *adhd*, c'est être **myope du futur**.
 
-pour vous,
+pour vous, pour moi,
 le futur est un truc flou.
 
 chaque fois que vous dites :
@@ -52,7 +49,7 @@ chaque fois que vous dites :
 
 ...vous vous engagez sur un futur que vous voyez mal.
 
-vous êtes comme un type qui signe un contrat sans pouvoir le lire.
+vous êtes comme un pdg qui signe un contrat sans pouvoir le lire.
 
 forcément, ça risque de mal finir.
 
@@ -68,17 +65,18 @@ le premier verre, c'est la **todo**.
 
 le deuxième verre, c'est le **calendrier**.
 
-vous vous démerdez, mais il vous faut les deux.
+vous vous débrouillez, mais il vous faut les deux :
 
-soit sous forme physique
-(mais il faut les trimbaler),
-soit sous forme de deux **gros**
+- soit sous forme physique, carnet, stylo
+(pas pratique en marchant, c'est vrai)
+- soit sous forme de deux **très gros**
 widgets sur votre téléphone.
 
-mais là faut faire gaffe.
+dans le second cas, attention.
+
 parce que votre téléphone veut clairement
 vous péter vos lunettes
-à coups de poing dans la gueule.
+à coups de poing.
 
 > pour la détox digitale, chacun sa technique.
 > moi, je mets la radio sur le tél,
@@ -100,7 +98,7 @@ d'une très bonne
 j'ai ajouté l'idée des lunettes 
 pour deux raisons.
 
-d'abord parce qu'il en va de votre santé.
+d'abord parce qu'il en va de votre **santé**.
 
 pas voir l'avenir,
 ça vous fait stresser,
@@ -116,7 +114,7 @@ et elle est importante :
 essayez pas de faire le mec qui voit très bien
 où ça se passe.
 
-mettez vos lunettes.
+mettez. vos. lunettes.
 
 interrompez les conversations :
 
