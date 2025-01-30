@@ -1,6 +1,14 @@
 # real temp
 hais le ?
 un paralysé au fond de moi
+---
+livre histoire d'un pied je suis un pied
+lamentation et frustration d'un pied de sédentaire
+scketch france digère l'app qui t'aide à faire la sieste
+alors ce midi choucroute... 2...
+ensuite tomates farcies c'est à tomates ? non c'est à farci
+ensuite il est où l'onglet "plat"...
+des profiteroles, trois bouteilles et ils me recommandent 45 min.
 
 # adhd
 pas de notion du temps -> mettre timers

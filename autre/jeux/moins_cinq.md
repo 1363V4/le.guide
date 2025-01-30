@@ -19,3 +19,7 @@ quelques exemples de cartes bonus :
 - réduire une colonne de 2
 
 pas obligé de rajouter des cartes malus.
+
+pas sûr si c'est fun... 
+c'est dur de changer une carte en version physique,
+aussi je ne me vois pas prototyper ça avant la version numérique.

@@ -96,6 +96,14 @@ layout: post
 
 ---
 
+`chemise froissée`
+
+`sous le pull, long pelage,`
+
+`cheveux hivernaux`
+
+---
+
 `dans la main du froid`
 
 `de la pluie, du soleil, du vent`

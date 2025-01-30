@@ -46,5 +46,6 @@ layout: post
 - [prise au sol](poesies/prise_au_sol.md)
 - [quatre vérités](poesies/quatre_verites.md)
 - [référence](poesies/reference.md)
+- [sans histoires](poesies/sans_histoires.md)
 - [le veuf](poesies/le_veuf.md)
 - [les voyageurs](poesies/voyageurs.md)
