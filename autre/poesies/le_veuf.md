@@ -15,9 +15,9 @@ au moins quitterait-on ce monde sans regrets.
 
 une torture barbare de l'âge fourbe,
 
-c'est  d’articuler un son trop fort et trop près,
+c'est d’articuler un son trop fort et trop près
 
-guère plus pratiqué que par des fosses à foutre.
+guère plus pratiqué que par des fossafoutres.
 
 ô que ma quille éclate ! que j’aille à saint-tropez !
 
@@ -65,7 +65,7 @@ trouvent ça dans leurs prix, applaudissent l’objet,
 
 le font tourner pour voir ses attributs si neufs,
 
-la manière qu’il a de balancer ses pieds,
+la manière qu’il a de balancer ses pieds :
 
 on dirait un homard ! console-toi le veuf,
 
@@ -77,7 +77,7 @@ libres de tous désirs, tu es bien z’inutile !
 
 sous tes airs de “rebel”, sous tes airs d’ingéré,
 
-c’est ce que tu voulais : que le malheur s’empile !
+c’est ce que tu voulais, que le malheur s’empile !
 
 ici la soupe est chaude. pas de pot mon biquet !
 
