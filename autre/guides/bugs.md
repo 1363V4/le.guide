@@ -70,3 +70,10 @@ piégeage par phéromones
 
 polénisateurs
 un bug dans le jeu vidéo peut amener un safeguard dans la banque
+
+---
+
+biblio:
+https://world.hey.com/dhh/software-has-bugs-this-is-normal-26d5fd06
+https://medium.com/message/everything-is-broken-81e5f33a24e1
+https://saucelabs.com/resources/blog/software-is-everywhere

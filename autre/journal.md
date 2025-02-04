@@ -192,3 +192,11 @@ je ralentis mes efforts.
 
 25 décembre.
 j'imaginai tout le monde tout nu.
+
+---
+
+30 janvier.
+je sortis du tunnel bloqué, les yeux rougis et frustré au coeur, au cul.
+les rêves m'harcelèrent, l'auraient-ils fait si je n'avais trahi ?
+je pissai sur l'Angleterre.
+

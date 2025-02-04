@@ -93,3 +93,19 @@ layout: post
 `le jour largue ses amarres`
 
 `eau chaude agitée`
+
+---
+
+`chemise froissée`
+
+`sous le pull, long pelage,`
+
+`cheveux hivernaux`
+
+---
+
+`dans la main du froid`
+
+`de la pluie, du soleil, du vent`
+
+`en ais-je trop mis ?`
