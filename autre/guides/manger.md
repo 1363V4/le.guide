@@ -4,8 +4,10 @@ layout: post
 ---
 
 - [aromebase](#aromebase)
+- [maison ramen](#maison-ramen)
 - [shuriken](#shuriken)
 - [suzanne](#suzanne)
+- [wazemmes](#wazemmes)
 
 ---
 
@@ -13,9 +15,24 @@ layout: post
 
 le meilleur restaurant de lille.
 
-ou comme j'aime l'appeler, "la maison".
+point à la ligne.
 
 *aromebase, 8 rue des fossés, 59800 lille*
+
+---
+
+## maison ramen
+
+attention, peut y avoir du monde,
+mais c'est normal c'est trop bon.
+
+foncez slurper.
+rien ne réconforte comme maison ramen.
+
+petite infusion en fin de repas,
+et tous vos soucis seront partis.
+
+*maison ramen, 133 rue solférino, 59000 lille*
 
 ---
 
@@ -310,3 +327,59 @@ qu'on reconnaît facilement à ce qu'il est le meilleur restaurant de la ville..
 du moins les bons jours.
 
 *restaurant suzanne, 4 place philippe lebon, 59000 lille*
+
+---
+
+## wazemmes
+
+c'est un peu difficile de se repérer dans ce foutoir géant qu'est wazemmes,
+alors je vais vous compiler mes bonnes adresses.
+
+aux alentours déjà : mention spéciale pour
+les "meilleures frites du monde" chez mestré.
+oui, elles sont délicieuses.
+oui, ça vaut le coup d'attendre 30 minutes pour un cornet de frites,
+à ramener chez soi pour accompagner le poulet
+ou une petite viande marinée.
+astuce de pro : utiliser le reste des frites
+pour une purée ou une soupe, c'est exquis.
+
+autre belle adresse, le loa.
+street food caribéenne.
+délicieux, familial, excellent rapport qualité/prix.
+le sandwich est parmi les meilleurs que j'ai jamais mangé.
+source de délicieuses bananes plantains.
+et le chocolat chaud est à tomber.
+plat du dimanche le dimanche.
+
+maintenant, le marché :
+boucherie, la meilleure c'est jean-claude.
+poissons, c'est "au petit poissonnier".
+fromage, c'est compliqué :
+vous pouvez aller à la finarde, c'est excellent mais un peu cher,
+et surtout il y a un "philippe olivier" pas loin des halles,
+que je préfère personnellement (mais c'est à vous de voir).
+
+pour becqueter, c'est cher.
+la pizzeria est chère (mais bonne et l'ambiance au comptoir est top),
+le traiteur italien est cher (mais ils ont les meilleurs pannettonnes),
+gambaté ça va mais ça vaut pas non plus les
+[vrais bons ramens](#maison-ramen),
+le libanais fait de bons sandwichs.
+et le thaï fait de vrais boules coco d'enfer.
+
+derrière les halles pour finir :
+l'aziza fait des pâtisseries orientales à tomber par terre,
+pour les rotisseries toujours prendre le plus gros camion
+(et insister pour avoir du jus),
+j'ai pas testé les petits troquets
+mais les restos alentours sont pourris.
+
+et pour finir, le marché.
+j'ai un copain là-bas, son stand est une merveille,
+les meilleurs fruits et légumes.
+je vous dirais bien de chercher un arabe qui gueule,
+mais bon, vous voyez le problème...
+
+enfin. meilleur marché ever.
+allez-y, vous verrez.
