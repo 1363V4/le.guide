@@ -25,3 +25,6 @@ i don't see why gunicorn wouldn't work
 
 think ahead
 https://data-star.dev/guide/stop_overcomplicating_it
+
+ici lit pour faire des composants qui font des events
+https://chatgpt.com/c/67a1c363-71d4-800c-9bcc-229b55f98477
