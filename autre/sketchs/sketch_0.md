@@ -236,3 +236,16 @@ et les hommes... à peu près la même tête.
 y'a la guerre partout.
 c'est terrible...
 pour le bilan carbone
+
+j'aimerais parler des filles qui ont un chignon
+déjà le mot chignon... 
+avec un gros g en plein milieu... chignon (appuyé)
+c'est joli mélinda ta coiffure c'est quoi ?
+(gogole) c'est chignon.
+j'ai pris mes cheveux et j'ai fait une boule.
+(embarassé) ah c'est joli
+(gogole) merci et j'ai une autre aussi
+ah c'est quoi ?
+c'est... couète.
+c'est une queue de cheval mais j'en ai mis deux.
+deux queues de cheval hehe.

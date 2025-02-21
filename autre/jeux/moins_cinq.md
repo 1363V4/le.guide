@@ -23,3 +23,6 @@ pas obligé de rajouter des cartes malus.
 pas sûr si c'est fun... 
 c'est dur de changer une carte en version physique,
 aussi je ne me vois pas prototyper ça avant la version numérique.
+
+edit : je viens de voir qu'un "skyjo actions" existait.
+je n'y ai pas encore joué.
