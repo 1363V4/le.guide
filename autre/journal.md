@@ -3,6 +3,9 @@ title: journal
 layout: post
 ---
 
+> si on a le temps de tenir un journal,
+> pourquoi ne pas le passer à dormir sous la véranda ?
+
 *de nos jours*
 
 ---
@@ -200,3 +203,6 @@ je sortis du tunnel bloqué, les yeux rougis et frustré au coeur, au cul.
 les rêves m'harcelèrent, l'auraient-ils fait si je n'avais trahi ?
 je pissai sur l'Angleterre.
 
+---
+
+6 mars. pâtes bolognaise.

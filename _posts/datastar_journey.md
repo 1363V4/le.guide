@@ -11,8 +11,10 @@ turbo seems bad finally
 and webviews wrappers won't make the cut to the app store
 allegedly
 
-tell flask it is behind a proxy
-https://flask.palletsprojects.com/en/stable/deploying/proxy_fix/
+think ahead
+https://data-star.dev/guide/stop_overcomplicating_it
+
+i fuck with "regex and some glue code"
 
 web components
 https://lit.dev/docs/
@@ -26,12 +28,8 @@ sinon :
 https://flask.palletsprojects.com/en/stable/deploying/gunicorn/
 https://www.gevent.org/
 https://docs.python.org/3/library/asyncio-task.html#coroutine
-
-
-think ahead
-https://data-star.dev/guide/stop_overcomplicating_it
-
-i fuck with "regex and some glue code"
+tell flask it is behind a proxy
+https://flask.palletsprojects.com/en/stable/deploying/proxy_fix/
 
 risque de sécurité de clean mon log des polling, comically bad
 

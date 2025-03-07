@@ -28,6 +28,7 @@ layout: post
 - [corfou falaise](poesies/corfou_falaise.md)
 - [cosmos concret](poesies/cosmos_concret.md)
 - [death after death](poesies/death_after_death.md)
+- [le double](poesies/double.md)
 - [ensemble](poesies/ensemble.md)
 - [franquin](poesies/franquin.md)
 - [le fond](poesies/fond.md)

@@ -1,15 +1,15 @@
-le stlye c'est on.
-
-c'est ce que tu veux dire quand t'écris on.
-
-ça peut être vnr chez flaubert.
-
+---
+title: on c'est eux
+layout: post
 ---
 
-posons que chez les idées aussi
+posons que 
 la loi du plus fort existe
+chez les idées comme chez les hommes.
 
-(si les idées nobles survivent c'est relatif à la force du message du christ)
+que certaines idées malamatiques
+survivent malgré tout par une forme de noblesse christique.
+veut rien dire.
 
 bien sur j'ai lu des livres enfants très amusants
 mais aussi distrayants qu'un jouet
@@ -20,6 +20,8 @@ certains passages font trembler
 
 peut-être être mis à nu ontologiquement
 ou les émotions de bovarysme primaire
+
+---
 
 mais non hein
 
@@ -34,6 +36,13 @@ en somme l'inverse de la philosophie
 et de ses idées faibles
 
 d'où son aura de mort si particulière
+
+---
+
+le stlye c'est on.
+
+c'est ce que tu veux dire quand t'écris on.
+
 
 ---
 

@@ -10,5 +10,5 @@ layout: post
 
 > yannick haenel
 
-moi aussi cher philippe lançon
-je vais l'accrocher au verre de ma cage
+moi aussi, cher philippe lançon,
+je vais l'accrocher au verre de ma cage.

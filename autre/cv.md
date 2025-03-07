@@ -16,7 +16,7 @@ car temps coule et histoires continuent.
 pas loin de 500 morceaux 15 ans et 0 euro. un échec total. voilà pour la musique. 
 apprend à lire. saute classe. pour autant, pas seul. mauvais pote, sûrement.
 aide prof math et concours kangourou. prépa sans forcer. 
-échec centrale. maintenant excel, python quand rebelle. voilà pour la science. 
+échec centrale. blâme centrale. maintenant excel, python quand rebelle. voilà pour la science. 
 et un geek. j’ai coulé un temps de fou malade.
 nature obsessive. complétionniste. tricheur.
 code depuis quatre ans juste pour le plaisir du grind. la petite étincelle.

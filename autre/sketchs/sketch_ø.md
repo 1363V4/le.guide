@@ -63,3 +63,28 @@ a puis b c'est le b a ba
 
 le héros est-il l'objet a ??
 le comique part sans son public
+
+---
+
+ab:
+l'humour est l'explication la moins probable du monde.
+le stand-up, c'est parler de ces choses inexplicables,
+et la plus inexplicable de toutes : nous-mêmes.
+je me sens d'une certaine façon, et même si j'aimerais me raconter des explications,
+je sais au fond de moi que c'est juste comme ça.
+et l'humour alors, comme une pointe de sel sur cette savoureuse partie obscure de notre âme,
+est l'élégance de proposer, parce que fausse quoi qu'on fasse,
+une explication loufoque.
+
+cdef bouge pas.
+
+g bon... gangsta i guess.
+
+et ensuite hij.
+je vois une vidéo de comedy without errors sur stewart lee et son travail de foule.
+et je me demande, car c'est dur pour moi de faire le h ou le i,
+si je peux essayer de les trouver dans la foule.
+
+klm.
+en fait c'est important.
+parce que je suis intranquille debout. j'ai mal.
