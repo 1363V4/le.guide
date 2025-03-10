@@ -4,7 +4,7 @@ layout: post
 ---
 
 > si on a le temps de tenir un journal,
-> pourquoi ne pas le passer à dormir sous la véranda ?
+> pourquoi ne pas l'employer à dormir sous la véranda ?
 
 *de nos jours*
 

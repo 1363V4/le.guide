@@ -38,3 +38,7 @@ surtout le deuxième de l'aprem
 je l'enlève je bois un coup d'eau et ça passe
 
 après les repas ça va
+
+faut vraiment que j'arrête
+ils puent encore
+pourquoi je prends mille parfums encore

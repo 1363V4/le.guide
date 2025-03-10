@@ -101,6 +101,7 @@ join et create un système de queue
 et puis ensuite on passera à la salle si vous le voulez bien
 
 3 approches :
+```python
 try:
     input_value = json.loads(request.args.get('datastar')).get('input_value')
 except:
@@ -134,6 +135,7 @@ async def event():
 response = await make_response(event(), SSE_HEADERS)
 response.timeout = None
 return response
+```
 
 1 one shot et voilà, en vrai pour un data-on-change pk pas
 2 pas trop utile... si ?
@@ -310,3 +312,15 @@ plus qu'à obs, record, upload et ping.
 
 ici lit pour faire des composants qui font des events
 https://chatgpt.com/c/67a1c363-71d4-800c-9bcc-229b55f98477
+
+---
+
+deux vidéos plus tard
+j'ai encore l'impression de faire trop d'endpoints c'est terrible
+des routes /<user_id>/<action> ?
+comment bien faire une auth ?
+
+je fais pas encore bien les updates, les queues
+quand je veux les faire depuis les classes ça foire
+classes que je sérialisent toujours pas
+je sais pas où foutre les queues non plus
