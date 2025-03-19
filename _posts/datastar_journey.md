@@ -324,3 +324,13 @@ je fais pas encore bien les updates, les queues
 quand je veux les faire depuis les classes ça foire
 classes que je sérialisent toujours pas
 je sais pas où foutre les queues non plus
+
+---
+
+bon faut que je les foutent dans redis
+
+tinydb c'est vraiment bien
+faut que je le mette au moins sur leg.ovh
+stack nginx/gunicorn/flask
+puis htmx/tinydb
+bon c'est parfait quoi

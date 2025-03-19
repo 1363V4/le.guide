@@ -237,3 +237,12 @@ prendre notes ici
 je fais en majeur do
 sol-mi-sol-do-sol-la
 et c'est joli
+
+---
+
+iv - i il faut que le iv soit 9
+pour avoir le pull du triton
+NON j'ai encore r compris
+
+les half dim (7 normaux dans majeur)
+c'est pour faire des ii v i vers mineur !!
