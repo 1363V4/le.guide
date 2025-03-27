@@ -206,3 +206,25 @@ je pissai sur l'Angleterre.
 ---
 
 6 mars. pâtes bolognaise.
+
+---
+
+lundi 17 mars.
+je fis ma première traversée du rectangle.
+je vis la place ronde,
+les tours aillaud
+dont un commentaire maps dit :
+"magnifique zone pvp avec beaucoup de verticalité ce qui crée un danger permanent, il faut vraiment être à l'affût et avoir une approche plutôt silencieuse si vous envisagez un one man army. je vous recommande un otf ou un thumb hole de type spyderco".
+pas plein, pas vide pour autant.
+chez normal : j'achetai des cure-dents birch wood et des bonbons.
+l'illusion de pastèque qu'ils proposaient était désagréable mais passa vite.
+les gens remplirent à l'unisson des sacs de tablettes kinder, sous le regard amorti d'un personnel homogène.
+je bus ensuite, à l'intérieur, un café saveur crème brulée,
+dont l'illusion ne fut guère plus convaincante.
+younes vint me saluer.
+je ne me levai pas.
+
+---
+
+18 mars.
+je me levai tard.

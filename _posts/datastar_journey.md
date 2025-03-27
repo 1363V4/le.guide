@@ -329,3 +329,13 @@ je sais pas où foutre les queues non plus
 
 on s'est bien amusé avec redis
 ça va vite vroum vroum
+
+---
+
+bon faut que je les foutent dans redis
+
+tinydb c'est vraiment bien
+faut que je le mette au moins sur leg.ovh
+stack nginx/gunicorn/flask
+puis htmx/tinydb
+bon c'est parfait quoi

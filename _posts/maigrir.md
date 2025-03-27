@@ -26,3 +26,8 @@ sex education
 - p i like
 - p pratique
 - our p
+(rien compris)
+
+forcément reacher tu veux l'avoir dans ton lit
+pk je fais plus mes pompes et mes abdos
+pk quand je les fais je craque de partout

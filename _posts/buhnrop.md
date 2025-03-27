@@ -243,3 +243,41 @@ itch.io
 quelle adresse ?
 megadogtotherescue ?
 on voit rien, 5 favoris c'est tout
+
+donc on disait.
+3 nanas archétypales.
+phénomène intéressant:
+si on croise aime ça/aime pas
+est ou se sent (same thing) sexy / ou pas
+les deux variables sont visiblement pas décorrelées
+si on faisait un 2x2 la ligne du bas fusionnerait
+à creuser
+bref
+la déesse, celle qui aime ça et se sait,
+pas pour rien que je le regarde j'en ai eu la chance,
+un régal. direct doigt au clit dès que possible
+s'allonge confortablement dès qu'elle voit l'ouverture
+pour mieux profiter, touche ses coussins,
+ferme les yeux, s'en fout.
+moment intéressant où vers la fin même l'autre y "plonge".
+quel merveilleux abandon. le paradis.
+moment intéressant où même l'autre touche ses coussins,
+puis devient envieuse mais excitée en même temps par ce fait,
+et se retrouve donc paumée. là, rien à faire, pas une douée, ligne du bas.
+comparer les manières de chupar faudrait mais le dossier est complexe.
+la blonde maintenant. celle que j'ai maintenant. 
+première à (com)prendre la pose, sourire, grimacer à la caméra.
+bruits faux et on-cam triggered, touche jamais l'haricot.
+mais sportive ! énergique. twerk et plus.
+donc bon, acheter le womanizer est-ce que c'est l'idée ?
+ça a pas l'air, ces filles viennent avec leur sexualité brute et archétypale
+il faudrait que je la laisse me baiser. j'ai réussi la dernière fois.
+la blonde est vite sans rien, la ds enlève pièce par pièce comme demande de permission (native speaker),
+la dernière est larguée.
+moment intéressant aussi où la ds essaye "d'enchanter" le derrière de la blonde
+(par ses coussins magiques, des caresses, un rituel presque une incantation) !
+je sais qu'acheter le womanizer est une mauvaise idée donc,
+ce qu'il faut c'est les cartes.
+un jeu, un défi, un sport.
+...
+bon elle a aimé le cadeau sur le principe. à voir ensuite.
