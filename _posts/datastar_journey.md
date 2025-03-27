@@ -324,3 +324,8 @@ je fais pas encore bien les updates, les queues
 quand je veux les faire depuis les classes ça foire
 classes que je sérialisent toujours pas
 je sais pas où foutre les queues non plus
+
+---
+
+on s'est bien amusé avec redis
+ça va vite vroum vroum

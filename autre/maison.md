@@ -25,3 +25,6 @@ le souci c'est qu'elle se fait souvent aplatir par le vent
 
 la boulangerie juste en bas
 qui nous amène parfois les odeurs de croissants chauds
+
+pouvoir manger dehors,
+asperges mousseline, chorizo et fraises gariguettes

@@ -193,4 +193,4 @@
 	}
 }
 ```
-gf au lieu de gs
+gf au lieu de gs... nan c'est déjà flex
