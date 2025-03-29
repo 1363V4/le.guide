@@ -30,36 +30,41 @@ très intelligente et qui touche au cœur.
 
 les autres séries qu'on a beaucoup aimé :
 
-**celeste**,
+**celeste**
+(espagne)
 une très bonne actrice
 et un scénario prometteur.
 
-**family matters**,
-une série coréenne,
+**family matters**
+(corée)
+une série
 complètement barge mais très prenante.
 
-**the danish woman**,
+**the danish woman**
+(finlande)
 un humour très méchant
 et terriblement efficace.
 
-**empathie**,
+**empathie**
+(canada)
 de la douceur, des sentiments,
 thomas ngijol.
 
 ![Empathie](/img/sm/empathie.jpeg)
 
-et l'équipe de canadiens d'empathie
+et l'équipe d'empathie
 était très pipou.
 
 ---
 
-on a pas pu voir **the german**,
+on a pas pu voir **the german**
+(israël...)
 même si on aurait bien voulu.
 prix du meilleur scénario.
 
 ![German](/img/sm/german.jpeg)
 
-aurélie a bien aimé **querer**.
+aurélie a bien aimé **querer** (espagne).
 
 on a adoré **charlie broker** :
 le monsieur qui fait *black mirror*
@@ -67,6 +72,7 @@ est un anglais pur jus,
 irrésistible et fou.
 
 par contre, **la rivière des disparues**
+(usa)
 ça vaut pas grand chose.
 
 ---
@@ -77,7 +83,7 @@ malgré camélia jordana.
 
 ![DCL](/img/sm/dcl.jpeg)
 
-et **hpi** a eu une standing ovation.
+et **h.p.i.** a eu une standing ovation.
 
 ![Audrey](/img/sm/audrey.jpeg)
 
