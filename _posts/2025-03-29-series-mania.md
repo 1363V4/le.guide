@@ -9,7 +9,7 @@ la ville était en effervescence...
 ![Lille](/img/sm/lille.jpeg)
 
 c'était le festival séries mania,
-et par la grâce de la billeterie,
+et par la grâce de la billetterie,
 on avait beaucoup de places.
 
 on vous raconte tout !
@@ -18,15 +18,13 @@ on vous raconte tout !
 
 ![Séries Mania](/img/sm/sm.jpeg)
 
-notre meilleur série :
+notre meilleure série :
 **hal et harper**.
-
-on les voit gagner ici un prix
 
 ![Hal](/img/sm/hal.jpeg)
 
 on a adoré, une série 
-très intelligente et qui touche au coeur.
+très intelligente et qui touche au cœur.
 
 ---
 
@@ -38,7 +36,7 @@ et un scénario prometteur.
 
 **family matters**,
 une série coréenne,
-complétement barge mais très prenante.
+complètement barge mais très prenante.
 
 **the danish woman**,
 un humour très méchant
