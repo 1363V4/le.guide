@@ -9,4 +9,5 @@ layout: post
 - [conflit constant](traductions/conflit_constant.md)
 - [high](traductions/high.md)
 - [lili](traductions/lili.md)
+- [monde perdu](traductions/monde_perdu.md)
 - [royaume de l'étrange](traductions/bizarro_world.md)

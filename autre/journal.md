@@ -228,3 +228,13 @@ je ne me levai pas.
 
 18 mars.
 je me levai tard.
+
+---
+
+20 avril.
+homme de pierre. tout ce que je sais, c'est qu'ils ne savent rien.
+
+---
+
+21 avril.
+voix 105, split, arpeggio, style de base.
