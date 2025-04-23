@@ -281,3 +281,8 @@ ce qu'il faut c'est les cartes.
 un jeu, un défi, un sport.
 ...
 bon elle a aimé le cadeau sur le principe. à voir ensuite.
+
+---
+
+bon, elle veut des prélis plus longs
+mais il faut que ce soit guidé "par un truc internet"
