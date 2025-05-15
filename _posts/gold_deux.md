@@ -107,13 +107,13 @@
 		grid-area: 1/1;
     }
 
-	/* stretch shit */
+	/* stretch shit, display grid en plus? */
 	.gs {
 		align-content: stretch;
 		place-items: stretch;
 	}
 
-	/* golden grids */
+	/* golden grids, gg mieux */
 	.g01 {
 		display: grid;
 		grid-template-columns: 1fr 1.618fr;
@@ -169,6 +169,7 @@
 	.gm {
 		margin: 19%;
 	}
+	/* marche pas pk? */
 	
 	/* text shit */
 	.gt {
@@ -194,3 +195,5 @@
 }
 ```
 gf au lieu de gs... nan c'est déjà flex
+
+regarder smol css

@@ -39,6 +39,7 @@ depth first evaluation c'est pas clair dans les examples
 
 j'ai voulu refaire le sdk mais bof...
 ceci dit, il bouge
+(s/o gazpachoking)
 
 attention c'est pas parce qu'il y a disable
 sur un bouton que ça s'enlève pas
@@ -290,10 +291,13 @@ aussi, comment empêcher ouverture de trop de connections
 solution 1: renvoyer un fragment qui disable le bouton et qui met un petit indicateur (simple, efficace)
 solution 2: cookie user et abort 400 ?
 il faut que je test ça
+(pk faire... 2XX essay je suis d'accord)
 
 visiblement le cache était déjà setup donc 
 le comportement bizarre en tab in/tab out c'est pas ça 
-ça se joue à si y'a un loop ou pas 
+ça se joue à si y'a un loop ou pas
+(common pitfalls rubrique?
+oui ça déco reco mais si tu fais bien les choses no problem)
 
 gaffe à pas envoyer de password pour validation ! les forms c'est pas pour les chiens
 
@@ -329,6 +333,7 @@ je sais pas où foutre les queues non plus
 
 on s'est bien amusé avec redis
 ça va vite vroum vroum
+(pas du tout, pk subscribe prend deux secondes merde)
 
 ---
 
@@ -339,3 +344,54 @@ faut que je le mette au moins sur leg.ovh
 stack nginx/gunicorn/flask
 puis htmx/tinydb
 bon c'est parfait quoi
+
+---
+
+bon huit vidéos plus tard.
+j'en ai entendu parler d'abord par le blog post de htmx, rendons à césar.
+(pour être fair, parler des autres)
+
+htmx+ ça intrigue et puis je m'étais cassé les dents sur alpine.
+reprendre tous les exemples htmx c'est couillu et ça m'a converti vite.
+j'ai toujours peur des while true et j'ai pas switché le site.
+ceci dit même avec flask je prends d*
+
+oui oob est le bon default
+sse est mieux car dans la spec
+
+---
+
+shoulders of giants
+
+eyeroes 
+> pygame like shit
+advent of code for making me a skid
+> bottleneck is often brain
+> fuck javascript
+carson gross for grug
+> i love essays
+heydon works for css
+> gold.css
+delaney
+
+comment zealot :
+ok les data-* je connais avec css attr()
+le coté alpine a l'air mieux qu'alpine (x-template mental disorder)
+oh cool y'a des essais (i'm a teapot, road to v1)
+et enfin le tweet rick and morphy qui m'a eu je dirais
+
+réalisations :
+gold.css
+claudio.js
+trashmore.js
+
+NEXT
+flask
+normalize de chez open props
+animate.js
+webcomponent pour la ligne
+(done en deux jours... pas mal hein...)
+
+NEXT
+puis on fera uno magique façon carte shiny pokemon
+puis on fera kiki/booba mode

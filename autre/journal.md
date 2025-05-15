@@ -238,3 +238,17 @@ homme de pierre. tout ce que je sais, c'est qu'ils ne savent rien.
 
 21 avril.
 voix 105, split, arpeggio, style de base.
+
+---
+
+8 mai.
+je n'en veux pas à dieu car les seins des femmes sont à peu près comme je les imaginais
+(comme du sable chaud).
+je pense que c'était le point essentiel.
+des enfants chantaient que contre eux se levait sanglant l'étendard de la tyrannie.
+elle allait voir ce qu'elle allait voir.
+
+---
+
+9 mai.
+pour le mer comme pour le reste: conquérir plutôt que d'affronter.
