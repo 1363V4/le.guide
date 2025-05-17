@@ -25,6 +25,7 @@ layout: post
 - [la bosse](poesies/bosse.md)
 - [chaîne de vie](poesies/chaine.md)
 - [les chaussures](poesies/chaussures.md)
+- [mon chemin](poesies/mon_chemin.md)
 - [corfou falaise](poesies/corfou_falaise.md)
 - [cosmos concret](poesies/cosmos_concret.md)
 - [death after death](poesies/death_after_death.md)
