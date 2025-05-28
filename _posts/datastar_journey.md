@@ -367,6 +367,7 @@ eyeroes
 > pygame like shit
 advent of code for making me a skid
 > bottleneck is often brain
+> très important en vrai: punished for stupidity, expect curve balls
 > fuck javascript
 carson gross for grug
 > i love essays
@@ -385,13 +386,67 @@ gold.css
 claudio.js
 trashmore.js
 
+en gros:
+grug veut pas dire coder grug mais pouvoir expliquer à grug
+grugs around the fire
+nobody cares about js we care about the discourse
+(like essays on htmx)
+big words little discussion bad, little shim big discussion good
+
 NEXT
-flask
-normalize de chez open props
-animate.js
+flask (fait)
+normalize de chez open props (mouais)
+animate.js (cool)
 webcomponent pour la ligne
 (done en deux jours... pas mal hein...)
 
 NEXT
+puis on fera kiki/booba mode (fait)
+puis on va tourner svg2
+puis on va tourner galf
+puis on va faire nura limo
+puis on va faire siisters
+puis on va faire openai
+puis on va faire binstack
 puis on fera uno magique façon carte shiny pokemon
-puis on fera kiki/booba mode
+
+other titles:
+- The SHENRON stack
+- Nobody cares about Datastar
+but you're not baiting hackernews here, are we?
+i was promised a journey and i got it
+
+is it shenron? no just a shit plastic dragon
+utah talk: this guy did a mp game with wc
+
+
+on se marre bien dans le culte
+python pour list comprehension
+code smell flags everywhere > signals
+llm are babel fishes but language =! code
+but really useful yet
+legworks?
+people should really have a blog > github pages
+then server but security big step 
+flask > quart big step 
+auth at the db level (go make things)
+tom sawyer fence > gamify
+yoons youtube rules 
+polling really was the trigger 
+unshittify all the things! 
+what's so special about the code asked Kou > good question 
+not mumbo jumbo, in a bar with a construction guy 
+possible: it just works, understandable, in the specs...
+> it's round, it's orange and there's star in it 
+> grug > kou?
+also nobody cares about js or webdev
+when i go to a website > start a conversation
+not entertained, screened or prepped up for x 
+i already came! 
+in that way, i go to d website to read docs 
+talking in english > question after post-ai writing 
+but the message was: english is not my main, js neither, webdev neither 
+yet i can do it so you can too 
+rule2, i'm big brother but i'm not watching you:
+how do **we** track, how do we... how do they!! what do they want!!
+
