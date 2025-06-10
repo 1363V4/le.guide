@@ -29,5 +29,6 @@ sex education
 (rien compris)
 
 forcément reacher tu veux l'avoir dans ton lit
+(remarque faut pas avoir un 140)
 pk je fais plus mes pompes et mes abdos
 pk quand je les fais je craque de partout

@@ -402,11 +402,11 @@ webcomponent pour la ligne
 
 NEXT
 puis on fera kiki/booba mode (fait)
-puis on va tourner svg2
-puis on va tourner galf
+puis on va tourner svg2 (fait)
+puis on va tourner galf (fait)
+puis on va faire openai
 puis on va faire nura limo
 puis on va faire siisters
-puis on va faire openai
 puis on va faire binstack
 puis on fera uno magique façon carte shiny pokemon
 
