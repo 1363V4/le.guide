@@ -21,7 +21,7 @@ lien hackernews
 recherche ddg bizarre
 lien google maps de l'orl
 tweet anders murphy
-blog mlv (x7)
+blog mlv (x7... puis j'ai arreté de compter)
 lien hyatt
 blog marginalia.nu
 lien cosmochess version void
@@ -94,4 +94,29 @@ page jost
 putain y'en a encore tellement
 unsubscribe convertkit
 page assurance retraite
-
+une page en coréen ?? fmkorea.com
+ma vieille page pythonanywhere
+des pages 404
+des liens instagram
+plain vanilla blog
+expand.ai
+moodboard du clip de léna
+legires.fr
+claudio.js
+une page seloger
+ffep.com
+des liens qr codes
+rimes solides, champ lexical "allusion"
+carte du club marot
+hello asso du roller derby
+page de caleb jones
+blog de dhh
+blog mxb.dev
+lien threads
+y comparator
+forum des assos de lille
+vidéo de dan saltman sur la ligne rouge
+unsubscribe trainline
+plein de liens de la ankama convention
+graphique boursier de l'action sanofi
+unsubscribe etoro
