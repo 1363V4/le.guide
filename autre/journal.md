@@ -252,3 +252,13 @@ elle allait voir ce qu'elle allait voir.
 
 9 mai.
 pour le mer comme pour le reste: conquérir plutôt que d'affronter.
+
+---
+
+vendredi 6 juin.
+aujourd'hui ?
+
+---
+
+8 juin.
+Et non !
