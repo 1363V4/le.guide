@@ -4,11 +4,11 @@ layout: post
 ---
 
 if you're going to make videos,
-you need to think about 2 things:
+you need to think about **2 things**:
 - what you're going to say
 - how you're gonna say it
 
-so, the "what" was easy,
+for me, the "what" was easy,
 i got passionnate about a thing (datastar)
 and wanted to talk about it.
 
@@ -24,7 +24,7 @@ and i can still remember them by heart.
 
 here they are:
 
-## no intro
+## 1. no intro
 
 people already clicked your video,
 chop chop let's *go*!
@@ -38,7 +38,7 @@ showcase something **upfront**.
 the web is becoming hellish to navigate,
 trust me, your viewers pondered that click.
 
-## good sound
+## 2. good sound
 
 people can forgive bad video.
 
@@ -55,7 +55,7 @@ speak loud and slow.
 this is hard to do, so practice it
 (noise-cancelling headphones can help).
 
-## "for you"
+## 3. "for you"
 
 do videos that you yourself would like to watch.
 
@@ -68,7 +68,7 @@ like your channel is a cctv footage dump.
 
 do something you give a fuck about.
 
-## music
+## 4. music
 
 music is a cheat code.
 
@@ -78,7 +78,7 @@ for real! 0 downsides, always better.
 
 just add music.
 
-## be yourself
+## 5. be yourself
 
 behave normally.
 
@@ -96,7 +96,7 @@ don't act it.
 
 just be yourself.
 
-## editing
+## 6. editing
 
 try to do some of it.
 
