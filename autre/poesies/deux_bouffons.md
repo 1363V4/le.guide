@@ -23,7 +23,7 @@ l'un a un elixir, l'autre une potion
 
 la verse dans la coupe du concurrent futur,
 
-boit et attend, vient le sommeil :
+boivent, attendent, ont sommeil...
 
 deux maîtres en moins, reste deux élèves.
 
