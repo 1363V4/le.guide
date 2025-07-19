@@ -195,6 +195,154 @@
 }
 ```
 gf au lieu de gs... nan c'est déjà flex
+fs pour full-screen (faut tester vi/vb et dvw/dvh)
 
 regarder smol css
 beer css pour material out of the box...
+
+
+```css
+@layer reset, default, layouts, utilities;
+
+@layer reset {
+	* {
+		box-sizing:border-box;
+		margin:0;
+		padding:0
+	}
+	h1, h2, h3, h4, h5, h6 {
+		font-size: inherit;
+		font-weight: inherit;
+	}
+	a {
+		color: inherit;
+	}
+	table {
+		text-indent: 0;
+		border-color: inherit;
+		border-collapse: collapse;
+	}
+	button, input, select, textarea {
+		font: inherit;
+		color: inherit;
+		letter-spacing: inherit;
+	}
+	menu, ol, ul {
+		list-style: none;
+	}
+	audio, canvas, embed, iframe, img, object, svg, video {
+		vertical-align: middle;
+		display: block;
+	}
+	img, video {
+		max-width: 100%;
+		height: auto;
+	}
+}
+
+@layer default {
+	:root {
+		--phi: calc((1 + sqrt(5)) / 2);
+		--m: 1rem;
+		--xs: calc(var(--m) * pow(var(--phi), -2));
+		--s: calc(var(--m) * pow(var(--phi), -1));
+		--l: calc(var(--m) * pow(var(--phi), 1));
+		--xl: calc(var(--m) * pow(var(--phi), 2));
+		--xxl: calc(var(--m) * pow(var(--phi), 3));
+		--gb: 576px;
+	}
+}
+
+@layer layouts {
+	/* center shit */
+	.gc {
+		display: grid;
+        place-content: center;
+        place-items: center;
+    }
+
+	/* stack shit */
+    .gz {
+		display: grid;
+    }
+    .gz > * {
+		grid-area: 1/1;
+    }
+
+	/* stretch shit */
+	.gs {
+		display: grid;
+		align-content: stretch;
+		place-items: stretch;
+	}
+
+	/* golden grids */
+	.g01 {
+		display: grid;
+		grid-template-columns: 1fr 1.618fr;
+		grid-auto-rows: 1fr;
+		container-type: inline-size;
+	}
+	@container (max-width: var(--gb)) {
+		.g01 {
+			grid-template-columns: unset;
+			grid-template-rows: 1fr 1.618fr;
+			grid-auto-columns: 1fr;
+		}
+	}
+	.g10 {
+		display: grid;
+		grid-template-columns: 1.618fr 1fr;
+		grid-auto-rows: 1fr;
+		container-type: inline-size;
+	}
+	@container (max-width: var(--gb)) {
+		.g10 {
+			grid-template-columns: unset;
+			grid-template-rows: 1.618fr 1fr;
+			grid-auto-columns: 1fr;
+		}
+	}
+}
+
+@layer utilities {
+	.fs {
+		min-width: 100dvi;
+		min-heigth: 100dvb;
+	}
+
+	.gw {
+		width: 61.8%;
+	}
+
+	.gp {
+		padding: 19%;
+	}
+	.gm {
+		margin: 19%;
+	}
+	/* marche pas pk? */
+	
+	/* text shit */
+	.gt {
+		&.xs {
+			font-size: var(--xs);
+		}
+		&.s {
+			font-size: var(--s);
+		}
+		&.m {
+			font-size: var(--m);
+		}
+		&.l {
+			font-size: var(--l);
+		}
+		&.xl {
+			font-size: var(--xl);
+		}
+		&.xxl {
+			font-size: var(--xxl);
+		}
+	}
+}
+```
