@@ -47,6 +47,7 @@ layout: post
 - [petite musique](poesies/petite_musique.md)
 - [le piano](poesies/piano.md)
 - [les poires](poesies/poires.md)
+- [pour qui](poesies/pour_qui.md)
 - [prise au sol](poesies/prise_au_sol.md)
 - [quatre vérités](poesies/quatre_verites.md)
 - [référence](poesies/reference.md)

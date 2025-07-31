@@ -20,3 +20,15 @@ layout: post
 - juré n°2, b
 - my sunshine, a
 - ours dans le jura (un), a
+- her, ?
+- the brutalist, b
+- strip-tease intégral, b
+- attack on titan, s
+- star wars iii, s+
+- drive, s
+- le cinquième élément, a+
+- accident de piano (l'), b
+- dragons, b
+- superman, c
+- f1, b-
+- dracula, c
