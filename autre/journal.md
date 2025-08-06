@@ -293,3 +293,8 @@ moi aussi.
 
 31 juillet.
 dieu des humbles, sauvez cet enfant de colère !
+
+---
+
+8 août.
+devrais-je faire un journal de mes rêves ? la vogue et la mère, le grand salon dans la nuit.
