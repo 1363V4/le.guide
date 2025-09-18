@@ -298,3 +298,18 @@ dieu des humbles, sauvez cet enfant de colère !
 
 8 août.
 devrais-je faire un journal de mes rêves ? la vogue et la mère, le grand salon dans la nuit.
+
+---
+
+9 août.
+bouleversante lecture d'orlando.
+grand, musclé, brun, bronzé, avec le skate,
+tout le look avec,
+sac de voyage pas trop gros, boucle d'oreille,
+iphone à jack et casque rouge.
+se mordait la lèvre et se regardait beaucoup.
+
+---
+
+18 septembre.
+marie fut servie par eva.
