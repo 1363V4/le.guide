@@ -36,10 +36,13 @@ but the worst of your sins is your sync engine.
 excuse me but 
 *what do you need to fucking sync exactly*?
 the server and the client?
-did you try, um, i don't know, using htt-fucking-p to exchange data?!
+did you try, um, i don't know, using 
+[htt-fucking-p](https://developer.mozilla.org/en-US/docs/Web/HTTP) 
+to exchange data?!
 
 oh you did, you sent a skeleton-ass page and instructions to download more javascript at the nearest black market.
-fair, you don't build websites, you build trojan bombs, so
+fair, you don't build websites, you build 
+[trojan bombs](https://socket.dev/blog/malicious-npm-packages-target-react-vue-and-vite-ecosystems-with-destructive-payloads), so
 sync my ass.
 
 ## "ackhually..."
@@ -58,7 +61,8 @@ because you never understood the browser,
 because you never understood the markup,
 because you don't fucking read.
 
-maybe start with "hypermedia for dummies"?
+maybe start with 
+["hypermedia for dummies"](https://www.dummies.com/book/technology/programming-web-design/general-programming-web-design/web-coding-development-all-in-one-for-dummies-281889/)?
 
 ## "sikes! i use htmx"
 
@@ -75,19 +79,20 @@ you look like a janky knight in a cyber conflict.
 
 we're gonna laser beam your rusty helm with half the code
 and a fraction of the complexity. hold still
-(or don't, doesn't matter).
+*(or don't, doesn't matter).*
 
 ## what's the big fucking deal
 
 datastar is not miracle fucking water.
 
 it's simply:
-- htmx with oob default (the correct one btw) and a better morph
-- data-attributes made reactive with signals
+- htmx with oob default [(the correct one btw)](https://data-star.dev/essays/event_streams_all_the_way_down) and a better morph
+- data-attributes made reactive with [signals](https://data-star.dev/guide/reactive_signals)
 - ([attributes are hypermedia](https://developer.mozilla.org/en-US/docs/Web/HTML/How_to/Use_data_attributes) by the fucking way)
 - and [sse support](https://developer.mozilla.org/en-US/docs/Web/API/Server-sent_events)
 
-here "sse support" just means using the fucking fetch api,
+here "sse support" just means using the fucking 
+[fetch api](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API),
 but with quality-of-life defaults like auto-reconnect and exponential backoffs.
 
 your browser is already a fucking jet engine:
@@ -96,13 +101,15 @@ it just puts four of them under the rocket so you can get fucking moving.
 
 ## "it's just the new fad"
 
-the web doesn't break backward compatibility you dumbass.
+the web doesn't break 
+[backward compatibility](https://www.w3.org/People/Bos/DesignGuide/compatibility.html) you dumbass.
 
 datastar websites are forever.
 this is what you get by building on fucking specs.
 
 with datastar, you only manage the backend, not the backend + frontend.
-complexity is a poison, if you want to manage both,
+[complexity is a poison](https://grugbrain.dev/), 
+if you want to manage both,
 please shove this
 [median lethal dose](https://en.wikipedia.org/wiki/Median_lethal_dose)
 down your throat, thank ya.
@@ -145,7 +152,9 @@ no! it's a blog post, dumb as rocks text-on-a-page goodness!
 
 you got multiple pages worth of information?
 let me doubt that first, most of you are building landing pages
-for the ceo of bluetooth-cat-litter-inc who needs a rotating marquee of sponsors.
+for the ceo of 
+[bluetooth-cat-litter-inc](https://www.litter-robot.com/) 
+who needs a rotating marquee of sponsors.
 doesn't qualify as "information", does it?
 
 but even then, let's say you do have multiple pages,
@@ -153,7 +162,8 @@ please build an mpa.
 you might even want to check the definition to that, who fucking knows.
 
 for the remaining cases: 99% of the time
-your job is to build a crud app
+your job is to build a 
+[crud app](https://en.wikipedia.org/wiki/Create,_read,_update_and_delete)
 without adding more misery to the world.
 yet you inventing ever more spectacular ways to fail at that.
 
