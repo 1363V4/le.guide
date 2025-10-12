@@ -157,7 +157,7 @@ for the ceo of
 who needs a rotating marquee of sponsors.
 doesn't qualify as "information", does it?
 
-but even then, let's say you do have multiple pages,
+but even then, let's say you **do** have multiple pages:
 please build an mpa.
 you might even want to check the definition to that, who fucking knows.
 
@@ -165,7 +165,7 @@ for the remaining cases: 99% of the time
 your job is to build a 
 [crud app](https://en.wikipedia.org/wiki/Create,_read,_update_and_delete)
 without adding more misery to the world.
-yet you inventing ever more spectacular ways to fail at that.
+yet you keep inventing ever more spectacular ways to fail at that.
 
 we gave you 
 [request methods](https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Methods)
