@@ -1,5 +1,5 @@
 ---
-title: property check
+title: property/frozen check
 layout: post
 ---
 
