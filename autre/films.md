@@ -37,5 +37,5 @@ layout: post
 - dalloway, a
 - escape from the 21st century, a
 - une bataille après l'autre, s
-- tron ares, 
-
+- tron ares, d
+- kamelott, c-

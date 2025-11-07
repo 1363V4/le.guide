@@ -313,3 +313,11 @@ se mordait la lèvre et se regardait beaucoup.
 
 18 septembre.
 marie fut servie par eva.
+
+---
+
+1er novembre.
+percale fuschia.
+
+
+rajouter yunara à la zbeul
