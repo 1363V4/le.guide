@@ -3,7 +3,7 @@ title: a good class
 layout: post
 ---
 
-> consider how humans, or any other autonomous creatures of nature, operate with their model of the world. we all have our own model of the world contained in our own heads, i.e. we have a copy of the world state for our own use. we mutate the state in our heads based on inputs (events/messages) we receive via our senses. as we process these inputs and apply them to our model we may take action that produces outputs, which others can take as their own inputs. none of us reach directly into each other’s heads and mess with the neurons. if we did this it would be a serious breach of encapsulation! originally, object oriented (oo) design was all about message passing, and somehow along the way we bastardised the message passing to be method calls and even allowed direct field manipulation – yuk! who's bright idea was it to allow public access to fields of an object? you deserve your own special hell. 
+> consider how humans, or any other autonomous creatures of nature, operate with their model of the world. we all have our own model of the world contained in our own heads, i.e. we have a copy of the world state for our own use. we mutate the state in our heads based on inputs (events/messages) we receive via our senses. as we process these inputs and apply them to our model we may take action that produces outputs, which others can take as their own inputs. none of us reach directly into each other’s heads and mess with the neurons. if we did this it would be a serious breach of encapsulation! originally, object oriented (oo) design was all about message passing, and somehow along the way we bastardized the message passing to be method calls and even allowed direct field manipulation – yuck! whose bright idea was it to allow public access to fields of an object? you deserve your own special hell. 
 
 > mechanical sympathy
 
@@ -133,7 +133,7 @@ look, the only status effect you're gonna get
 is "poisoned" when your state is all over the place.
 **you're gonna die from oop.**
 
-please re-read the citation at the beginning.
+please reread the citation at the beginning.
 
 if your class isn't frozen,
 its attributes should **only be changed by this class**.
