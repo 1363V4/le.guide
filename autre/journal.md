@@ -262,3 +262,9 @@ aujourd'hui ?
 
 8 juin.
 Et non !
+
+---
+
+16 juillet.
+hésite alors qu'il est complétement engagé. ne fait jamais les choses en entier.
+habitudes répugnantes.
