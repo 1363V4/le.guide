@@ -268,3 +268,62 @@ Et non !
 16 juillet.
 hésite alors qu'il est complétement engagé. ne fait jamais les choses en entier.
 habitudes répugnantes.
+
+---
+
+24 juillet.
+malaise dans le métro.
+
+---
+
+25 juillet.
+dans le bus, un chinois fait tomber sa monnaie,
+entre deux feux verts à st-lazare, évidemment,
+pour payer son ticket. dehors une mendiante ramasse,
+le hèle, rend les pièces.
+une grand-mère roumaine se signe frénétiquement toutes les 30 secondes,
+avec de sortir de son sac un oeuf dur qu'elle écale en tapant dessus avec ses phalanges.
+
+dans le train, trois compères trop bruyants pour être honnêtes
+déballent le nouvel iphone, font un boucan pas possible
+en parlant de la "nouvelle fonction" réduction du bruit.
+"truc de ouf j'entends rien !".
+
+retournement de situation quand l'un passe un appel:
+"non je peux pas te voir le soir, j'ai un bracelet électronique".
+une affaire qui date de dix ans.
+"mes associés sont morts de rire".
+moi aussi.
+
+---
+
+31 juillet.
+dieu des humbles, sauvez cet enfant de colère !
+
+---
+
+8 août.
+devrais-je faire un journal de mes rêves ? la vogue et la mère, le grand salon dans la nuit.
+
+---
+
+9 août.
+bouleversante lecture d'orlando.
+grand, musclé, brun, bronzé, avec le skate,
+tout le look avec,
+sac de voyage pas trop gros, boucle d'oreille,
+iphone à jack et casque rouge.
+se mordait la lèvre et se regardait beaucoup.
+
+---
+
+18 septembre.
+marie fut servie par eva.
+
+---
+
+1er novembre.
+percale fuschia.
+
+
+rajouter yunara à la zbeul

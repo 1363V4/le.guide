@@ -1,26 +1,30 @@
-Quoi ? Pyrrhus, je te rencontre encore ?
-Julius 
+---
+title: pour qui
+layout: post
+---
 
-Trouverai-je partout un rival que j’abhorre ?
-Percé de tant de coups, comment t’es-tu sauvé ?
+pour qui sont ces babouins qui boxent sur vos bites ?
 
-Tiens, tiens, voilà le coup que je t’ai réservé.
-Mais que vois-je ? À mes yeux Hermione l’embrasse !
+pour qui sont ces chiens qui chient sur vos chaussures ?
 
-Elle vient l’arracher au coup qui le menace ?
-Dieux ! quels affreux regards elle jette sur moi !
+pour qui sont ces crocos qui croquent sur vos cous ?
 
-Quels démons, quels serpents traîne-t-elle après soi ?
-Eh bien ! filles d’enfer, vos mains sont-elles prêtes ?
+pour qui sont ces dindons qui dansent sur vos doigts ?
 
-Pour qui sont ces serpents qui sifflent sur vos têtes ?
-pour qui sont ces fantômes qui fondent sur vos fronts
+pour qui sont ces faucons qui fondent sur vos fronts ?
 
-À qui destinez-vous l’appareil qui vous suit ?
-Venez-vous m’enlever dans l’éternelle nuit ?
+pour qui sont ces guépards qui grattent sur vos gosiers ?
 
-Venez, à vos fureurs Oreste s’abandonne.
-Mais non, retirez-vous, laissez faire Hermione :
+pour qui sont ces lézards qui zoukent sur vos zizis ?
 
-L’ingrate mieux que vous saura me déchirer ;
-Et je lui porte enfin mon cœur à dévorer.
+pour qui sont ces poules qui picorent sur vos pommettes ?
+
+pour qui sont ces renards qui rongent sur vos rotules ?
+
+pour qui sont ces souris qui sautent sur vos scalps ?
+
+pour qui sont ces tatous qui twerkent sur vos tifs ?
+
+pour qui sont ces tortues qui têtent sur vos tétons ?
+
+...

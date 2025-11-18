@@ -17,6 +17,25 @@ layout: post
 - le robot sauvage, a+
 - flow, a+
 - the substance, c
-- juré n°2, b
+- juré n°2, b+
 - my sunshine, a
 - ours dans le jura (un), a
+- her, ?
+- the brutalist, b
+- strip-tease intégral, b
+- attack on titan, s
+- star wars iii, s+
+- drive, s
+- le cinquième élément, a+
+- accident de piano (l'), b
+- dragons, b
+- superman, c
+- f1, b-
+- dracula, c
+- pris au piège, b+
+- y'a-t-il un flic pour sauver le monde, b
+- dalloway, a
+- escape from the 21st century, a
+- une bataille après l'autre, s
+- tron ares, d
+- kamelott, c-
