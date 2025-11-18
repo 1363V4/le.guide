@@ -325,5 +325,7 @@ marie fut servie par eva.
 1er novembre.
 percale fuschia.
 
+---
 
-rajouter yunara à la zbeul
+18 novembre.
+le dernier quart de carré me tomba dans les mains.

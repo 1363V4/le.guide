@@ -1,6 +1,10 @@
 ---
-title: a good class
+title: a good class - part 1
 layout: post
+---
+
+**note:** this is part 1 in a series of posts about oop.
+
 ---
 
 > consider how humans, or any other autonomous creatures of nature, operate with their model of the world. we all have our own model of the world contained in our own heads, i.e. we have a copy of the world state for our own use. we mutate the state in our heads based on inputs (events/messages) we receive via our senses. as we process these inputs and apply them to our model we may take action that produces outputs, which others can take as their own inputs. none of us reach directly into each other’s heads and mess with the neurons. if we did this it would be a serious breach of encapsulation! originally, object oriented (oo) design was all about message passing, and somehow along the way we bastardized the message passing to be method calls and even allowed direct field manipulation – yuck! whose bright idea was it to allow public access to fields of an object? you deserve your own special hell. 
@@ -8,9 +12,9 @@ layout: post
 > mechanical sympathy
 
 i recently watched good videos about object-oriented programming:
-- https://www.youtube.com/watch?v=QM1iUe6IofM
-- https://www.youtube.com/watch?v=IRTfhkiAqPw
-- https://www.youtube.com/watch?v=V6VP-2aIcSc
+- [oop is bad](https://www.youtube.com/watch?v=QM1iUe6IofM)
+- [oop is embarassing](https://www.youtube.com/watch?v=IRTfhkiAqPw)
+- [oop is garbage](https://www.youtube.com/watch?v=V6VP-2aIcSc)
 
 bottom line:
 **most classes are bad.**
@@ -195,6 +199,11 @@ if you see:
 - any class that fails these 3 checks
 
 burn the code to the ground and rewrite functional.
+
+---
+
+there's more to it! check
+[part 2]().
 
 delaney talk:
 generational index (4bit whenever you have to look up, look up to this)
