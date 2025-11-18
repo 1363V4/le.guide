@@ -1,6 +1,6 @@
 ---
 title: everybody codes 2025
-layout_: post
+layout: post
 ---
 
 i have been enjoying everbody code so far
