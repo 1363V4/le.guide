@@ -84,6 +84,8 @@ no property is a bad tell,
 ask yourself why you grouped this data in the first place.
 maybe your class isn't really useful.
 
+
+
 the only exception where it's ok to not have a property
 is if your class is **frozen**,
 which we're gonna see in the next chapter.
@@ -193,3 +195,21 @@ if you see:
 - any class that fails these 3 checks
 
 burn the code to the ground and rewrite functional.
+
+delaney talk:
+generational index (4bit whenever you have to look up, look up to this)
+sparse set = swapback with gen indexes
+the queries themselves have this!
+and by tracking them you get to optimize your queries!
+need to dive into nats
+minecraft works that way
+dont use booleans! 
+existential programming: read first three chapters
+example: aoe has a lot of pathfindings
+swapbacks alternatives: b trees, quad trees
+disruptor pattern: ephermal stuff with a fixed size (very fast)
+sparse set + disruptor = very fast
+games are all about reusing buffers
+for billions of particles: shader+ seed + time
+"if you think you're gonna need one, you're wrong"
+relations? not a prob with generationa indexes - pgo: profile guided optimization
