@@ -7,3 +7,6 @@ Write ahead journal
 
 [sqlite is coded in c](https://sqlite.org/whyc.html)
 [existence](https://sqlite.org/whyc.html)
+
+tiens, sqlite3 est pas top?
+https://github.com/rogerbinns/apsw
