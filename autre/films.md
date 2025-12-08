@@ -39,3 +39,5 @@ layout: post
 - une bataille après l'autre, s
 - tron ares, d
 - kamelott, c-
+- un simple accident, b
+- bugonia, b

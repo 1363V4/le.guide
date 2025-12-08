@@ -329,3 +329,9 @@ percale fuschia.
 
 18 novembre.
 le dernier quart de carré me tomba dans les mains.
+
+---
+
+jeudi 4 décembre.
+je rencontrai manon, tristan, jérémy, virginie, anthony, rufin.
+j'offris ma victoire au bébé.
