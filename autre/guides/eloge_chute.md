@@ -12,3 +12,10 @@ lolololol
 
 chute de reins
 ce qui compte
+
+pour un roman fleuve ça avance pas vite
+faudra raconter une histoire
+ptdr deux fois
+5 volumes i guess, 800 pages en 12 chacun on va dire
+
+no screen except for research, no lust
