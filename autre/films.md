@@ -40,4 +40,5 @@ layout: post
 - tron ares, d
 - kamelott, c-
 - un simple accident, b
-- bugonia, b
+- bugonia, b+
+- zootopie 2, d

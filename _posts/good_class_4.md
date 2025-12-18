@@ -1,3 +1,9 @@
+donc bon
+deux premiers articles berk
+on réécrit ?
+quatre orm
+4.5 rewrite draft
+5 perf benchmarks
 
 peewee
 they do have bit field...
