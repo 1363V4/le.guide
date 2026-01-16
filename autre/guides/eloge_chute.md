@@ -20,6 +20,11 @@ ceux déjà chus guettent la faille
 en carnassiers
 se repaissent des chutes
 
+chute des notes
+super important : ne pas avoir peur des mauvaises notes
+la prépa fait ça mais de façon encore barbare
+tt le monde veut apprendre, c'est pas le sujet
+
 c'est beau chus
 les chus
 les chouans churent-ils ?

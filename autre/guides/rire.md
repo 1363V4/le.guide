@@ -115,3 +115,15 @@ il y a plus d'humour dormant dans les livres que dans tous les dvd
 
 quand on rit de a|b on est méchant avec qui ?
 a ? b ? les deux ?
+
+---
+
+scott adams proposal - mix two:
+naughty
+clever
+cute
+bizarre
+mean
+recognizable
+(mouais)
+(pourquoi pas, en tant que technique d'écriture)
