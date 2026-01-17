@@ -1,0 +1,12 @@
+- the pain is due to tms, not to a structural abnormality.
+- the direct reason for the pain is mild oxygen deprivation.
+- tms is a harmless condition, caused by my repressed emotions.
+- the principal emotion is my repressed anger.
+- tms exists only to distract my attention from the emotions.
+- since my back is basically normal there is nothing to fear.
+- therefore, physical activity is not dangerous.
+- and i must resume all normal physical activity.
+- i will not be concerned or intimidated by the pain.
+- i will shift my attention from the pain to emotional issues.
+- i intend to be in control not my subconscious mind.
+- i must think psychological at all times, not physical.

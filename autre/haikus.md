@@ -1,0 +1,111 @@
+---
+title: haïkus
+layout: post
+---
+
+> *tout le zen, dont le haïkaï n'est que la branche littéraire,*
+> *apparaît ainsi comme une immense pratique destinée à arrêter le langage,*
+> *à casser cette sorte de radiophonie intérieure qui émet continûment en nous,*
+> *jusque dans notre sommeil*
+
+`jours où je n'ai rien`
+
+`je prends des jours où j'avais`
+
+`et j'ai tous les jours`
+
+---
+
+`coeur`
+
+`en cage`
+
+`tu n'as jamais su où te mettre`
+
+---
+
+`camaïeu : black bloc`
+
+`bonnet rouge gilet jaune`
+
+`franco-allemand`
+
+---
+
+`brasil`
+
+`dubstep remix`
+
+`1080p`
+
+---
+
+`s'effacer ?`
+
+`qui crois-tu a mis là`
+
+`le silence`
+
+---
+
+`paris`
+
+`mitose`
+
+`en cours`
+
+---
+
+`j'ai voulu distraire`
+
+`mon hérisson en l'emmenant`
+
+`voir du volley`
+
+---
+
+`accorder ces chants`
+
+`rentrer sortir tout le temps`
+
+`pas de bancs devant`
+
+---
+
+`silence`
+
+`amour sans`
+
+`ivresse`
+
+---
+
+`lampe torche`
+
+`la nuit criminelle`
+
+`chien de guarde`
+
+---
+
+`dessillage lent`
+
+`le jour largue ses amarres`
+
+`eau chaude agitée`
+
+---
+
+`chemise froissée`
+
+`sous le pull, long pelage,`
+
+`cheveux hivernaux`
+
+---
+
+`dans la main du froid`
+
+`de la pluie, du soleil, du vent`
+
+`en ais-je trop mis ?`

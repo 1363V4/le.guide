@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: "fr" }}">
+  {%- include head.html -%}
+  <body a="{{ site.theme_config.appearance }}">
+    <main class="page-content" aria-label="Content">
+      <div class="w">
+        {{ content }}
+      </div>
+    </main>
+
+    {%-include goat_counter.html-%}
+
+  </body>
+</html>
