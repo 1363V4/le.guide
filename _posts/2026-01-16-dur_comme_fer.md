@@ -40,18 +40,12 @@ vraiment !
 "i have no idea if that is true, and i don’t plan to research it because 
 **accuracy is not an active ingredient in reframes**".
 
-un reframe / nouveau narratif, c'est un outil.
+un reframe / nouveau *narratif*, c'est un outil.
 pas besoin d'être vrai, pas besoin d'être logique
 (ça peut ! mais pas besoin),
 tout ce qui compte, c'est que ça marche.
 que ça te donne un avantage dans **ta** situation.
 que ça t'aide.
-
-focus
-émotion
-répétition
-
-reframe = narratif
 
 exemple:
 il n'y a pas de mauvaise publicité
@@ -170,11 +164,11 @@ comment l'utiliser ?
 
 j'ai trouvé un moyen mémotechnique,
 il faut y croire
-**dur comme fer** :
+**dur comme f.e.r.** :
 
-- focus
-- émotion
-- répétition
+- **f**ocus
+- **é**motion
+- **r**épétition
 
 en gros, dire la phrase (en vrai ou dans sa tête)
 en se concentrant sur la phrase,

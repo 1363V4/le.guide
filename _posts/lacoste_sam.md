@@ -3,6 +3,12 @@ title: sam altman should wear lacoste
 layout: post
 ---
 
+l'histoire est nulle
+faut refaire avec bah une vraie histoire quoi
+avec le gamin qui doit fermer la gueule
+et le croco qui finit par open source le médical
+ou juste appeler à l'aide
+
 did you know?
 
 crocodiles have tremendous power to **close**
