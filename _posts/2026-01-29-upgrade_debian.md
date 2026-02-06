@@ -55,6 +55,9 @@ export PATH=$PATH:/home/le/.local/bin
 eval "$(oh-my-posh init bash)"
 ```
 
+> retour d'xp: je pensais que micro buggait, mais c'est juste que la déf des keybinds avait évolué.
+> ça fail silently donc faut faire gaffe.
+
 ## alias
 
 tant qu'on est dedans...
@@ -64,6 +67,8 @@ j'en utilise que deux :
 alias update='sudo apt update && sudo apt upgrade -y'
 alias gitup='git add . && git commit -m "dev" && git push'
 ```
+
+> retour d'xp: quand on set les locales sur .bashrc, faut le faire en début de file. askip.
 
 et aussi uncomment `la`.
 
@@ -108,6 +113,9 @@ XXX/tcp (v6)              ALLOW       Anywhere (v6)
 
 je crois que j'ai ouvert le 25 pour recevoir des mails mais je peux drop ça.
 
+> retour d'xp : j'ai oublié le XXX. quand on change son port ssh, faut le dire à ufw.
+> sinon on est enfermés dehors et faut tout réinstaller.
+
 ## quelle stack ?
 
 python déjà.
@@ -126,6 +134,8 @@ on va ditch redis et passer sur nats.
 le dernier point épineux c'est la génération html.
 j'aime bien htpy mais bon...
 en main ?? et puis la gueule du rewrite.
+
+> retour d'xp : stario ftw.
 
 ## caddy
 
@@ -156,6 +166,9 @@ leg.ovh, www.leg.ovh {
 ```
 
 je crois qu'on peut l'améliorer un peu mais c'est déjà très bien.
+
+> retour d'xp : en fait, j'avais donné à caddy le droit de traverser mon home folder en faisant ça.
+> maintenant je mets les sockets dans un folder dédié dans /run/legovh/legovh.sock en 775.
 
 ## déployer
 
@@ -195,3 +208,6 @@ WantedBy=multi-user.target
 
 pas d'overhead à utiliser uv.
 enable, start et roule ma poule.
+
+> retour d'xp : ouais ça prend du temps.
+> pour vous faire une idée, je sais tout sur fnaf maintenant.
