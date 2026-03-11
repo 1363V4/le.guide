@@ -249,6 +249,17 @@ sublime just feels so polished.
 made with craft by caring people.
 now that's what i call *vibe coding*.
 
+btw, i also redefined "vibe coding" to mean
+writing a lot of comments in your code
+and sublime has **two** perfectly placed comment keybinds:
+
+```json
+[
+	{ "keys": ["ctrl+/"], "command": "toggle_comment", "args": { "block": false } },
+	{ "keys": ["ctrl+shift+/"], "command": "toggle_comment", "args": { "block": true } },
+]
+```
+
 you have to pay for it (winrar style),
 but i don't mind.
 if i want it, i buy it.
