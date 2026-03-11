@@ -40,7 +40,7 @@ i just love micro's gruvbox:
 the deep bleedy red is *chef's kiss*.
 
 the best part is "clipboard": being able to copy/paste
-from anywhere to anywhere is a life savior.
+from anywhere to anywhere is a lifesaver.
 
 it inherits the font from oh-my-posh i think.
 
@@ -118,7 +118,7 @@ i can't manage to duplicate a line up or down
 
 at least we get back folding
 (and it's a better folding than vscode).
-but it's till hard to map efficiently.
+but it's still hard to map efficiently.
 
 we can make it look quite modern and minimal!
 mess around in the settings, minimize and disable stuff,
