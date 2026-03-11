@@ -179,10 +179,12 @@ and excellent ssh workflow.
 markdown has better autoclosing,
 but can't fold for a weird reason.
 
-.zedserver is 90M of storage
+.zedserver is 90M of storage + 430M in .local
 and around 250M of RAM use,
 which is... **still a lot**.
 and you need to close all zed windows to free this.
+
+> ps: cursor is 350M of junk and around 350M of RAM.
 
 linting is opened on a different window,
 which i think is a great idea but
