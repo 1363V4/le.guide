@@ -43,3 +43,5 @@ layout: post
 - bugonia, b+
 - zootopie 2, d
 - le chant des forêts, b
+- marty supreme, a
+- alter ego, b+
