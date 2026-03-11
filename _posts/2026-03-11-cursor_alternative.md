@@ -257,7 +257,7 @@ so i'll try it.
 i'll stick with it and we'll see.
 
 unfortunately, i can't try the sftp plugin
-(30$, sublime is 99)
+(30$, sublime is 170 with sublime merge, 200 total)
 without paying for it,
 so it will be mostly for local dev for now.
 
