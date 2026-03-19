@@ -3,6 +3,9 @@ title: le guide du rire
 layout: post
 ---
 
+putain y'a que ça !
+on avait dit la chute c'est que les hommes meurent seuls
+
 rire ou faire rire
 
 pour commencer je suis pas marrant
@@ -18,9 +21,6 @@ et je devrais finir moteur, et putain j'ai jeté les drafts
 bizarrement lui qui me revient que je pense b-a
 ak j'ai rien contre
 https://www.youtube.com/watch?v=Sh37jjodXVU
-
-
-
 
 ---
 

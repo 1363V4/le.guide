@@ -5,7 +5,7 @@ layout: post
 
 - [approche du scénario](films/approche_scenario.md)
 - [deuxième acte (le)](films/deuxième_acte.md)
-- [gros 25 (le)](films/gros_25.md)
+- [25 cultes](films/25_cultes.md)
 - ————————————————————
 - perfect days, s+
 - parasite, a+
