@@ -1,5 +1,5 @@
 ---
-title: le gros 25
+title: 25 cultes
 layout: post
 ---
 

@@ -1,6 +1,18 @@
 # real temp
 
+dear vsb12,
 
+i too heard this a dozen times
+churchill quote
+your remix is a success
+
+two aspects:
+production quality on lmms!
+the sheer intelligence of it
+double bass to asnwer the double bass of the original
+rythm broken the other way
+the string/voice saturated to echo resonance mimicking
+the bass statement at the end
 
 ---
 

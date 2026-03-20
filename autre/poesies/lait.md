@@ -31,7 +31,7 @@ quand y'avait plus de saints au ciel
 
 quand les vacances étaient pas noël
 
-utain, quand j'avais pas envie d'y aller
+putain, quand j'avais pas envie d'y aller
 
 quand je pleurais dans mes céréales
 

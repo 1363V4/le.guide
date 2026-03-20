@@ -9,7 +9,7 @@ crisse un chapelet d'eau
 
 l'air naïf a si bon dos
 
-qu'il rend la pareil
+qu'il rend la pareille
 
 ---
 
@@ -33,7 +33,7 @@ et les photos d'art court
 
 ---
 
-le ciel pleure et le sol boit
+le ciel pleure car le sol boit
 
 trinquez vous mes frères
 
