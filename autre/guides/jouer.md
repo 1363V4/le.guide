@@ -246,3 +246,10 @@ NON j'ai encore r compris
 
 les half dim (7 normaux dans majeur)
 c'est pour faire des ii v i vers mineur !!
+
+---
+
+ii-vii pas loin
+iii-vi bizarre
+iv-v loin
+shrimple as

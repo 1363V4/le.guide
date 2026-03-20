@@ -1,2 +1,0 @@
-mesurer
-game of life
