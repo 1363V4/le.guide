@@ -41,7 +41,7 @@ kool-aid would be nice,
 we would just have to acknowledge that:
 - chat gpt 3.5 was nicer to chat with
 - we have a working universal translator, yay!
-- a health chatbot can be handy, maybe states can host them
+- an emergency health chatbot can be useful
 
 the rest is moot unfortunately,
 which might be to sugar-y a drink,
@@ -52,6 +52,10 @@ so i'm afraid it's gonna be the rubber bands.
 ![croc2](/img/sam/croc2.png)
 
 ---
+
+i've stopped using ai.
+it was nice, but because i don't have friends to talk to.
+i'll focus on that instead.
 
 i think sam likes polos.
 
