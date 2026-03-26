@@ -127,3 +127,15 @@ mean
 recognizable
 (mouais)
 (pourquoi pas, en tant que technique d'écriture)
+
+
+faire rire c'est faire oublier
+donc ça aide de rappeler
+(dans le stand up, qui est une création assez horrible de l'humour)
+
+souvent tu portes en toi ta propre contradiction (francais/immigré)
+c'est l'émotion qui change tout (gad vs dieudonné)
+
+la musique des paroles (les "tsais" comme un hi hat, les "je lui dis" comme un drum roll)
+beaucoup de trompettes et de prouteurs
+j'aimerais bien faire du piano
