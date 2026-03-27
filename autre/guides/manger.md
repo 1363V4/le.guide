@@ -4,7 +4,14 @@ layout: post
 ---
 
 - [aromebase](#aromebase)
+- [au lion d'or](#au-lion-d'or)
+- [le cerisier](#le-cerisier)
+- [champ thé](#champ-thé)
+- [le lion bossu](#le-lion-bossu)
 - [maison ramen](#maison-ramen)
+- [la part du lion](#la-part-du-lion)
+- [le présentoir](#le-présentoir)
+- [rouge barre](#rouge-barre)
 - [shuriken](#shuriken)
 - [suzanne](#suzanne)
 - [wazemmes](#wazemmes)
@@ -17,7 +24,66 @@ le meilleur restaurant de lille.
 
 point à la ligne.
 
-*aromebase, 8 rue des fossés, 59800 lille*
+(mars 26, aromebase c'est fini. snif.)
+
+*aromebase, 8 rue des fossés, 59000 lille*
+
+---
+
+## au lion d'or
+
+miam leur patisserie spéciale.
+pas trop sucrée, la bonne crème cibouste, hmmmmm...
+
+*au lion d'or, 11 place du lion d'or, 59000 lille*
+
+---
+
+## le cerisier
+
+la dingz
+
+*le cerisier, 14 avenue du peuple belge, 59000 lille*
+
+---
+
+## le lion bossu
+
+la dingz
+
+*le lion bossu, 1 rue saint-jacques, 59000 lille*
+
+---
+
+## la part du lion
+
+la dingz
+
+*la part du lion, 1 boulevard vauban, 59800 lille*
+
+---
+
+## le présentoir
+
+la dingz
+
+*le présentoir, 24 rue pierre mauroy, 59800 lille*
+
+---
+
+## champthé
+
+la dingz le ptit soleil
+
+*champthé, 67 rue des tanneurs, 59800 lille*
+
+---
+
+## rouge barre
+
+hmmm
+
+*rouge barre, 50 rue de la halle, 59800 lille*
 
 ---
 

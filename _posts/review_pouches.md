@@ -42,3 +42,11 @@ après les repas ça va
 faut vraiment que j'arrête
 ils puent encore
 pourquoi je prends mille parfums encore
+
+bon maintenant les pastilles et les chwing
+
+pas fou et donne mal au bide
+chwing après manger ça va
+pastilles je peux mettre vraiment devant, ça pique ça envoie
+
+j'ai aussi les bonbons, certains aux champignons maintenant.
