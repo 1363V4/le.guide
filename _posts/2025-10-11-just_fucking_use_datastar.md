@@ -97,24 +97,24 @@ but with quality-of-life defaults like auto-reconnect and exponential backoffs.
 
 your browser is already a fucking jet engine:
 datastar doesn't reinvent the wheel,
-it just puts four of them under the rocket so you can get fucking moving.
+it just puts four of them under the rocket so you can **get. fucking. moving.**
 
 ## "it's just the new fad"
 
 the web doesn't break 
 [backward compatibility](https://www.w3.org/People/Bos/DesignGuide/compatibility.html) you dumbass.
 
-datastar websites are forever.
+datastar websites are **forever**.
 this is what you get by building on fucking specs.
 
 with datastar, you only manage the backend, not the backend + frontend.
-[complexity is a poison](https://grugbrain.dev/), 
-if you want to manage both,
-please shove this
+if you want to manage both by gurgling javascript,
+remember that [complexity is a poison](https://grugbrain.dev/), 
+so please shove this
 [median lethal dose](https://en.wikipedia.org/wiki/Median_lethal_dose)
 down your throat, thank ya.
 
-and btw: never a breaking change.
+oh, and btw: no breaking changes, **ever**.
 datastar is just 
 [a few thousand lines of typescript](https://github.com/starfederation/datastar/blob/develop/library/src/engine/engine.ts)
 and it's v1 forever baby.
@@ -131,14 +131,21 @@ heck, you'll love it!
 you're gonna be writing so much awk and so little javascript
 you'll feel one step closer to heaven, you lucky fuck.
 
+the best part is that even your arthritic server is gonna be fine.
+look at [this shit](https://checkboxes.andersmurphy.com/)!
+a billion checkboxes in a **5$/month vps**!
+they don't do miracles like that in fucking lourdes for christ's sake!
+
+the future is yours, old man.
+
 ## don't fucking use datastar pro
 
 let me say it loudly for the morons in the back
-who think they can hack the fbi but can't put two and two together:
+who think they can vibe-hack the fbi but can't put two and two together:
 **it's just so that your fucking company can support the project!!**
 
-convince these lobotomized suits they might need `data-persist` in the future 
-or whatever other bullshit
+convince your own lobotomized suits they might need `data-persist` in the future 
+or whatever other bullshit,
 and snatch the damn credit card.
 
 no you're never ever gonna need any feature in pro and it's total bait,
@@ -158,7 +165,7 @@ who needs a rotating marquee of sponsors.
 doesn't qualify as "information", does it?
 
 but even then, let's say you **do** have multiple pages:
-please build an mpa.
+please build an **mpa**.
 you might even want to check the definition to that, who fucking knows.
 
 for the remaining cases: 99% of the time
@@ -189,3 +196,6 @@ and it's made **against**
 [that big stain](https://justfuckingusehtml.com/)
 and *(jesus, how many abominations must these people shit before the js god is appeased)*
 [that other thing](https://justfuckingusesolid.com/).
+
+now [go read the fucking guide](https://data-star.dev/guide/getting_started),
+thanks.
