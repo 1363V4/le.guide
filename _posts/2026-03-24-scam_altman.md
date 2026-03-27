@@ -9,7 +9,7 @@ crocodiles have tremendous power to **close**
 their jaws,
 but very little to open it.
 
-![croc1](/img/sam/croc1.png)
+![croc1](/img/sam/croc1.png){:.ioda}
 
 a kid putting its hands on both sides of a crocodile's jaw
 would be enough to keep the beast tame.
@@ -66,7 +66,7 @@ even for donald.
 
 so i'm afraid it's gonna be the rubber bands little croc.
 
-![croc2](/img/sam/croc2.png)
+![croc2](/img/sam/croc2.png){:.ioda}
 
 ---
 
