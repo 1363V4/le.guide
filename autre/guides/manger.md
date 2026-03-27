@@ -41,7 +41,8 @@ pas trop sucrée, la bonne crème cibouste, hmmmmm...
 
 ## le cerisier
 
-la dingz
+lanniv
+la st jacques au persil
 
 *le cerisier, 14 avenue du peuple belge, 59000 lille*
 
@@ -57,7 +58,8 @@ la dingz
 
 ## la part du lion
 
-la dingz
+alex le seum
+avoir des gosses
 
 *la part du lion, 1 boulevard vauban, 59800 lille*
 
@@ -66,6 +68,7 @@ la dingz
 ## le présentoir
 
 la dingz
+changer pour trois b ?
 
 *le présentoir, 24 rue pierre mauroy, 59800 lille*
 
@@ -82,6 +85,9 @@ la dingz le ptit soleil
 ## rouge barre
 
 hmmm
+assortiment biere 
+manger midi pas cher
+pain de chez vandromme#
 
 *rouge barre, 50 rue de la halle, 59800 lille*
 
