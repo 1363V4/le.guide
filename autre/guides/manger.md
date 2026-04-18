@@ -4,9 +4,9 @@ layout: post
 ---
 
 - [aromebase](#aromebase)
-- [au lion d'or](#au-lion-d'or)
+- [au lion d'or](#au-lion-dor)
 - [le cerisier](#le-cerisier)
-- [champ thé](#champ-thé)
+- [champthé](#champthé)
 - [le lion bossu](#le-lion-bossu)
 - [maison ramen](#maison-ramen)
 - [la part du lion](#la-part-du-lion)

@@ -4,6 +4,7 @@ layout: post
 ---
 
 - [chess](jeux/chess.md)
+- [croc monsieur](jeux/croc_monsieur.md)
 - [échecs poissons](jeux/echecs_poissons.md)
 - [lotoké](jeux/lotoke.md)
 - [moins cinq](jeux/moins_cinq.md)
