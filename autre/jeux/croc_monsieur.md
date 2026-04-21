@@ -7,7 +7,7 @@ layout: post
 
 le jeu se joue dans la rue, idéalement à 2 ou 3.
 
-le but du jeu est d'être le premier à repérer une personne en crocs.
+le but est d'être le premier à repérer une personne en crocs.
 
 on peut jouer en 1, 2 ou 3 points gagnants, à définir au début du jeu.
 

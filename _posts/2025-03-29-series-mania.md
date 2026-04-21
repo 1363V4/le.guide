@@ -43,7 +43,7 @@ complètement barge mais très prenante.
 **the danish woman**
 (finlande)
 un humour très méchant
-et terriblement efficace.
+et efficace.
 
 **empathie**
 (canada)

@@ -139,3 +139,23 @@ c'est l'émotion qui change tout (gad vs dieudonné)
 la musique des paroles (les "tsais" comme un hi hat, les "je lui dis" comme un drum roll)
 beaucoup de trompettes et de prouteurs
 j'aimerais bien faire du piano
+
+---
+
+une foule faut lui parler comme à un homme paniqué avec un flingue
+(louis ck)
+très d'accord
+
+moi je crois que je préfère écrire.
+écrire comment ?
+comme si ton père devait le lire à voix haute
+
+les abdos, je sais pas si j'en parle mais les abdos
+
+---
+
+a,b punchline setup
+c,d,e,f equation
+pour f j'avais pensé autistic kid bit
+g gangster
+faut aller là-bas
