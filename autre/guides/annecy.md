@@ -7,6 +7,8 @@ le meilleur truc à faire à annecy
 de très loin,
 c'est louer un vélo et faire des tours de lac.
 
+et la plage.
+
 si on est coincé dans la ville,
 il n'y a pas beaucoup de choix :
 se balader
