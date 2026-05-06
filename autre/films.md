@@ -44,4 +44,6 @@ layout: post
 - zootopie 2, d
 - le chant des forêts, b
 - marty supreme, a
-- alter ego, b+
+- alter ego, b
+- projet dernière chance, a+
+- the drama, b
