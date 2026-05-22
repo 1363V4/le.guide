@@ -54,3 +54,11 @@ délinquance infantile au lieu de juvénile
 
 on est allé au portugal voir le bout du monde
 dieu veut, l'homme rêve, l'oeuvre naît
+
+---
+
+j'ai mis longtemps à répondre
+parce que j'ai encore bloqué à 90% du livre
+
+je veux autant pas finir que l'ia veut commencer
+elle peut pas la fermer
