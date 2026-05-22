@@ -64,15 +64,20 @@ notre meilleure série française :
 ![manon](/img/sm/manon.jpeg)
 
 la french theory en pleine incubation,
-l'intérieur de l'oeuf dans une fac éphémère...
+l'intérieur de l'oeuf dans une fac éphémère
+dans un 69 bouillonnant...
+
+1969 bien sûr.
 
 mais surtout un travail monstre
-pour utiliser sans trahir
-de godard et son armée.
+pour utiliser 
+(vraiment au sens d'*outil*)
 l'esthétique
+de godard (et son armée).
 
 c'est intelligent et ça marche très bien.
-dispo bientôt sur arte.
+c'est très intelligent et ça marche bien.
+c'est dispo bientôt sur arte.
 
 ---
 
