@@ -62,7 +62,7 @@ and holmes is a fascinating character.
 it's not so much the *deductive* power of holmes
 (nb: holmes is more about deductions than observation,
 though he does carry a magnifying glass),
-but he's got an undescriptibly devilish quality,
+but he's got an indescribably devilish quality,
 a laugh and a morgue...
 
 present, aware, yet in another plane.
@@ -83,7 +83,7 @@ a clever hunter with manners.
 > and what have i gained?"
 
 > "experience," said holmes laughing.
-> "indirectly it may be of value, you know ;
+> "indirectly it may be of value, you know;
 > you only have to put it into words
 > to gain the reputation of being excellent company
 > for the remainder of your existence."
@@ -96,7 +96,7 @@ well, this double tap thing is not very interesting.
 
 sorry.
 
-i just wanted to write smthing cause i loved reading this book.
+i just wanted to write something because i loved reading this book.
 
 truth be told, it's about the style and vocabulary.
 

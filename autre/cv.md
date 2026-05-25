@@ -3,6 +3,9 @@ title: cv
 layout: post
 ---
 
+parisien.
+tour au tir.
+la dent.
 claudio.
 piano puis rien. 
 d’abord romantique, mélodie piano les meufs, interor.
@@ -18,9 +21,12 @@ apprend à lire. saute classe. pour autant, pas seul. mauvais pote, sûrement.
 aide prof math et concours kangourou. prépa sans forcer. 
 échec centrale. blâme centrale. maintenant excel, python quand rebelle. voilà pour la science. 
 et un geek. j’ai coulé un temps de fou malade.
+pas de regret. un coin de plus à l'imaginaire.
 nature obsessive. complétionniste. tricheur.
 code depuis quatre ans juste pour le plaisir du grind. la petite étincelle.
 le boulot ? stagiaire 3ème puis stagiaire ricard puis stagiaire startup qui coule puis stagiaire exploite puis startup qui rate. puis boulot morbide. voilà.
+mais il a cherché. un peu fan de vian.
+écoles et boulots crouteux qu'il veut ronger de l'intérieur.
 tout ça sans compter les centaines de lettres sans retour et le temps passé à les écrire.
 tout ça sans compter mon manque de maturité à donner du temps aux gens au lieu d’en quémander.
 pas de syndication. pas baisé une collègue. parfois un mentor, jamais un partenaire.
@@ -28,8 +34,8 @@ côté cœur ça vous regarde pas.
 côté religion ça va, catho confirmé. 
 la santé est bonne malgré ce truc au dos et la clope. donc pas trop bonne en vrai.
 
-ingénieur
-dirigeant de mclein
+ingénieur ?
+dirigeant de mclein ?
 président du gdcd / comité agathocle
 (groupe de défense du cure-dents)
 membre fondateur de rics
@@ -42,3 +48,5 @@ vincero.
 https://steve-yegge.blogspot.com/2007/09/ten-tips-for-slightly-less-awful-resume.html
 
 et l'autre, comment prouver que c'est toi ?
+amoureux des oiseaux et de la victoire, désespéré de n'en pas être.
+aujourd'hui, il ne regrette rien, si ce n'est d'être en vie.

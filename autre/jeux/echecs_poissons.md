@@ -14,6 +14,8 @@ avec deux modifications :
 
 **oui**, un pion qui n'a pas encore bougé peut manger en avancant de deux cases.
 
+**oui**, un tel pion met en échec un roi si celui-ci se trouve à deux cases.
+
 **non**, l'en-passant n'est pas conservé.
 
 amusez-vous bien.
