@@ -55,6 +55,35 @@ together as 1.
 let's do one more pass on  
 [asmartbear.com](https://longform.asmartbear.com/)
 
+he had bangers i still think about a lot,
+like "carol" and "is there a problem"
+
+from what i see,
+he's still using the old
+"pick a funny cartoon and wing a business theory from it",
+which works suprisingly well.
+ask jodorowsky.
+
+i wonder what my go-to cartoon would be.
+people usually enjoy calvin & hobbes (i love it too),
+xkcd is another great classic.
+french people used to go crazy with "shadoks".
+i used to be an avid smbc fan,
+but recently i found a random
+"achille talon" board and i giggled like hell.
+cartoons are rad.
+
+strategic choices is correct from gut feeling,
+but the examples are lacking.
+
+"focus" (creating space) is a great recap,
+that's always what my dad says all the time.
+
+target market is just another riff on carol,
+and max mrr is just mental gymnastics.
+
+good read.
+
 ---
 
 someone was
@@ -93,6 +122,6 @@ but i don't re-read them.
 
 the other article (about quitting cigs)  
 should be called f*ck you.  
-same with "adhd", just so i can take speed  
-to fulfill your petty wants.  
-i wanna see you starve, bitch.
+same with "adhd", i'll dope so i can speed  
+to fulfill your petty wants?
+i'd rather see you starve, bitch.

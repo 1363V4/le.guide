@@ -24,3 +24,10 @@ est-ce que couper le micro sur teams implique une verbalisation bloquée ?
 
 ne pas penser expérience : état entre deux phrases de notre interlocuteur
 alors écouter le masque ?
+
+---
+
+les animaux font de bons masques
+
+maquillage : fard noir sur les yeux
+"television is black paint over your eyes"
