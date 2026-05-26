@@ -246,6 +246,7 @@ NON j'ai encore r compris
 
 les half dim (7 normaux dans majeur)
 c'est pour faire des ii v i vers mineur !!
+(en fait ça permet d'aller vers huit accords différents)
 
 ---
 
@@ -253,3 +254,11 @@ ii-vii pas loin
 iii-vi bizarre
 iv-v loin
 shrimple as
+
+---
+
+i-iii-vi de bashung comme un lego
+aller chercher le mineur dans la gamme majeure
+pas de résolution dans la tristesse
+le framework famille donne juste les rôles
+à toi ensuite de jouer
