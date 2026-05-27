@@ -262,3 +262,22 @@ aller chercher le mineur dans la gamme majeure
 pas de résolution dans la tristesse
 le framework famille donne juste les rôles
 à toi ensuite de jouer
+(important ça ! tu peux y réfléchir longtemps !)
+
+on peut aussi majoriser ou minoriser
+mais faut préparer suffisamment
+cadences parfaites etc pour qu'il y ait pas de doutes
+
+et puis ne pas oublier le truc fondamental
+la mélodie ou bien les paroles
+doivent aller à rebours du sentiment musical
+créer une tension, un paradoxe interne
+
+en parlant de paradoxe,
+le plus petit graphe 2-paradoxal
+fait 7 éléments
+coincidence je ne crois pas
+c'est-à-dire que chaque deux notes a une note qui la "bat"
+(qu'est-ce que ça veut dire ?)
+
+---

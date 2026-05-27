@@ -4,6 +4,7 @@ layout: post
 ---
 
 - [ainsi soit-il](traductions/ainsi_soit_il.md)
+- [aubade](traductions/aubade.md)
 - [ballade de bonne](traductions/ballade_de_bonne.md)
 - [charme chtonien](traductions/charme_chtonien.md)
 - [conflit constant](traductions/conflit_constant.md)
