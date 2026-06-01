@@ -27,7 +27,7 @@ m'aveugle encore, me tient, m'horrifie.
 
 l'esprit est coi quand elle fixe. non dans le remords
 
-- du bien qu'on eût pu faire, l'amour pas donné, les jours
+— du bien qu'on eût pu faire, l'amour pas donné, les jours
 
 déchirés sans s'en servir - ni dans la misère, car
 
@@ -109,4 +109,4 @@ le ciel est blanc d'argile. pas de soleil...
 
 il faut faire son travail.
 
-des docteurs et des postiers vont par les maisons.
+postiers comme docteurs vont par les maisons.
