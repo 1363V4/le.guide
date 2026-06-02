@@ -1,3 +1,7 @@
+# ali
+me voit comme son petit frere
+entrepreneuriat standup
+
 # anto
 prime aux écoles pour les élèves qui restent
 tu veux lutter contre la désco et tu fais un bon goodhart
@@ -6,6 +10,7 @@ film à voir : la jeune fille et les paysans
 il sait pour l'hymen de lili (elle se rappelle pas lui avoir dit)
 pièce à voir : il y a pas de ajar
 vélo : jungle bike
+ouais il me fait la gueule
 
 # bastien
 from saigon to danang
