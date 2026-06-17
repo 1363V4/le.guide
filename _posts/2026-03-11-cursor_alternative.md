@@ -280,3 +280,31 @@ i'll roll with a 3-editor setup:
 sublime on main,
 zed on ssh,
 micro for hard-to-reach corners and notepad replacement.
+
+---
+
+**17/06/26**
+
+so here's an update 3 months after:
+
+zed is very, very, very great.
+
+the best thing in all zed is
+the "disable ai features" in one click.
+
+yes god please yes insta click that.
+
+the other good parts are github and ssh,
+which is why i didn't go sublime at all finally.
+
+but the real best thing is good code folding.
+i talk about it 
+[here](https://blog.legires.fr/2024/10/11/best_tip.html)
+but, for real, it's paramount.
+
+i now run zed full screen with 
+[alabaster](https://github.com/findrakecil/alabaster-dark-zed-theme)
+theme
+and split panels.
+
+life is good.
