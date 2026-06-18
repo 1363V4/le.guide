@@ -49,4 +49,6 @@ pas fou et donne mal au bide
 chwing après manger ça va
 pastilles je peux mettre vraiment devant, ça pique ça envoie
 
-j'ai aussi les bonbons, certains aux champignons maintenant.
+j'ai aussi les bonbons, certains aux champignons maintenant (ça fait rien).
+
+bon bah putain que ça fait chier quand y'en a plus putain.
