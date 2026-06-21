@@ -3,7 +3,11 @@ title: job rejections
 layout: post
 ---
 
-my job sucks balls.
+my job sucks balls.[^1]
+
+[^1]: it does not suck ass *per se*,
+it's just that it is evil.
+unapologetically evil.
 
 i've been searching for a job 
 since i was out of school 6 years ago
