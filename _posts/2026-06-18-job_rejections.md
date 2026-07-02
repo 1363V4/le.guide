@@ -3,7 +3,9 @@ title: job rejections
 layout: post
 ---
 
-my job sucks balls.
+my job sucks balls.[^1]
+
+[^1]: it does not suck ass *per se*, it's just that it is evil. unapologetically evil.
 
 i've been searching for a job 
 since i was out of school 6 years ago
@@ -111,20 +113,19 @@ older stuff 2021/2020 (i was getting tired):
 - padok
 - qonto
 - kushim
-- payfit
 - solary
+- payfit
 
 + a bunch of shit
 through linkedin, welcome or angel list
 (but it doesn't show up in the mail)
 
 i've also been rejected from "normal" jobs back in the day:
-like for example a clothing store
-(she asked me to fold something and tell me which material it was and that was that)
+for example a clothing store
+(she asked me to fold something and tell me which material it was and that was that lol)
 but i don't mind that.
 this is a post to say my degree's fucking worthless man.
 
-bottom line: i have shit network.
+or maybe i have shit network.
 i asked friends sometimes but hey...
-
 will work for food is what i meant.

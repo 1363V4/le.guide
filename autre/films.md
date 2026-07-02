@@ -29,7 +29,7 @@ layout: post
 - le cinquième élément, a+
 - accident de piano (l'), b
 - dragons, b
-- superman, c
+- superman, d
 - f1, b-
 - dracula, c
 - pris au piège, b+
@@ -47,3 +47,5 @@ layout: post
 - alter ego, b
 - projet dernière chance, a+
 - the drama, b
+- de gaulle 1, a+
+- le vertige, d
