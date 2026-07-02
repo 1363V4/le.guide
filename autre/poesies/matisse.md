@@ -3,7 +3,7 @@ title: matisse
 layout: post
 ---
 
-on mange dans des verres
+on mange avec des verres
 
 dont je demande si la couleur pourrait être plus écaillée
 
@@ -33,6 +33,6 @@ je retourne sur mes pas
 
 matisse as-tu un bleu plus gris
 
-aveugle, aurais-je un noir plus mat
+aveugle aurais-je un noir plus mat
 
 je ne sais pas
