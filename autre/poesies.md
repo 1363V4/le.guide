@@ -41,6 +41,7 @@ layout: post
 - [le jardin](poesies/jardin.md)
 - [le lait](poesies/lait.md)
 - [la maison](poesies/maison.md)
+- [matisse](poesies/matisse.md)
 - [le moineau](poesies/moineau.md)
 - [moteur promis](poesies/moteur_promis.md)
 - [nura danse](poesies/nura_danse.md)

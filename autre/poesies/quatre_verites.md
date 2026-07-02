@@ -32,3 +32,8 @@ layout: post
 - **amour** : avec un doigt, masser l'os nasal et la glabelle en répétant la quatrième vérité
 
 - objectif : yeux, inhiber les réflexes, accepter la bienfaisance
+
+---
+
+la vie est belle parce que c'est du temps avec des gens
+mais tout le temps triste car tout le temps seul
