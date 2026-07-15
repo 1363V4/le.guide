@@ -96,3 +96,17 @@ singe nu lumineux
 
 - ok, prends le pénis
 - 
+
+bon j'ai eu le premier et meilleur et fol amour
+puis la 10 en baise
+en vrai j'ai fait le tour vite
+maintenant à moi d'être aimé
+
+tout le monde va mourir
+m'en fout sauf maman
+mais elle savait, car la sienne aussi
+donc faut être fort
+et les gens, leurs mères meurent aussi
+mais ! faut être homme.
+ami de la mort et de son ennemi le danger
+pas facile
