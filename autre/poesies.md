@@ -42,6 +42,7 @@ layout: post
 - [le lait](poesies/lait.md)
 - [la maison](poesies/maison.md)
 - [mon meilleur ami](poesies/meilleur_ami.md)
+- [matisse](poesies/matisse.md)
 - [le moineau](poesies/moineau.md)
 - [moteur promis](poesies/moteur_promis.md)
 - [nura danse](poesies/nura_danse.md)

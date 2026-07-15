@@ -340,3 +340,12 @@ j'offris ma victoire au bébé.
 
 jeudi 18 décembre.
 six cafés.
+
+---
+
+mardi 30 juin.
+tout cela ne servit à rien.
+il me fut impossible de regarder en moi et d'y voir autre chose
+qu'un mal de noeud de ventre.
+le caractère numérique de ce journal m'empêche de le brûler,
+je jurai que c'était bien dommage.

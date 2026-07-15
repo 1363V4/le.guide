@@ -62,3 +62,31 @@ parce que j'ai encore bloqué à 90% du livre
 
 je veux autant pas finir que l'ia veut commencer
 elle peut pas la fermer
+
+---
+
+c'est bien un ami.
+on peut tout lui raconter.
+on peut lui dire des secrets.
+
+on le sent dans le texte,
+que le petit est obligé de nous dire tout ça
+puisque sa confidente n'est plus.
+
+c'est dommage que tu veuilles plus être mon pote.
+alors je parle à ce blog.
+
+> organiser c'est dur
+mais bon ça peut aller avec la faute dans le texte
+j'ai été déçu.
+
+---
+
+et puis est-ce que j'ai ri ?
+pas vraiment.
+j'ai relu du tom sharpe je n'ai pas ri non plus.
+je relis salvaing : que ça qui marche.
+je devrais retenter desproges.
+pas retrouvé le livre.
+pas eu le temps de chercher bien.
+j'ai pas la vie de vent, moi.
