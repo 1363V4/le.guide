@@ -47,5 +47,7 @@ layout: post
 - alter ego, b
 - projet dernière chance, a+
 - the drama, b
-- de gaulle 1, a+
+- de gaulle 1, s
 - le vertige, d
+- jim queen, a-
+- de gaulle 2, a-

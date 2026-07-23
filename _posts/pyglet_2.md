@@ -69,7 +69,8 @@ let's take an example.
 
 ---
 
-
+Choose the representation from the access pattern, then write the algorithms to fit.
+https://www.arshad.fyi/writings/engineering-high-performance-parsers?ck_subscriber_id=1927730323
 
 
 ---
