@@ -3,13 +3,13 @@ title: la maison
 layout: post
 ---
 
-l'extérieur de la maison est sale
+maison, extérieur sale : des érables
 
-le jardin propre, l'intérieur confortable
+dans un jardin propre, intérieur confortable
 
-dedans, on y cuisine et on y parle
+dedans dedans cuisine et parle
 
-dehors, des papillons déraisonnables
+dehors des hordes déraisonnables
 
 ---
 
@@ -17,7 +17,7 @@ le linge sèche à une échelle
 
 qui pourrait bien monter au ciel
 
-comme nous rappellent les hirondelles
+y chatouiller les hirondelles
 
 un chien aboie sous la tonnelle
 

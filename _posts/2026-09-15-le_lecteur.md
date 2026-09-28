@@ -3,6 +3,9 @@ title: le lecteur
 layout: post
 ---
 
+> - je préfère observer à comprendre, disait phénucianus.
+> - tu commences à lire, lui répondait frater lucius.
+
 ces vacances,
 j'ai découvert une des plus profondes vérités sur moi-même :
 
@@ -59,13 +62,19 @@ fleuve, je suis ta mer.
 
 j'ai découvert ça en lisant _la cybériade_.
 
-car si la plupart des auteurs écrivent pour des raisons étranges
-et inconnues, certains écrivent pour nous.
+car s'il est vrai que la plupart des auteurs écrivent pour des raisons étranges,
+s'il est vrai que la plupart écrivent depuis l'enfer,
+et qu'inconnus sont leurs desseins,
+il est aussi vrai que certains écrivent pour nous.
 
 lem, salvaing, huysmans...
 
 ils viennent à nous les bras chargés de poissons,
 avec un sourire d'animiste.
+
+comme à un fermier qui aime ses poules,
+ses connes de poules qui mangent tout,
+une généreuse poignée de grains.
 
 je les aime plus que tout.
 s'il est vrai que tout homme doive partir en laissant derrière lui
@@ -80,9 +89,16 @@ j'en ai parlé avec ma chérie et elle m'a dit :
 "tu es indulgent avec les gens que tu connais,
 mais critique avec le reste".
 
-elle a raison :
-c'est donc que j'ouvrirais ma familiarité
+serait-ce que "j'ouvre" ma familiarité
 aux auteurs ?
 
+peut-être pas.
+les termes ne sont pas si incompatibles.
+on peut être critique dans une position d'indulgence,
+ou l'inverse.
+ça dépend avec qui.
+
+ou peut-être.
 nous le découvrirons sûrement.
+
 continuons à lire.

@@ -3,7 +3,7 @@ title: le moineau
 layout: post
 ---
 
-au creux de la pierre je regarde désaxé
+dans le creux de la pierre je regarde désaxé
 
 dieu tourner sur lui-même
 
@@ -13,7 +13,7 @@ rayon de cuivre blême
 
 ---
 
-mais la foule en colère m'est venue piétiner
+mais la foule en hurlant m'est venue piétiner
 
 aveuglée par la rage
 

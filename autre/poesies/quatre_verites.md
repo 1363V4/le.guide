@@ -35,5 +35,14 @@ layout: post
 
 ---
 
+plus simplement :
+
+- tête vide
+- coeur calme
+- bouche libre
+- yeux fermés
+
+---
+
 la vie est belle parce que c'est du temps avec des gens
 mais tout le temps triste car tout le temps seul

@@ -1,13 +1,17 @@
 ---
-title: ??
+title: la vie de vent
 layout: post
 ---
+
+le furet du nord avait pas tes camus
+et même pas de salvaing
+misayre
 
 vais faire court car j'ai le temps
 
 happé déjà par la premiere phrase
 
-si on la fait préire à un llm après source de
+si on la fait préire à un llm après "source de"
 oh la la
 
 moi j'étais content que tu sois vivant
@@ -20,10 +24,6 @@ et les animaux
 j'ai des chauve-souris qui tournent le soir devant chez nous
 
 si j'ai du temps cest aussi que ça se bouscule pas au portillon
-
-le furet du nord avait pas tes camus
-et même pas de salvaing
-misayre
 
 ---
 

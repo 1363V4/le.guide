@@ -23,3 +23,7 @@ donc branch prediction facile ? on regarde 64 par 64 ?
 la logique vaut pour 255...
 
 trois
+
+esper
+
+from dataclasses import dataclass as component

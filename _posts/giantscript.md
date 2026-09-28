@@ -1,3 +1,8 @@
+---
+title: giantscript
+layout: post
+---
+
 sorte de brainfuck
 
 12 notes
@@ -26,10 +31,15 @@ attends quoi
 12+7+7 ça fait bien 26
 j'avais bu quoi
 
-donc bon 
+donc bon
 a-l note
 m-s mode
 t-z degré
 
 espace = blanche
 point, virgule = temps
+
+---
+
+ché pu à quoi jpensais mais c bon
+enfin c'est plus simple je veux dire

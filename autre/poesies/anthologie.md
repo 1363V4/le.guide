@@ -4,6 +4,7 @@ layout: post
 ---
 
 - [cassou - sonnet xxxi](anthologie/cassou_sonnet_xxxi.md)
+- [diop - le double](anthologie/double.md)
 - [hugo - à un poète](anthologie/hugo_a_un_poete.md)
 - [hugo - je lisais](anthologie/hugo_je_lisais.md)
 - [hugo - puisque j'ai mis mes lèvres](anthologie/hugo_puisque.md)

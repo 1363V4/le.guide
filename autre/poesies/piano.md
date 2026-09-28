@@ -23,11 +23,11 @@ derrière le nerf un rien s'insère.
 
 ---
 
-comme un ver dans les fruits de l'eden,
+comme un ver dans le fruit de l'eden,
 
 obscure clarté, luciole ébène,
 
-les plantes poussent en pourriture
+des plantes poussent en pourriture
 
 ---
 

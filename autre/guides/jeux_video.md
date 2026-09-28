@@ -1,22 +1,27 @@
 ---
-title: jeux vidéo
+title: video games
 layout: post
 ---
 
-i'm a gamer.
-
-my life started at 8 when my cousin gave me its game boy
+it started around 8,
+when my cousin gave me a game boy
 with super mario bros.
 
-since then i've spent most of my life playing video games,
+since then, i've spent most of my life playing video games,
 or studying them.
 
-here's my grid.
+there's [a cool list on grids.fun](https://grids.fun/t/about-me-video-games-dcefq?list=games)
+that you can do.
 
-non en français j'ai besoin de mots précis.
+here's mine:
+
+![grid](/img/grid.png)
 
 ---
 
+below are my notes to explain my choices.
+
+still a work in progress but i'd love to hear yours!
 
 ---
 
@@ -46,7 +51,7 @@ dragon age/unravel
 pas joué à beaucoup de jeux
 fifa!
 rocket league/brawl starts
-**needs a remake: bgae** 
+**needs a remake: bgae**
 ...
 prince of persia sables du temps/twilight princess
 **criminally overlooked: no more heroes**
