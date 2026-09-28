@@ -3,8 +3,8 @@ title: le lecteur
 layout: post
 ---
 
-> - je préfère observer à comprendre, disait phénucianus.
-> - tu commences à lire, lui répondait frater lucius.
+> — je préfère observer à comprendre, disait phénucianus.
+> — tu commences à lire, lui répondait frater lucius.
 
 ces vacances,
 j'ai découvert une des plus profondes vérités sur moi-même :
