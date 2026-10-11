@@ -5,9 +5,9 @@ layout: post
 
 my job sucks balls.[^1]
 
-[^1]: it does not suck ass *per se*, it's just that it is evil. unapologetically evil.
+[^1]: it does not suck ass _per se_, it's just that it is evil. unapologetically evil.
 
-i've been searching for a job 
+i've been searching for a job
 since i was out of school 6 years ago
 (which was during covid, ok not the best time to job hunt).
 
@@ -23,6 +23,10 @@ this might not be exhaustive,
 i just searched "candidature" on my mail box.
 
 here we go:
+
+september 26
+/ deploy
+/ forward-deployed engineer
 
 march 26
 / sekoia
@@ -116,9 +120,9 @@ older stuff 2021/2020 (i was getting tired):
 - solary
 - payfit
 
-+ a bunch of shit
-through linkedin, welcome or angel list
-(but it doesn't show up in the mail)
+* a bunch of shit
+  through linkedin, welcome or angel list
+  (but it doesn't show up in the mail)
 
 i've also been rejected from "normal" jobs back in the day:
 for example a clothing store
