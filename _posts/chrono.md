@@ -10,13 +10,10 @@ contexte: j'ai beaucoup joué à legends of runeterra (top 100 EUW peak).
 
 les points sont triés par ordre d'importance :
 
-**unités**
-les unités sont beaucoup plus menacantes que dans lor.
-chaque condition d'évolution est une mini-quête dans l'histoire plus globale de la partie.
-beaucoup plus de variables d'ajustement dans l'équilibrage.
-le fait qu'elles puissent lancer des spells sur la pile, c'est particulier.
-
 **histoire**
+un seul bon jeu de cartes, le tarot divinatoire. raconter une histoire avec des cartes.
+un peu peur parce que le nexus se soigne au-délà de 20.
+comme dans magic.
 toujours là. ça m'a pris un peu de temps avant ma première partie serrée,
 mais c'est toujours aussi génial. c'est arrivé sur un mirror discard,
 on a tout les deux bien dansés autour des cartes de l'autre,
@@ -24,6 +21,12 @@ mais les points de vie ont descendus, et c'est l'heure d'abattre sa main,
 de tout jouer dans une dernière attaque, qui si elle échoue sera fatale...
 que c'est bon.
 no infinites, c'est bien.
+
+**unités**
+les unités sont beaucoup plus menacantes que dans lor.
+chaque condition d'évolution est une mini-quête dans l'histoire plus globale de la partie.
+beaucoup plus de variables d'ajustement dans l'équilibrage.
+le fait qu'elles puissent lancer des spells sur la pile, c'est particulier.
 
 **terrain**
 l'autre très belle innovation. absolument génial.
@@ -46,6 +49,9 @@ bravo de déjà l'avoir, chers développeurs !
 et j'aime beaucoup l'idée que ce soit intégrée "ludonarrativement"
 car on la voit en survolant la timeline.
 ce couplage peut être poussé encore plus loin, c'est une super idée !
+
+**vibe**
+tout le truc temporel, trop bien.
 
 **main**
 
