@@ -93,7 +93,8 @@ mais en vrai yugioh
 ...
 premier tomb raider xbox (legends)/zelda tp
 **game everyone should play: lol**
-mix entre jouer aux héros et jouer à chat
+mix entre jouer aux héros et jouer à chat et lancer des trucs
+core human
 ...
 hogwarts legacy/chess
 ---
